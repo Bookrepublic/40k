@@ -1,0 +1,54 @@
+// Variabili per i fragments cover
+@padding-cover: 88px;
+@padding-section: (@padding-cover * 1.5);
+
+.cover_padding {
+  padding-top: ((@padding-cover * 1.5) - @jumbotron-padding) ;
+  padding-bottom: (@padding-cover * 1.5);
+}
+
+.cover_button_padding {
+  padding-top: 0px;
+  padding-bottom: (@padding-cover * 1.5);
+}
+
+.cover {
+  background: #444 url("/static/img/jpeg.jpg");
+  background-size: cover;
+  color: white;
+  text-align: center;
+  padding-top: @padding-cover;
+  padding-bottom: (@padding-cover * 0.6);
+
+  h1 {
+  @media (max-width: @screen-xs-min) {
+  font-size: (@font-size-h1 * 0.8);
+  }
+}
+
+}
+.logo {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.arancio {
+  background: @arancione-40k;
+  color: white;
+  padding-top: @padding-section;
+  padding-bottom: @padding-section;
+}
+
+.verde {
+  background: @verde-40k;
+  color: white;
+  padding-top: @padding-section;
+  padding-bottom: @padding-section;
+}
+
+.white {
+  background: white;
+  color: @gray-dark;
+  padding-top: @padding-section;
+  padding-bottom: @padding-section;
+}

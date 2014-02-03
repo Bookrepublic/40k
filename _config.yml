@@ -1,0 +1,6 @@
+name: 40kbooks
+markdown: redcarpet
+pygments: true
+permalink: pretty
+
+exclude: ['README.md', less]
