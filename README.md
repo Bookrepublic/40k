@@ -7,6 +7,10 @@ Questo documento deve spiegare come installare il nuovo blog 40k.
 Prima considerazione importante: **Jekyll non richiede alcun database**. Questo semplifica di molto il lavoro. Non
 avere il database significa anche questo: **sito più veloce**.
 
+###Installare Xcode
+
+go to Downloads and install Command Line Tools.
+
 ###Installare rvm
 
 Rvm sta per *Ruby Version Manager*. Se dovessimo usare più installazioni Ruby, questa è la risposta. Non è il nostro
