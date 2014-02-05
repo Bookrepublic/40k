@@ -62,8 +62,8 @@ module Jekyll
     end
 
     def render(context)
-      source = @class ? "<figure class='#{@class}'>" : "<figure>"
-      source += "<img src=\"#{@url}\">"
+      source = @class ? "<figure>" : "<figure>"
+      source += "<img class='#{@class}' src=\"#{@url}\">"
       source += "<figcaption>#{@caption}</figcaption>" if @caption
       source += "</figure>"
 

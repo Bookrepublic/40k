@@ -3,18 +3,23 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2014-01-30 19:57:29
 categories: jekyll update
-mamma: ciao_mamma
+cover: /static/img/jpeg.jpg
+author: Matteo Scurati
 ---
 
 ##titolo 2##
 
-{% image /static/img/jpeg.jpg %}
+{% image figresponsive /static/img/jpeg.jpg "Image caption" %}
 
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
 To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
 
-###{{ page.mamma }}###
+<blockquote>
+    <p>Predatori del mondo intero, i Romani, dopo aver devastato tutto, non avendo più terre da saccheggiare, vanno a frugare anche il mare; avidi se il nemico è ricco, smaniosi di dominio se è povero, tali da non essere saziati né dall'Oriente né dall'Occidente, gli unici che bramano con pari veemenza ricchezza e miseria. Distruggere, trucidare, rubare, questo, con falso nome, chiamano impero e là dove hanno fatto il deserto, lo hanno chiamato pace.</p>
+    <footer>Tacito</footer>
+</blockquote>
+
 Jekyll also offers powerful support for code snippets {{page.mamma}}:
 
 {% highlight python %}

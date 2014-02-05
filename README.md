@@ -32,5 +32,5 @@ Ovviamente, [qui trovi tutto](http://jekyllrb.com/). Ma facciamola facile.
 
 E poi
 
-####Dipendenze necessarie
+####Dipendenze necessarie####
 

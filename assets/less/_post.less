@@ -1,10 +1,109 @@
 // Tutto quello che riguarda la pagina di un post
 
 .single_post {
-  h1 {
-    font-size: (@font-size-h1 * 0.8);
-    font-weight: 900;
-    letter-spacing: -0.05em;
-    word-wrap: break-word;
+
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+      font-size: (@font-size-base * 2.00);
+
+  @media (max-width: @screen-md-min) {
+    font-size: (@font-size-base * 1.95);
   }
+  }
+}
+
+h1 {
+  font-weight: 900;
+  letter-spacing: -0.05em;
+  word-wrap: break-word;
+  border: none;
+  padding-bottom: 0px;
+  padding-top: @padding-large-vertical;
+  font-size: (@font-size-base * 3.00);
+
+  @media (max-width: @screen-md-min) {
+    text-align: center;
+    margin: 0px;
+    padding-top: @padding-small-vertical;
+    font-size: (@font-size-base * 2.40);
+  }
+
+}
+
+figure {
+  margin: 0;
+
+  .figresponsive {
+    margin: 10px auto;
+    max-width: 100%;
+    height: auto;
+    padding-bottom: 5px;
+    padding-top: 5px;
+  }
+
+  figcaption {
+    display: block;
+    font-size: 80%; // back to default font-size
+    line-height: @line-height-base;
+    color: @blockquote-small-color;
+    margin-bottom: (@padding-base-vertical * 5);
+
+    &:before {
+      content: '\2014 \00A0'; // em dash, nbsp
+    }
+
+  }
+}
+
+.image_cover {
+  background-size: cover;
+  padding-top: (@padding-cover * 2.5);
+  padding-bottom: (@padding-cover * 2.5);
+  top: 50%;
+  left: 50%;
+}
+
+.meta {
+  @media (max-width: @screen-sm-max) {
+    text-align: center;
+    padding-bottom: 0;
+    padding-top: @padding-small-vertical;
+    margin: 0px;
+    font-size: (@font-size-base * 0.9);
+  }
+}
+
+.author {
+  color: @gray-light;
+
+  h2 {
+    font-size: (@font-size-base * 0.9);
+  }
+
+  p {
+    line-height: (@line-height-base * 0.7);
+  }
+
+}
+
+.small_author {
+
+  img {
+    margin-top: -75px;
+    height: 150px;
+    width: 150px;
+  }
+}
+
+h6 {
+  text-transform: uppercase;
+  font-size: (@font-size-base * 0.9);
+  color: @gray-light;
+}
+
+.share {
+  margin-top: (@padding-large-vertical * 3);
 }
