@@ -6,10 +6,10 @@ Questo documento deve spiegare come installare il nuovo blog 40k.
 
 ```
 Home page
-|
 |__ blog loop
-    |
-    |__ post blog
+|   |__ post blog
+|__ category loop
+    |__ single category
 ```
 
 ##Setup iniziale
