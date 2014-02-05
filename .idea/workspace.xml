@@ -9,9 +9,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efc3e22e-5edc-4a1f-919d-842d74fabff9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/40k.iml" afterPath="$PROJECT_DIR$/.idea/40k.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="40k.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,7 +31,20 @@
     <favorites_list name="40k" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="17" selection-start="148" selection-end="148" vertical-scroll-proportion="0.2614897" vertical-offset="0" max-vertical-offset="840">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -67,6 +78,7 @@
         <option value="$PROJECT_DIR$/_posts/2014-01-30-welcome-to-jekyll.markdown" />
         <option value="$PROJECT_DIR$/_includes/post_social.html" />
         <option value="$PROJECT_DIR$/assets/less/_post.less" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -102,6 +114,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -136,7 +149,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,9 +260,6 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
-      <method />
-    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -272,6 +281,9 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -343,15 +355,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="118" y="128" width="1680" height="778" extended-state="6" />
-    <editor active="false" />
+    <frame x="118" y="128" width="1680" height="778" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23382173" sideWeight="0.0" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23626374" sideWeight="0.0" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -359,11 +371,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29139072" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29139072" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -381,9 +393,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22785486" sideWeight="0.70851064" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -412,44 +424,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/less/variables.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="11" selection-start="306" selection-end="317" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="12570">
-          <folding />
-        </state>
+        <state line="12" column="11" selection-start="306" selection-end="317" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="12570" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_plugins/picture_tab.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3915">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3915" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_plugins/image_tag.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="20" selection-start="548" selection-end="558" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1200">
-          <folding />
-        </state>
+        <state line="24" column="20" selection-start="548" selection-end="558" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1200" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/post_social.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="24" selection-start="91" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="495">
-          <folding />
-        </state>
+        <state line="2" column="24" selection-start="91" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="495" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/less/_timeline.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="125" column="1" selection-start="2609" selection-end="2609" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="1965">
-          <folding />
-        </state>
+        <state line="125" column="1" selection-start="2609" selection-end="2609" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="1965" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/less/bootstrap.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="21" selection-start="1214" selection-end="1214" vertical-scroll-proportion="0.0" vertical-offset="280" max-vertical-offset="915">
-          <folding />
-        </state>
+        <state line="55" column="21" selection-start="1214" selection-end="1214" vertical-scroll-proportion="0.0" vertical-offset="280" max-vertical-offset="915" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/less/type.less">
@@ -494,9 +494,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_plugins/picture_tab.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3915">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3915" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
@@ -513,37 +511,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/less/bootstrap.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="21" selection-start="1214" selection-end="1214" vertical-scroll-proportion="0.85962147" vertical-offset="280" max-vertical-offset="915">
-          <folding />
-        </state>
+        <state line="55" column="21" selection-start="1214" selection-end="1214" vertical-scroll-proportion="0.85962147" vertical-offset="280" max-vertical-offset="915" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/less/_timeline.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="125" column="1" selection-start="2609" selection-end="2609" vertical-scroll-proportion="2.2239747" vertical-offset="465" max-vertical-offset="1965">
-          <folding />
-        </state>
+        <state line="125" column="1" selection-start="2609" selection-end="2609" vertical-scroll-proportion="2.2239747" vertical-offset="465" max-vertical-offset="1965" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/post_social.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="24" selection-start="91" selection-end="96" vertical-scroll-proportion="0.04731861" vertical-offset="0" max-vertical-offset="634">
-          <folding />
-        </state>
+        <state line="2" column="24" selection-start="91" selection-end="96" vertical-scroll-proportion="0.04731861" vertical-offset="0" max-vertical-offset="634" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_plugins/image_tag.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="20" selection-start="548" selection-end="558" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1200">
-          <folding />
-        </state>
+        <state line="24" column="20" selection-start="548" selection-end="558" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1200" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/less/variables.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="11" selection-start="306" selection-end="317" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="12570">
-          <folding />
-        </state>
+        <state line="12" column="11" selection-start="306" selection-end="317" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="12570" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/less/_post.less">
@@ -553,21 +541,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="50" vertical-scroll-proportion="-0.49758455" vertical-offset="309" max-vertical-offset="1815" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="41" selection-start="660" selection-end="660" vertical-scroll-proportion="0.5229794" vertical-offset="0" max-vertical-offset="690">
+        <state line="11" column="17" selection-start="148" selection-end="148" vertical-scroll-proportion="0.2614897" vertical-offset="0" max-vertical-offset="840">
           <folding />
         </state>
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="50" vertical-scroll-proportion="-0.49758455" vertical-offset="309" max-vertical-offset="1815">
-          <folding />
-        </state>
       </provider>
     </entry>
   </component>

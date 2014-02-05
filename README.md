@@ -2,6 +2,16 @@
 
 Questo documento deve spiegare come installare il nuovo blog 40k.
 
+##Obiettivo
+
+```
+Home page
+|
+|__ blog loop
+    |
+    |__ post blog
+```
+
 ##Setup iniziale
 
 Prima considerazione importante: **Jekyll non richiede alcun database**. Questo semplifica di molto il lavoro. Non
