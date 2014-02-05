@@ -67,9 +67,11 @@ figure {
 }
 
 .meta {
+  padding-bottom: @padding-large-vertical * 5;
+
   @media (max-width: @screen-sm-max) {
     text-align: center;
-    padding-bottom: 0;
+    padding-bottom: @padding-base-vertical;
     padding-top: @padding-small-vertical;
     margin: 0px;
     font-size: (@font-size-base * 0.9);
@@ -92,7 +94,7 @@ figure {
 .small_author {
 
   img {
-    margin-top: -75px;
+    margin-top: @padding-large-vertical;
     height: 150px;
     width: 150px;
   }

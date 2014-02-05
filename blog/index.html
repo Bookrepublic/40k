@@ -3,12 +3,17 @@ layout: default
 title: 40k
 ---
 
-<div id="home">
-  <h1>Tutti i post del blog</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-      <p>{{ post.excerpt }}</p>
-    {% endfor %}
-  </ul>
-</div>
+<section class="container-fluid">
+    <div class="col-md-8 col-md-offset-2">
+         <h1>Tutti i post del blog</h1>
+            {% for post in site.posts %}
+              <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                  <span>{{ post.date | date_to_string }}</span> &raquo;
+              {% if post.description %}
+                <p>{{ post.description }}</p>
+                {% else %}
+                <p>{{ post.excerpt }}</p>
+              {% endif %}
+            {% endfor %}
+    </div>
+</section>

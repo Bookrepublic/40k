@@ -9,7 +9,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efc3e22e-5edc-4a1f-919d-842d74fabff9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2014-01-31-secondo_post.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2014-02-01-terzo_post.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/less/_post.less" afterPath="$PROJECT_DIR$/assets/less/_post.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/bootstrap.css" afterPath="$PROJECT_DIR$/assets/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/less/codekit-config.json" afterPath="$PROJECT_DIR$/assets/less/codekit-config.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/index.html" afterPath="$PROJECT_DIR$/blog/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="40k.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,10 +39,52 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="23" selection-start="182" selection-end="182" vertical-scroll-proportion="0.2614897" vertical-offset="0" max-vertical-offset="840">
+            <state line="39" column="21" selection-start="477" selection-end="477" vertical-scroll-proportion="-21.666666" vertical-offset="0" max-vertical-offset="1335">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="68" selection-start="262" selection-end="262" vertical-scroll-proportion="0.31034482" vertical-offset="0" max-vertical-offset="435">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2014-02-01-terzo_post.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2014-02-01-terzo_post.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="3" selection-start="1533" selection-end="1533" vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="615">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_post.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/less/_post.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="96" column="39" selection-start="1664" selection-end="1664" vertical-scroll-proportion="-13.916667" vertical-offset="1106" max-vertical-offset="1740">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2014-01-31-secondo_post.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2014-01-31-secondo_post.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="19" selection-start="36" selection-end="36" vertical-scroll-proportion="-1.1111112" vertical-offset="0" max-vertical-offset="645">
               <folding />
             </state>
           </provider>
@@ -73,19 +122,22 @@
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/assets/less/bootstrap.less" />
         <option value="$PROJECT_DIR$/assets/less/_social.less" />
-        <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/assets/less/type.less" />
         <option value="$PROJECT_DIR$/_posts/2014-01-30-welcome-to-jekyll.markdown" />
         <option value="$PROJECT_DIR$/_includes/post_social.html" />
-        <option value="$PROJECT_DIR$/assets/less/_post.less" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/_posts/2014-02-01-terzo_post.md" />
+        <option value="$PROJECT_DIR$/_posts/2014-01-31-secondo post.md" />
+        <option value="$PROJECT_DIR$/assets/less/_post.less" />
+        <option value="$PROJECT_DIR$/_layouts/post.html" />
+        <option value="$PROJECT_DIR$/blog/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="118" />
     <option name="y" value="128" />
-    <option name="width" value="1680" />
+    <option name="width" value="1372" />
     <option name="height" value="778" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -143,7 +195,67 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="40k" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="40k" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="less" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="40k" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="40k" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="40k" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="40k" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="40k" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="40k" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_layouts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -355,15 +467,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="118" y="128" width="1680" height="778" extended-state="0" />
+    <frame x="118" y="128" width="1372" height="778" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29008746" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23626374" sideWeight="0.0" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29097745" sideWeight="0.0" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -372,7 +485,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29139072" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -424,7 +536,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/less/variables.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="11" selection-start="306" selection-end="317" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="12570" />
+        <state line="12" column="11" selection-start="306" selection-end="317" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="12570">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_plugins/picture_tab.rb">
@@ -444,7 +558,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/less/_timeline.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="125" column="1" selection-start="2609" selection-end="2609" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="1965" />
+        <state line="125" column="1" selection-start="2609" selection-end="2609" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="1965">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/less/bootstrap.less">
@@ -484,22 +600,9 @@
         <state line="5" column="43" selection-start="258" selection-end="258" vertical-scroll-proportion="0.12711865" vertical-offset="0" max-vertical-offset="590" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-01-30-welcome-to-jekyll.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="59" selection-start="229" selection-end="229" vertical-scroll-proportion="0.20245399" vertical-offset="0" max-vertical-offset="815" />
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_plugins/picture_tab.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3915" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="80" selection-start="1038" selection-end="1038" vertical-scroll-proportion="0.47297296" vertical-offset="0" max-vertical-offset="888" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/less/type.less">
@@ -516,7 +619,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/less/_timeline.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="125" column="1" selection-start="2609" selection-end="2609" vertical-scroll-proportion="2.2239747" vertical-offset="465" max-vertical-offset="1965" />
+        <state line="125" column="1" selection-start="2609" selection-end="2609" vertical-scroll-proportion="2.2239747" vertical-offset="465" max-vertical-offset="1965">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/post_social.html">
@@ -531,12 +636,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/less/variables.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="11" selection-start="306" selection-end="317" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="12570" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/less/_post.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="1" selection-start="1386" selection-end="1386" vertical-scroll-proportion="1.3706625" vertical-offset="271" max-vertical-offset="1710">
+        <state line="12" column="11" selection-start="306" selection-end="317" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="12570">
           <folding />
         </state>
       </provider>
@@ -546,14 +646,65 @@
         <state line="0" column="0" selection-start="0" selection-end="50" vertical-scroll-proportion="-0.49758455" vertical-offset="309" max-vertical-offset="1815" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2014-01-30-welcome-to-jekyll.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="23" selection-start="182" selection-end="182" vertical-scroll-proportion="0.2614897" vertical-offset="0" max-vertical-offset="840">
+        <state line="20" column="13" selection-start="0" selection-end="1445" vertical-scroll-proportion="0.46601942" vertical-offset="12" max-vertical-offset="630">
           <folding />
         </state>
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-02-01-terzo_post.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="3" selection-start="1533" selection-end="1533" vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="615">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-01-31-secondo_post.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="19" selection-start="36" selection-end="36" vertical-scroll-proportion="-1.1111112" vertical-offset="0" max-vertical-offset="645">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="21" selection-start="477" selection-end="477" vertical-scroll-proportion="-21.666666" vertical-offset="0" max-vertical-offset="1335">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/less/_post.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="39" selection-start="1664" selection-end="1664" vertical-scroll-proportion="-13.916667" vertical-offset="1106" max-vertical-offset="1740">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="74" selection-start="956" selection-end="956" vertical-scroll-proportion="0.6315789" vertical-offset="165" max-vertical-offset="810">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="68" selection-start="262" selection-end="262" vertical-scroll-proportion="0.31034482" vertical-offset="0" max-vertical-offset="435">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

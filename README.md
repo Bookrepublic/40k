@@ -6,10 +6,43 @@ Questo documento deve spiegare come installare il nuovo blog 40k.
 
 ```
 Home page
+|
 |__ blog loop
-|   |__ post blog
+|  |
+|  |__ post blog
+|
 |__ category loop
-    |__ single category
+|   |
+|   |__ single category
+|
+|__ libri (elenco totale)
+|   |
+|   |__ collana
+|       |
+|       |__ libro songolo
+|
+|__ autori
+|   |
+|   |__ gruppo autori
+|   |
+|   |__ autore singolo
+|
+|__ special
+|
+|__ about
+|   |
+|   |__ la nostra storia
+|   |
+|   |__ vision
+|   |
+|   |__ team
+|   |
+|   |__ dicono di noi
+|
+|__ contattaci
+|
+|__ sei un autore? scrivi
+
 ```
 
 ##Setup iniziale
