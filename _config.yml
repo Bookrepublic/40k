@@ -2,6 +2,7 @@ name: 40kbooks
 markdown: redcarpet
 pygments: true
 permalink: pretty
+baseurl: /
 
 exclude: ['README.md', less]
 
@@ -12,6 +13,14 @@ authors:
     web: http://www.lospaziodellapolitica.com/
     twitter: MatteoScurati
     quote: Vedere tutto, sopportre molto, correggere una cosa per volta
+    google:
+  Daria Bernardoni:
+    display_name:
+    image:
+    web:
+    twitter:
+    quote:
+    google:
 
 picture:
   output: generated

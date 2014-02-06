@@ -1,16 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2014-01-30 19:57:29
-categories: jekyll update
+title:  "Questo è il secondo post"
+date:   2014-01-31 19:57:29
+categories: saggistica
 cover: /static/img/jpeg.jpg
 author: Matteo Scurati
+description: questa è una descrizione. Se la metto, bene. Altrimenti, niente. Altrimenti appare.
 ---
 
-##titolo 2##
+You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
+To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
 
-{% image figresponsive /static/img/jpeg.jpg "Image caption" %}
-
+You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
+To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
 To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
