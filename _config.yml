@@ -8,14 +8,14 @@ exclude: ['README.md', less]
 
 authors:
   Matteo Scurati:
-    display_name: Matt Hackett
+    display_name: Matteo Scurati
     image: /static/author/matteo_scurati.png
     web: http://www.lospaziodellapolitica.com/
     twitter: MatteoScurati
     quote: Vedere tutto, sopportre molto, correggere una cosa per volta
     google:
   Daria Bernardoni:
-    display_name:
+    display_name: Daria Bernardoni
     image:
     web:
     twitter:
@@ -28,48 +28,6 @@ picture:
   presets:
     default:
       attr:
-        class: "post-img"
+        class: "img-responsive"
       source_default:
-        width: "360"
-        height: "771"
-      source_720:
-        width: "720"
-        media: "(min-device-pixel-ratio: 1.5)"
-      source_430:
-        width: "430"
-        media: "(min-width: 360px)"
-      source_860:
-        width: "860"
-        media: "(min-width: 360px) and (min-device-pixel-ratio: 1.5)"
-      source_500:
         width: "500"
-        media: "(min-width: 430px)"
-      source_1000:
-        width: "1000"
-        media: "(min-width: 430px) and (min-device-pixel-ratio: 1.5)"
-      source_640:
-        width: "640"
-        media: "(min-width: 500px)"
-      source_1280:
-        width: "1280"
-        media: "(min-width: 500px) and (min-device-pixel-ratio: 1.5)"
-    articleimg:
-      attr:
-        class: "post-img"
-      source_1200:
-        width: "1200"
-        media: "(min-width: 940px)"
-      source_940:
-        width: "940"
-        media: "(min-width: 780px)"
-      source_780:
-        width: "780"
-        media: "(min-width: 600px)"
-      source_600:
-        width: "600"
-        media: "(min-width: 470px)"
-      source_470:
-        width: "470"
-        media: "(min-width: 360px)"
-      source_default:
-        width: "360"

@@ -3,5 +3,14 @@ layout: default
 ---
 
 <section class="container-fluid">
-    <h1>{{ page.titolo }}</h1>
+    <div class="row">
+        <aside class="col-md-4 col-md-offset-1 col-sm-4 col-sm-offset-1">
+            <img class="img-responsive" src="{{ page.cover }}" alt="" title="">
+        </aside>
+        <article class="col-md-5 col-sm-5">
+            <h1>{{ page.titolo }}</h1>
+            <p>{{ page.content }}</p>
+        </article>
+        <div class="col-md-1"></div>
+    </div>
 </section>
