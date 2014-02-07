@@ -2,7 +2,9 @@
 layout: book
 isbn: 9788865860366
 titolo: La mente accresciuta
-autore: Derrick de Kerckhove
+autore:
+ - Derrick de Kerckhove
+ - Matteo Scurati
 cover: /static/cover/9788865860366.jpg
 category: Essay
 price: 3,99 €
