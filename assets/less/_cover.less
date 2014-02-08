@@ -13,8 +13,11 @@
 }
 
 .cover {
-  background: #444 url("/static/img/jpeg.jpg") no-repeat center center;;
-  background-size: cover;
+  background: #444 url("/static/img/jpeg.jpg") no-repeat center center;
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
   color: white;
   text-align: center;
   padding-top: @padding-cover;
@@ -30,6 +33,27 @@
 .logo {
   margin-left: auto;
   margin-right: auto;
+}
+
+.rosso {
+  background: @rosso-40k;
+  color: white;
+  padding-top: @padding-section;
+  padding-bottom: @padding-section;
+}
+
+.blu {
+  background: @blu-40k;
+  color: white;
+  padding-top: @padding-section;
+  padding-bottom: @padding-section;
+}
+
+.giallo {
+  background: @giallo-40k;
+  color: white;
+  padding-top: @padding-section;
+  padding-bottom: @padding-section;
 }
 
 .arancio {
@@ -51,4 +75,20 @@
   color: @gray-dark;
   padding-top: @padding-section;
   padding-bottom: @padding-section;
+}
+
+img.bg {
+
+  /* Set rules to fill background */
+  min-height: 100%;
+  min-width: 100%;
+  
+  /* Set up proportionate scaling */
+  width: 100%;
+  height: auto;
+  
+  /* Set up positioning */
+  position: fixed;
+  top: 0;
+  left: 0;
 }

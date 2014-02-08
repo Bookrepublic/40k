@@ -4,7 +4,7 @@ layout: default
 
 {% if page.cover %}
 <header class="image_cover img-responsive" style="background: url('{{ page.cover }}') no-repeat center center;
-    background-size: cover;">
+background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
 </header>
 {% endif %}
 
@@ -14,37 +14,39 @@ layout: default
 {% assign author = site.authors[page.author] %}
 
 <section class="container-fluid">
-    <div class="col-md-10 col-md-offset-1">
-        <aside class="col-md-9 hidden-md hidden-lg small_author text-center author">
-            <img src="{{ author.image }}" class="img-circle">
-            <h2>{{ author.display_name }}</h2>
-            <p><small><a href="https://twitter.com/{{ author.twitter }}">@{{ author.twitter }}</a></small></p>
-        </aside>
-        <header class="row">
-            <div class="col-md-9 col-md-offset-2 single_post">
-                <h1>{{ page.title }}</h1>
-            </div>
-        </header>
-        <div class="row">
-            <aside class="col-md-2 hidden-xs hidden-sm author text-center">
-                <img src="{{ author.image }}" class="img-responsive img-circle">
-                <h2>{{ author.display_name }}</h2>
-                {% if author.quote %}<p><small><em>{{ author.quote }}</em></small></p>{% endif %}
-                <p><small><a href="https://twitter.com/{{ author.twitter }}">@{{ author.twitter }}</a></small></p>
-            </aside>
-            <article class="col-md-9">
-                <div class="single_post">
-                    <p class="meta">{{ page.date | date_to_string }} in
-                                    {% for category in site.categories %}
-                                    {{ category | first }}
-                                    {% endfor %} | questo posto è lungo {{ page.content | number_of_words }} parole
-                    </p>
-                    <p>{{ content }}</p>
-                </div>
-            </article>
-        </div>
+  <div class="col-md-10 col-md-offset-1">
+    <aside class="col-md-9 hidden-md hidden-lg small_author text-center author">
+      <img src="{{ author.image }}" class="img-circle">
+      <h2>{{ author.display_name }}</h2>
+      <p><small><a href="https://twitter.com/{{ author.twitter }}">@{{ author.twitter }}</a></small></p>
+    </aside>
+    <header class="row">
+      <div class="col-md-9 col-md-offset-2 single_post">
+        <h1>{{ page.title }}</h1>
+      </div>
+    </header>
+    <div class="row">
+      <aside class="col-md-2 hidden-xs hidden-sm author text-center">
+        <img src="{{ author.image }}" class="img-responsive img-circle">
+        <h2>{{ author.display_name }}</h2>
+        {% if author.quote %}<p><small><em>{{ author.quote }}</em></small></p>{% endif %}
+        <p><small><a href="https://twitter.com/{{ author.twitter }}">@{{ author.twitter }}</a></small></p>
+      </aside>
+      <article class="col-md-9">
+        <div class="single_post">
+          <p class="meta">{{ page.date | date_to_string }} in {{ page.categories | join: ', ' }}
+           | questo posto è lungo {{ page.content | number_of_words }} parole
+         </p>
+         <p>{{ content }}</p>
+       </div>
+     </article>
+   </div>
 
-        {% include post_social.html %}
-
+   <div class="row">
+    <div class="col-md-5 col-md-offset-6 text-right share">
+      {% include post_social.html %}
     </div>
+  </div>
+
+</div>
 </section>

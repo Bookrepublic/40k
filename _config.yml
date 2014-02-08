@@ -3,31 +3,21 @@ markdown: redcarpet
 pygments: true
 permalink: pretty
 baseurl: /
+authorurl: /static/author
 
 exclude: ['README.md', less]
 
 authors:
   Matteo Scurati:
     display_name: Matteo Scurati
-    image: /static/author/matteo_scurati.png
+    image: /static/firme/matteo_scurati.png
     web: http://www.lospaziodellapolitica.com/
     twitter: MatteoScurati
     quote: Vedere tutto, sopportre molto, correggere una cosa per volta
     google:
-  Daria Bernardoni:
-    display_name: Daria Bernardoni
-    image:
-    web:
-    twitter:
-    quote:
-    google:
 
-picture:
-  output: generated
-  markup: "picturefill"
-  presets:
-    default:
-      attr:
-        class: "img-responsive"
-      source_default:
-        width: "500"
+mini_magick:
+    photo-thumbnail:
+        source: static/author/
+        destination: static/author/photo-thumbnail
+        resize: "100x100"

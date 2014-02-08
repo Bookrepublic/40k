@@ -1,6 +1,19 @@
 .two_column {
 
-  margin-top: 10px;
+  .share {
+    margin-top: (@padding-large-vertical * 3);
+
+    h6 {
+      text-transform: uppercase;
+      font-size: (@font-size-base * 0.9);
+      color: @gray-light;
+    }
+  }
+
+  .well {
+  }
+
+  margin-top: (@padding-large-vertical * 4.0);
 
   h1 {
     font-weight: 900;
@@ -22,10 +35,41 @@
     @media (max-width: @screen-sm-min) {
       text-align: center;
       margin: 0px;
-      padding: 0px;
+      padding-top: (@padding-large-vertical * 2.0);
+      padding-bottom: 0px;
       font-size: (@font-size-base * 2.40);
     }
+
   }
+
+  h4 {
+    text-transform: uppercase;
+    font-size: (@font-size-h4 * 0.8);
+  }
+
+  h2,
+  h3 {
+    text-transform: uppercase;
+    color: @gray;
+    font-size: (@font-size-base * 1.3);
+    padding-top: @padding-large-vertical;
+
+    @media (max-width: @screen-sm-max) {
+      text-align: left;
+      margin-bottom: (@padding-large-vertical * 2);
+    }
+
+    @media (max-width: @screen-sm-min) {
+      text-align: center;
+    }
+
+  }
+
+  .media {
+    font-size: (@font-size-base * 0.9);
+  }
+
+}
 
   p {
     @media (max-width: @screen-sm-min) {
@@ -35,17 +79,19 @@
   }
 
   .meta {
+
+    padding-top: (@padding-large-vertical * 3.0);
+
     @media (max-width: @screen-sm-max) {
       text-align: left;
-      padding-bottom: (@padding-large-vertical * 1.0);
+      padding-bottom: (@padding-large-vertical * 3.0);
+      padding-top: (@padding-large-vertical * 3.0);
     }
 
     @media (max-width: @screen-sm-min) {
-      text-align: center;
+      text-align: left;
       margin: 0px;
-      padding-top: (@padding-large-vertical * 1.0);
+      padding-top: (@padding-large-vertical * 3.0);
       padding-bottom: (@padding-large-vertical * 3.0);
     }
-  }
-
   }
