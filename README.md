@@ -81,3 +81,6 @@ E poi
 
 ####Dipendenze necessarie####
 
+gem install mini_magick
+gem install jekyll-minimagick
+
