@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Questo è il terzo post"
+title:  Questo è il terzo post
 date:   2014-02-01 19:57:29
 categories: narrativa
 author: Matteo Scurati

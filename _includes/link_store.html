@@ -1,0 +1,13 @@
+<h2>Ok, lo voglio</h2>
+
+<div class="well">
+{% if page.bookrepublic %}
+    <a href="{{ page.bookrepublic }}" type="button" class="btn btn-primary btn-lg btn-block">
+      <span class="glyphicon glyphicon-heart"></span>
+       Bookrepublic
+    </a>
+{% endif %}
+{% if page.amazon %}
+    <a href="{{ page.amazon }}" type="button" class="btn btn-default btn-lg btn-block">Amazon</a>
+</div>
+{% endif %}

@@ -3,9 +3,10 @@ markdown: redcarpet
 pygments: true
 permalink: pretty
 baseurl: /
-authorurl: /static/author
+authorurl: /static/author/
+coverurl: /static/cover/
 
-exclude: ['README.md', less]
+exclude: ['README.md', less, models]
 
 authors:
   Matteo Scurati:

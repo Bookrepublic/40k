@@ -4,13 +4,16 @@ isbn: 9788865860083
 titolo: Cardanica
 author:
   - Dario Tonani
-cover: /static/cover/9788865860083.jpg
-category: Fiction
+category:
+ - fantascienza
+collana: fiction
 price: 2,99 €
 format: epub
 lang: italiano
 date: 2014-01-30 19:57:29
 state: catalogo
+bookrepublic:
+amazon:
 ---
 
 <blockquote>
