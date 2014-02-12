@@ -29,16 +29,18 @@
   </head>
   <body>
 
+    <script src="/assets/js/jquery.js"></script>
+    <script src="/assets/js/jquery-ui.min.js"></script>
+    <script src="/assets/js/bootstrap.js"></script>
+    <!-- questo mi serve per lo slidemenu -->
+    <script src="/assets/js/jquery.panelslider.js"></script>
+
     {% include slidemenu.html %}
 
     {{ content }}
 
     {% include footer.html %}
 
-    <script src="/assets/js/jquery.js"></script>
-    <script src="/assets/js/bootstrap.js"></script>
-    <!-- questo mi serve per lo slidemenu -->
-    <script src="/assets/js/jquery.panelslider.js"></script>
     <script>
        $('#left-panel-link').panelslider();
        $('#close-panel-bt').click(function() {

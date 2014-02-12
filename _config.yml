@@ -4,7 +4,7 @@ pygments: true
 permalink: pretty
 baseurl: /
 authorurl: /static/author/
-coverurl: /static/cover/
+coverurl: /static/cover/resize
 
 exclude: ['README.md', less, models]
 
@@ -14,7 +14,7 @@ authors:
     image: /static/firme/matteo_scurati.png
     web: http://www.lospaziodellapolitica.com/
     twitter: MatteoScurati
-    quote: Vedere tutto, sopportre molto, correggere una cosa per volta
+    quote: "Vedere tutto, sopportare molto, correggere una cosa per volta"
     google:
 
 mini_magick:
@@ -22,3 +22,11 @@ mini_magick:
         source: static/author/
         destination: static/author/photo-thumbnail
         resize: "100x100"
+    cover-thumbnail:
+        source: static/cover/
+        destination: static/cover/resize
+        resize: "650x910"
+    cover-small:
+        source: static/cover/
+        destination: static/cover/resize/small
+        resize: "300x420"

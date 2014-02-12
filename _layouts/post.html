@@ -15,7 +15,7 @@ background-size: cover; -webkit-background-size: cover; -moz-background-size: co
 
 <section class="container-fluid">
   <div class="col-md-10 col-md-offset-1">
-    <aside class="col-md-9 hidden-md hidden-lg small_author text-center author">
+    <aside class="col-md-9 hidden-md hidden-lg small_author{% if page.cover %}_1{% endif %} text-center author">
       <img src="{{ author.image }}" class="img-circle">
       <h2>{{ author.display_name }}</h2>
       <p><small><a href="https://twitter.com/{{ author.twitter }}">@{{ author.twitter }}</a></small></p>

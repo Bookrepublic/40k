@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-5">
-                <h3>Essays</h3>
+                <h2>{{ include.gruppo }}</h2>
             </div>
             <div class="col-md-7">
                 Prova
@@ -11,4 +11,4 @@
     </div>
 </section>
 
-{% include book_list.html collana=include.gruppo limite=4 %}
+{% include book_list.html collana=include.gruppo %}

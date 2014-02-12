@@ -15,7 +15,8 @@ state:
 bookrepublic:
 amazon:
 drm: Social DRM
-quote: 
+quote:
+cover_image:
 ---
 
 {% if page.quote %}
