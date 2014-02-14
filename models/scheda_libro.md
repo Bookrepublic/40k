@@ -2,6 +2,7 @@
 layout: book
 isbn:
 titolo:
+sottotitolo:
 author:
   - 
 categoria:

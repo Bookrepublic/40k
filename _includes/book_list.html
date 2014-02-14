@@ -1,29 +1,24 @@
 <section class="container">
   <div class="row">
 
-  {% for book in site.pages %}
+  {{ include.collana }}
+  
+  {% for include.collana in site.pages %}
 
-    {% if book.collana == include.collana %}
-
-      {% capture contatore %}{% cycle '1','2','3','4','5' %}{% endcapture %}
-
-      {% if contatore == '5' %}
-
-      {% endif %}
-
-        <div class="col-md-3 col-sm-6">
+<div class="col-md-3 col-sm-6">
           <div class="thumbnail">
-            <img src="{{ site.coverurl }}/small/{{ book.isbn }}.jpg" alt="" class="img-responsive">
+            <a href="{{ book.url }}">
+              <img src="{{ site.coverurl }}/small/{{ book.isbn }}.jpg" alt="" class="img-responsive">
+            </a>
             <div class="caption small_thumb">
-              <h3>{{ book.titolo }}</h3>
-              <p>...</p>
-              <p><a href="#" class="btn btn-primary" role="button">Button</a></p>
+              <h3>{{ book.titolo }}: {{ counter }}</h3>
+              <p>{{ forloop.index }}{{ x }}</p>
+              <p><a href="{{ book.url }}" class="btn btn-primary" role="button">Button</a></p>
             </div>
           </div>
         </div>
 
-    {% endif %}
-  
+        
   {% endfor %}
 
 </div>
