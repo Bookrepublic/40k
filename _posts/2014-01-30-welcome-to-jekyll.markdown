@@ -4,7 +4,7 @@ title:  "Welcome to Jekyll!"
 date:   2014-01-30 19:57:29
 categories: jekyll update
 cover: /static/img/jpeg.jpg
-author: Matteo Scurati
+author: "Matteo Scurati"
 ---
 
 {% image figresponsive /static/img/jpeg.jpg "La descrizione dell'immagine" %}

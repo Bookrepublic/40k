@@ -1,7 +1,7 @@
 ---
 layout: book
 isbn: 9788898001361
-titolo: Manuale di sopravvivenza per single
+title: "Manuale di sopravvivenza per single"
 author:
   - Irene Alcano
 categoria:

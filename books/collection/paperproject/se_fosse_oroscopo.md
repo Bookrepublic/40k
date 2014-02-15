@@ -1,7 +1,7 @@
 ---
 layout: book
 isbn: 9788898001545
-titolo: Se fosse un oroscopo
+title: "Se fosse un oroscopo"
 author:
   - AA. VV.
 categoria:

@@ -1,15 +1,16 @@
-
+{% for autore in site.pages %}
   {% for autori in page.author %}
     {% if autore.nome_completo == autori %}
-    <div class="media meta">
-      <a class="pull-left" href="#">
-          <div class="media-object sixty img-circle" style="background: url('{{ site.authorurl }}/{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg') no-repeat center center; background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
-          </div>
-      </a>
-      <div class="media-body">
-          <h4 class="media-heading">{{ autore.nome_completo }}</h4>
-          {{ autore.meta }}
+      <div class="media meta">
+        <a class="pull-left" href="#">
+            <div class="media-object sixty img-circle" style="background: url('{{ site.authorurl }}/{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg') no-repeat center center; background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
+            </div>
+        </a>
+        <div class="media-body">
+            <h4 class="media-heading">{{ autore.nome_completo }}</h4>
+            {{ autore.meta }}
+        </div>
       </div>
-    </div>
     {% endif %}
   {% endfor %}
+{% endfor %}

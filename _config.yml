@@ -8,6 +8,9 @@ coverurl: /static/cover/resize
 
 exclude: ['README.md', less, models]
 
+lunr_search:
+  excludes: [rss.xml, atom.xml]
+
 authors:
   Matteo Scurati:
     display_name: Matteo Scurati

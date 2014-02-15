@@ -1,7 +1,7 @@
 ---
 layout: book
 isbn: 9788898001392
-titolo: Da Porta Romana al Bernabeu
+title: "Da Porta Romana al Bernabeu"
 author:
   - Stefano Sacchi
 categoria:

@@ -1,7 +1,7 @@
 ---
 layout: book
 isbn: 9788865860366
-titolo: La mente accresciuta
+title: La mente accresciuta
 author:
   - Derrick De Kerckhove
 cover_image:

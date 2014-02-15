@@ -1,24 +1,24 @@
 <section class="container">
   <div class="row">
-
-  {{ include.collana }}
   
-  {% for include.collana in site.pages %}
+  {% for book in site.pages %}
+    {% if book.collana == include.collana %}
 
-<div class="col-md-3 col-sm-6">
-          <div class="thumbnail">
-            <a href="{{ book.url }}">
-              <img src="{{ site.coverurl }}/small/{{ book.isbn }}.jpg" alt="" class="img-responsive">
-            </a>
-            <div class="caption small_thumb">
-              <h3>{{ book.titolo }}: {{ counter }}</h3>
-              <p>{{ forloop.index }}{{ x }}</p>
-              <p><a href="{{ book.url }}" class="btn btn-primary" role="button">Button</a></p>
-            </div>
+      <div class="col-md-3 col-sm-6">
+        <div class="thumbnail">
+          <a href="{{ book.url }}">
+            <img src="{{ site.coverurl }}/small/{{ book.isbn }}.jpg" alt="" class="img-responsive">
+          </a>
+          <div class="caption small_thumb">
+            <h3>{{ book.title }}</h3>
+            <h4>{{ book.sottotitolo }}</h4>
+
+            <p>{{ content }}</p>
           </div>
         </div>
+      </div>
 
-        
+    {% endif %}
   {% endfor %}
 
 </div>

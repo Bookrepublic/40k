@@ -1,11 +1,11 @@
 ---
 layout: book
 isbn:
-titolo:
+title:
 sottotitolo:
 author:
   - 
-categoria:
+categories:
   -
 collana:
 price:

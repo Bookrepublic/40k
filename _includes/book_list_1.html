@@ -1,0 +1,27 @@
+<div class="row">
+  <div>
+    <ul>
+      <li style="width:30%;"><span class="sort" data-sort="titolo">Titolo</span></li>
+      <li style="width:20%;"><span class="sort" data-sort="author">Autori</span></li>
+      <li style="width:20%;"><span class="sort" data-sort="drm">Drm</span></li>
+    </ul>
+  </div>
+  <div class="list">
+  {% for book in site.pages reversed %}
+    {% if book.layout == 'book' and book.collana == include.collana %}
+    <div class="col-md-3 col-sm-6">
+            <div class="thumbnail">
+              <a href="{{ book.url }}">
+                <img src="{{ site.coverurl }}/small/{{ book.isbn }}.jpg" alt="" class="img-responsive">
+              </a>
+              <div class="caption small_thumb">
+                <h3 class="titolo">{{ book.title }}</h3>
+
+                <p class="author">{{ book.author | join:', ' }}</p>
+              </div>
+            </div>
+          </div>
+    {% endif %}
+  {% endfor %}
+  </div>
+</div>

@@ -1,7 +1,7 @@
 ---
 layout: book
 isbn: 9788898001460
-titolo: Mamma e lavoro oggi
+title: "Mamma e lavoro oggi"
 sottotitolo: Le Mompreneurs (Per una migliore conciliazione famiglia-lavoro)
 author:
   - Patrizia Eremita

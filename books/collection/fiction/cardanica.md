@@ -1,7 +1,7 @@
 ---
 layout: book
 isbn: 9788865860083
-titolo: Cardanica
+title: Cardanica
 author:
   - Dario Tonani
 category:

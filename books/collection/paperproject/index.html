@@ -1,0 +1,39 @@
+---
+layout: default
+cover: http://wallchips.com/wp-content/uploads/2013/10/Awesome-Mountain-Scenery-HD-Image.jpg
+color: white
+---
+
+<div id="entry-list">
+
+<header class="image_cover img-responsive" style="background: url('{{ page.cover }}') no-repeat center center;
+    background-size: cover; color: {{ page.color }} !important;">
+    <div class="container-fluid">
+        <div class="col-md-8 col-md-offset-2 single_post">
+            <h1>Paperproject</h1>
+            <p>I libri della collana paper project</p>
+            <input type="text" class="search form-control" placeholder="Search" />
+        </div>
+    </div>
+
+</header>
+
+<section class="container-fluid">
+
+{% include book_list_1.html collana="paperproject" %}
+
+</section>
+
+</div>
+
+
+
+<script type="text/javascript">
+
+var options = {
+  valueNames: ['titolo', 'author', 'drm']
+};
+
+var entryList = new List('entry-list', options);
+
+</script>

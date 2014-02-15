@@ -83,4 +83,4 @@ E poi
 
 gem install mini_magick
 gem install jekyll-minimagick
-
+gem install nokogiri json
