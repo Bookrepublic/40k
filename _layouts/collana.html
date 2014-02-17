@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<div id="entry-list">
+
+<header class="small_image_cover img-responsive" style="background: url('{{ page.cover }}') no-repeat center center;
+    background-size: cover; color: {{ page.color }} !important;">
+    <div class="container-fluid">
+    	<div class="row">
+	        <div class="col-md-8 col-md-offset-2 single_post">
+	            <h1>Paperproject</h1>
+	            <p>{{ content }}</p>
+	            <input type="text" class="search form-control" placeholder="Search" />
+	            <div class="btn-group btn-group-lg btn-group-justified">
+		            <div class="btn-group">
+						<button type="button" class="sort btn btn-default" data-sort="titolo">Ordina per titolo</button>
+					</div>
+					<div class="btn-group">
+						<button type="button" class="sort btn btn-default center" data-sort="aut">Ordina per autore</button>
+					</div>
+				</div>
+	        </div>
+        </div>
+    </div>
+</header>
+
+<section class="container-fluid">
+
+{% include book_list_1.html collana="paperproject" %}
+
+</section>
+
+</div>
+
+<script type="text/javascript">
+
+var options = {
+  valueNames: ['titolo', 'aut', 'drm']
+};
+
+var entryList = new List('entry-list', options);
+
+</script>

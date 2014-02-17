@@ -7,4 +7,11 @@ immagine:
 mini-thumb:
 meta:
 cover_autore:
+twitter:
+facebook:
+instagram:
+pinterest:
+vine:
+google:
 ---
+

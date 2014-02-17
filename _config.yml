@@ -4,6 +4,7 @@ pygments: true
 permalink: pretty
 baseurl: /
 authorurl: /static/author/
+authorurl_thumb: /static/author/photo-thumbnail/
 coverurl: /static/cover/resize
 
 exclude: ['README.md', less, models]

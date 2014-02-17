@@ -17,6 +17,7 @@ bookrepublic:
 amazon:
 drm: Social DRM
 quote:
+meta:
 cover_image:
 ---
 

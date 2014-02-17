@@ -19,6 +19,7 @@ amazon: http://www.amazon.it/Mamma-lavoro-oggi-conciliazione-famiglia-lavoro-ebo
 drm: Social DRM
 quote:
 cover_image:
+meta: "Stanche di un lavoro che vi «incatena» alla scrivania a orari fissi e con riunioni a ore improbabili?"
 ---
 
 {% if page.quote %}

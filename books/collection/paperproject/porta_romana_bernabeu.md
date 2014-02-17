@@ -3,7 +3,7 @@ layout: book
 isbn: 9788898001392
 title: "Da Porta Romana al Bernabeu"
 author:
-  - Stefano Sacchi
+  - Stefano Scacchi
 categoria:
  - sport
 collana: paperproject

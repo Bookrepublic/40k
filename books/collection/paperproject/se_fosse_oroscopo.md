@@ -2,8 +2,7 @@
 layout: book
 isbn: 9788898001545
 title: "Se fosse un oroscopo"
-author:
-  - AA. VV.
+author: "AA.VV."
 categoria:
   - astrologia
 collana: paperproject
@@ -19,11 +18,7 @@ quote:
 cover_image:
 ---
 
-{% if page.cover %}
-<header class="image_cover img-responsive" style="background: url('{{ page.cover_image }}') no-repeat center center;
-background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
-</header>
-{% endif %}
+Chi non ha mai giocato, nemmeno una volta al ritratto cinese, meglio conosciuto come il gioco del se fosse? Da piccini le domande e le risposte sono utili per scoprire soprattutto le proprie caratteristiche, da grandi per fantasticare con gli amici su possibili conquiste e amori.Noi, astro-bloggers di unaparolabuonapertutti.it, abbiamo deciso di giocare al se fosse abbinando personalità e caratteristiche di ogni segno dello zodiaco a vari elementi, così da esaltarne i punti di forza e ironizzarne su quelli deboli: provare per credere, vi riconoscete nelle nostre fantasie astrali?
 
 {% if page.quote %}
 <blockquote>
