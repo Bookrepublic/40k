@@ -1,7 +1,7 @@
 ---
 layout: autore
-nome: Stefano
-cognome: Scacchi
+nome: "Stefano"
+cognome: "Scacchi"
 nome_completo: Stefano Scacchi
 immagine:
 mini-thumb:

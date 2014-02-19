@@ -1,7 +1,7 @@
 ---
 layout: autore
-nome: Dario
-cognome: Tonani
+nome: "Dario"
+cognome: "Tonani"
 nome_completo: Dario Tonani
 immagine: /static/author/dario_tonani.jpg
 mini-thumb: /static/author/photo-thumbnail/dario_tonani.jpg

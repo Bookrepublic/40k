@@ -2,7 +2,36 @@
 layout: default
 ---
 
+{% if page.cover %}
+<header class="image_cover img-responsive hidden-xs" style="background: url('{{ page.cover }}') no-repeat center center;
+background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
+</header>
+{% endif %}
+
 <section class="container-fluid">
-    <h1>{{ page.nome }} {{ page.cognome }}</h1>
-    {{ content }}
+  <div class="row">
+    <div class="text-center col-md-10 col-md-offset-1">
+      <div class="img-circle author_post hidden-xs" style="background: url('{{ site.authorurl }}{{ page.nome | replace:' ','_' | downcase }}_{{ page.cognome | replace:' ','_' | downcase }}.jpg') no-repeat center center; background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; {% if page.cover %} height:150px; width: 150px; margin-top:-75px;{% endif %}">
+      </div>
+      <div class="img-circle author_post visible-xs" style="background: url('{{ site.authorurl }}{{ page.nome | replace:' ','_' | downcase }}_{{ page.cognome | replace:' ','_' | downcase }}.jpg') no-repeat center center; background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
+      </div>
+      <h1>{{ page.nome }} {{ page.cognome }}</h1>
+      <div class="author_meta">
+        {% if page.quote %}
+          <div class="col-md-8 col-md-offset-2">
+            <p>{{ page.quote }}</p>
+          </div>
+        {% endif %}
+          <div class="clearfix"></div>
+          <p>twitter</p>
+          <p>facebook</p>
+          <p>instagram</p>
+      </div>
+    </div>
+  </div>
+  <article class="row">
+    <div class="col-md-10 col-md-offset-1">
+      {{ content }}
+    </div>
+  </article>  
 </section>

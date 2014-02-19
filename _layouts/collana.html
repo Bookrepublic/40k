@@ -10,7 +10,7 @@ layout: default
     	<div class="row">
 	        <div class="col-md-8 col-md-offset-2 single_post">
 	            <h1>Paperproject</h1>
-	            <p>{{ content }}</p>
+	            <p class="single_cover">{{ content }}</p>
 	            <input type="text" class="search form-control" placeholder="Search" />
 	            <div class="btn-group btn-group-lg btn-group-justified">
 		            <div class="btn-group">
@@ -36,7 +36,7 @@ layout: default
 <script type="text/javascript">
 
 var options = {
-  valueNames: ['titolo', 'aut', 'drm']
+  valueNames: ['titolo', 'aut']
 };
 
 var entryList = new List('entry-list', options);

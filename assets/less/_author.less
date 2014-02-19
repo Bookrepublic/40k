@@ -1,0 +1,17 @@
+.author_post {
+	height: 200px;
+	width: 200px;
+	margin: @line-height-computed auto;
+
+	@media (max-width: @screen-sm-max) {
+		height: 150px;
+		width: 150px;
+		margin: (@line-height-computed * 0.9) auto;
+    }
+
+    @media (max-width: @screen-sm-min) {
+		height: 100px;
+		width: 100px;
+		margin: (@line-height-computed * 0.7) auto;
+    }
+}

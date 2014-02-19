@@ -105,3 +105,16 @@ img.bg {
     color: white;
     margin-bottom: (@padding-cover * 0.5);
   }
+
+p.single_cover {
+    font-size: (@font-size-base * 1.2);
+    line-height: (@line-height-base * 1.1);
+    font-weight: 200;
+
+    @media (max-width: @screen-md-min) {
+      text-align: left;
+      margin: 0px;
+      padding-top: @padding-small-vertical;
+      padding-bottom: @padding-large-vertical;
+    }
+  }
