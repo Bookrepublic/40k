@@ -39,7 +39,7 @@
 
 .fixed-height {
   min-height: 420px;
-  max-height: 445px;
+  max-height: 435px;
   overflow: hidden;
 
   @media (max-width: @screen-sm-max) {
@@ -66,12 +66,13 @@
 
 .thumb {
 
- // .small {
-// color: @gray;
-  //  margin-top: 0px;
-  //  font-size: (@font-size-small * 0.8);
-   // padding-top: 0px;
- // }
+  .thumb_center {
+
+    @media (max-width: @screen-sm-max) {
+      text-align: center;
+    }
+
+  }
 
   h1 {
     font-weight: 900;
@@ -90,43 +91,33 @@
     }
   }
 
-  dd {
-    font-size: (@font-size-base * 0.8);
+  // h2 {
+  //   font-size: (@font-size-h2 * 0.4);
+  //   letter-spacing: -0.03em;
+  //   top:300px;
+
+  //   @media (max-width: @screen-sm-max) {
+  //     text-align: center;
+  //     font-size: (@font-size-h2 * 0.4);
+  //     letter-spacing: -0.05em;
+  //     margin-top: @padding-small-vertical; 
+  //   }
+
+  //   @media (max-width: @screen-sm-min) {
+  //     text-align: center;
+  //     font-size: (@font-size-h2 * 0.4);
+  //     letter-spacing: -0.05em;
+  //     margin-top: @padding-small-vertical; 
+  //   }
+  // }
+
+  h3 {
+
+    margin-top: @padding-small-vertical;
+    margin-bottom: @padding-large-vertical;
 
     @media (max-width: @screen-sm-max) {
       text-align: center;
-      font-size: (@font-size-base * 0.7);
-      letter-spacing: -0.05em;
-      margin: 0px;
-    }
-
-    @media (max-width: @screen-sm-min) {
-      text-align: center;
-      margin: 0px;
-      //padding-top: @padding-small-vertical;
-      //padding-bottom: @padding-small-vertical;
-      color: @gray-dark;
-      font-size: (@font-size-base * 0.6);
-    }
-  }
-
-  h2 {
-    font-size: (@font-size-h2 * 0.4);
-    letter-spacing: -0.03em;
-    top:300px;
-
-    @media (max-width: @screen-sm-max) {
-      text-align: center;
-      font-size: (@font-size-h2 * 0.4);
-      letter-spacing: -0.05em;
-      margin-top: @padding-small-vertical; 
-    }
-
-    @media (max-width: @screen-sm-min) {
-      text-align: center;
-      font-size: (@font-size-h2 * 0.3);
-      letter-spacing: -0.05em;
-      margin-top: @padding-small-vertical; 
     }
   }
 }

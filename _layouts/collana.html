@@ -8,9 +8,9 @@ layout: default
     background-size: cover; color: {{ page.color }} !important;">
     <div class="container-fluid">
     	<div class="row">
-	        <div class="col-md-8 col-md-offset-2 single_post">
-	            <h1>Paperproject</h1>
-	            <p class="single_cover">{{ content }}</p>
+	        <div class="col-md-8 col-md-offset-2 single_post resize_to_cover">
+	            <h1>{{ page.collana }}</h1>
+	            <p class="single_cover lead">{{ content }}</p>
 	            <input type="text" class="search form-control" placeholder="Search" />
 	            <div class="btn-group btn-group-lg btn-group-justified">
 		            <div class="btn-group">
@@ -27,7 +27,7 @@ layout: default
 
 <section class="container-fluid">
 
-{% include book_list_1.html collana="paperproject" %}
+{% include book_list_1.html collana=page.collana %}
 
 </section>
 

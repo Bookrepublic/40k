@@ -1,0 +1,95 @@
+.resize {
+
+  h1,h2,h3,h4,h5,h6 {
+
+    font-size: (@font-size-base * 0.9);
+
+    @media (max-width: @screen-sm-max) {
+      text-align: center;
+      font-size: (@font-size-base * 0.8);
+    }
+
+    @media (max-width: @screen-sm-min) {
+      text-align: center;
+      font-size: (@font-size-base * 0.75);
+    }
+
+  }
+
+  dd {
+    font-size: (@font-size-base * 0.8);
+
+    @media (max-width: @screen-sm-max) {
+      text-align: center;
+      font-size: (@font-size-base * 0.7);
+      letter-spacing: -0.05em;
+      margin: 0px;
+    }
+
+    @media (max-width: @screen-sm-min) {
+      text-align: center;
+      margin: 0px;
+      //padding-top: @padding-small-vertical;
+      //padding-bottom: @padding-small-vertical;
+      color: @gray-dark;
+      font-size: (@font-size-base * 0.6);
+    }
+  }
+}
+
+p.very_small {
+  font-size: 70%;
+}
+
+.resize_to_p {
+  p {
+    @media (max-width: @screen-xs-min) {
+    font-size: (@font-size-base * 0.9);
+  }
+  }
+}
+
+.resize_to_cover {
+
+  h1,h2,h3,h4,h5,h6 {
+
+    @media (max-width: @screen-sm-max) {
+    }
+
+    @media (max-width: @screen-sm-min) {
+      text-align: center;
+    }
+
+  }  
+
+  p {
+
+    @media (max-width: @screen-xs-min) {
+    font-size: (@font-size-base * 0.9);
+  }
+  }
+
+  .lead {
+    @media (max-width: @screen-xs-min) {
+    font-size: (@font-size-base * 0.9);
+    }
+  }
+}
+
+//Questi centrano un elemento a seconda della media query
+
+.f-sm-center {
+  p {
+    @media (max-width: @screen-sm-min) {
+    text-align: center;
+    }
+  }
+}
+
+.f-xs-center {
+  p {
+    @media (max-width: @screen-xs-min) {
+    text-align: center;
+    }
+  }
+}

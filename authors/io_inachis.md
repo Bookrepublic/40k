@@ -8,8 +8,8 @@ mini-thumb: /static/author/photo-thumbnail/inachis_io.jpg
 meta: Nessun incontro, anche casuale, è sprecato. E il caso, quanto a lui, o non esiste o se esiste è sopravvalutato.
 cover: http://cdn.tempi.it/wp-content/uploads/2013/05/up.jpeg
 quote: lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-twitter:
-facebook:
+twitter: inachis_io
+facebook: https://www.facebook.com/marco.raga
 instagram:
 ---
 

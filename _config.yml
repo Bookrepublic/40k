@@ -6,6 +6,7 @@ baseurl: /
 authorurl: /static/author/
 authorurl_thumb: /static/author/photo-thumbnail/
 coverurl: /static/cover/resize
+safe: false
 
 exclude: ['README.md', less, models]
 

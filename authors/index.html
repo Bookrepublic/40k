@@ -3,6 +3,28 @@ layout: default
 ---
 
 <div class="container-fluid">
-    <h1>Elenco gli autori</h1>
-    <p>tutti gli autori</p>
+  <div class="row single_post">
+    <div class="col-md-10 col-md-offset-1 double-margin-bottom">
+      <h1>I nostri autori</h1>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1">
+      <div class="row">
+        {% for autore in site.pages | sort:"name"%}
+        {% if autore.layout == 'autore' %}
+        <div class="col-md-2 col-sm-2 col-xs-4 author_fixed_height text-center">
+          <a href="{{ autore.url }}">
+            <div class="img-circle author_list" style="background: url('{{ site.authorurl }}{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg') no-repeat center center; background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
+            </div>
+          </a>
+          <section class="author_meta">
+            <h2><a href="{{ autore.url }}">{{autore.nome }}<br><span class="cognome">{{ autore.cognome }}</span></a></h2>
+          </section>
+        </div>
+        {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
 </div>

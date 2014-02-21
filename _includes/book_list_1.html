@@ -7,19 +7,21 @@
         <a href="{{ book.url }}">
           <img src="{{ site.coverurl }}/small/{{ book.isbn }}.jpg" alt="" class="img-responsive lazy" data-original="img/example.jpg">
         </a>
-        <div class="caption thumb">
-          <h2 class="titolo"><a href="{{ book.url }}">{{ book.title }}</a></h2>
-          <h3 class="small">{{ book.sottotitolo }}</h3>
+        <div class="caption resize thumb">
+          <h2 class="titolo margin_sm"><a href="{{ book.url }}">{{ book.title }}</a></h2>
+          {% if book.sottotitolo %}
+            <h3 class="small">{{ book.sottotitolo }}</h3>
+          {% endif %}
           {% for autore in site.pages %}
             {% for autori in book.author %}
               {% if autore.nome_completo == autori %}
-              <p class="small"><a href="{{ autore.url }}"><span class="aut">{{ autore.cognome }}</span> <span>{{autore.nome }}</span></a></p>
+              <p class="small thumb_center"><em><a href="{{ autore.url }}"><span class="aut">{{ autore.cognome }}</span> <span>{{autore.nome }}</span></a></em></p>
               {% endif %}
             {% endfor %}
           {% endfor %}
 
           {% if book.meta %}
-          <p class="small">{{ book.meta }}</p>
+          <p class="very_small">{{ book.meta }}</p>
           {% endif %}
         </div>
       </div>
