@@ -1,0 +1,34 @@
+---
+author: gg
+date: 2010-12-28 18:21:04+00:00
+layout: post
+slug: sei-mesi-di-40k
+title: Sei mesi di 40k
+categories:
+- News (Ita)
+---
+
+[![Black Swan Kindle Edition](http://www.40kbooks.com/wp-content/uploads/bske.jpg)](http://www.40kbooks.com/?page_id=133&category=13&product_id=3)Ok, non sono proprio sei mesi. Abbiamo debuttato simbolicamente il 30 luglio con [Radiazione](http://www.40kbooks.com/?page_id=133&category=14&product_id=26), [Tranne la Musica](http://www.40kbooks.com/?page_id=133&category=14&product_id=27) e il [Cyborg](http://www.40kbooks.com/?p=1339) ma il vero «esordio» -considerando agosto- possiamo considerare che sia avvenuto a settembre.
+In questi mesi, però, abbiamo imparato sul campo qualcosa che possiamo condividere con gli altri.
+
+Il primo dato importante è che il mercato per gli ebook non è strutturato per vendere ebook. Sembra un paradosso, ma non lo è. L'impostazione generale è costruita su una serie di limiti funzionali che sono tipici della distribuzione del prodotto fisico.  La gestione dei diritti, ad esempio, è territoriale: un editore americano può vendere un libro di Roth solo all'interno dei confini politici degli USA. Mentre i lettori inglesi o di lingua inglese dovranno affidarsi a un editore locale.
+Nel contesto degli ebook, questa situazione appare abbastanza perversa. Intuitivamente possiamo pensare che l'unica discriminante sia la lingua e che se vuoi leggere in italiano puoi comprare libri in italiano, indipendentemente da chi li produce. La realtà dei fatti è che il mondo non è ancora pronto a questa evoluzione delle modalità di acquisto. Se compri un nostro libro su Amazon lo paghi di più (poichè non esiste lo store italiano per gli ebook e Amazon carica i costi di trasferimento) e noi prendiamo la metà delle royalty.  Lo stesso accade se un lettore argentino compra su Amazon [Chehin](http://www.40kbooks.com/?page_id=133&category=14&product_id=31) o se un lettore svedese compra [la Blackburne](http://www.40kbooks.com/?page_id=133&category=7&product_id=43).
+Di fatto noi cerchiamo di dare ebook in lingue diverse su un mercato che non si è ancora adeguato a questa _facilità_ che il digitale prevede.
+
+[![La strategia del cyborg - Thierry Crouzet](http://www.40kbooks.com/wp-content/uploads/strategie-crouzet_It_t.jpg)](http://www.40kbooks.com/?p=1339)In attesa che le strutture logiche evolvano, occorre pianificare qualche correttivo. Per questa ragione nei prossimi mesi entreremo sugli store «regionali» (permettendo ad esempio ai lettori brasiliani di comprare le edizioni nella loro lingua senza spendere di più)  e nel frattempo -sempre per favorire i lettori internazionali- abbiamo deciso di farci carico di parte del problema fissando la conversione euro-dollaro a 1:1 per i titoli non in italiano. Il lettore _in lingua_ rsparmia un 30% che ci accolliamo noi.
+
+Un altro problema che il mercato sta gestendo con complessità (ma che tenderà a semplificarsi col tempo) è l'accesso ai libri e la procedura di acquisto. Si tratta di una operazione semplice se, come nel caso del Kindle, hai un _device_ e resti vincolato ad un solo store. Ma è molto meno semplice se vuoi maggior libertà. Da questo punto di vista Bookrepublic ha fatto un passo avanti importante, collegandosi con [Bluefire](http://itunes.apple.com/it/app/bluefire-reader/id394275498?mt=8) e diventando il primo store internazionale che consente un collegamento all'interno dell'applicazione. Se hai un iPad puoi provare direttamente: Marco spiega tutto [qui](http://blog.bookrepublic.it/2010/12/25/bookrepublic-bluefire-e-lipad/). La cosa è particolarmente utile se vuoi leggere libri con DRM (anche se non è il nostro caso).
+
+[![Cardanica - Dario Tonani](http://www.40kbooks.com/wp-content/uploads/cardanica_it_t.jpg)](http://www.40kbooks.com/?p=1890)Sempre in tema di facilitazioni su cui stiamo lavorando, questa volta per i lettori italiani, è la disponibilità di ebook in formato _.mobi_ per il Kindle direttamente su [Bookrepublic](http://www.bookrepublic.it/). Per evitare il sovrapprezzo di Amazon avevamo sin dall'inizio consentito l'acquisto su Smashwords (che ha tutti i formati e non si fa pagare la consegna), ma in questo modo dovrebbe essere tutto più semplice.
+
+Per gli amanti delle curiosità (in assenza di serie di dati realistiche sul medio periodo), gli store su cui avviene il grosso delle nostre transazioni sono Amazon per il mercato internazionale e [lo store di casa](http://www.bookrepublic.it/) per quello italiano. Gli altri canali internazionali (iBookstore, Barnes&Noble, ecc.) hanno finora portato vendite residuali (e questo sembra rispecchiare un po' i grafici internazionali cui siamo abituati, ma anche un nostro disimpegno relativo su piattaforme che non riteniamo strategiche).
+
+Sempre con  numeri relativi di chi è partito da poco, il nostro _bestseller_ assoluto, al momento, è Black Swan in edizione inglese. Il pubblico italiano degli ebook, che continua a mantenere una predilezione per la saggistica, ha messo al primo posto, testa a testa,[ La Strategia del Cyborg](http://www.40kbooks.com/?p=1339) e [La Fuga Narrativa](http://www.40kbooks.com/?page_id=133&category=7&product_id=29).
+[![Differenti Forme di Magia](http://www.40kbooks.com/wp-content/uploads/40kCompact_i_1_t.jpg)](http://www.40kbooks.com/?p=2756)Per quanto riguarda le novelette sul gradino più alto al momento c'è [Cigno Nero](http://www.40kbooks.com/?page_id=133&category=14&product_id=14), seguito da [Cardanica](http://www.40kbooks.com/?p=1890).
+Per i [Compact](http://www.40kbooks.com/?p=2756) è ancora troppo presto: non sappiamo ancora se e quanto il format -pur essendo più economico- possa piacere. Ma siamo, ovviamente, curiosi di sperimentare.
+
+I post che hanno avuto più _hype_ sono stati quello con [l'intervista di Rhys  a Bruce Sterling](http://www.40kbooks.com/?p=1769) e [Our Brains Naturally Frame Events As Stories](http://www.40kbooks.com/?p=2176).
+
+Si tratta, come dicevo, più che altro di curiosità e di impressioni. Non abbiamo ancora dati significativi (anche e soprattutto come valori assoluti) perchè siamo una giovanissima startup e perchè il mercato sta appena nascendo e -come tutti- non sappiamo bene che forma prenderà. Man mano che impareremo cose nuove, le condivideremo.
+
+Per il resto, abbiamo nuove idee in cantiere e tante cose su cui crescere e fare esperimenti. L'avventura è appena partita e i tuoi feedback sono importanti. Per adesso, dunque, buon anno a tutti voi e alla fine del 2011 proveremo un bilancio vero.

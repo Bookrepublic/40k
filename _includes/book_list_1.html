@@ -15,13 +15,14 @@
           {% for autore in site.pages %}
             {% for autori in book.author %}
               {% if autore.nome_completo == autori %}
-              <p class="small thumb_center"><em><a href="{{ autore.url }}"><span class="aut">{{ autore.cognome }}</span> <span>{{autore.nome }}</span></a></em></p>
+              <p class="small thumb_center no-margin-bottom"><em><a href="{{ autore.url }}"><span class="nome">{{ autore.nome }}</span> <span class="aut">{{autore.cognome }}</span></a></em></p>
               {% endif %}
             {% endfor %}
           {% endfor %}
 
           {% if book.meta %}
-          <p class="very_small">{{ book.meta }}</p>
+          <p class="small thumb_center no-margin-bottom categories">{{ book.categories | join:', ' }}</p>
+          <p class="very_small extra-margin-top descrizione">{{ book.meta }}</p>
           {% endif %}
         </div>
       </div>

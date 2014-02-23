@@ -56,6 +56,36 @@ background-size: cover; -webkit-background-size: cover; -moz-background-size: co
               </a>
             </li>
             {% endif %}
+            {% if page.linkedin %}
+            <li>
+              <a href="{{ page.linkedin }}">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-square-o fa-stack-2x"></i>
+                  <i class="fa fa-linkedin fa-stack-1x"></i>
+                </span>
+              </a>
+            </li>
+            {% endif %}
+            {% if page.web %}
+            <li>
+              <a href="{{ page.web }}">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-square-o fa-stack-2x"></i>
+                  <i class="fa fa-desktop fa-stack-1x"></i>
+                </span>
+              </a>
+            </li>
+            {% endif %}
+            {% if page.pinterest %}
+            <li>
+              <a href="{{ page.pinterest }}">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-square-o fa-stack-2x"></i>
+                  <i class="fa fa-pinterest fa-stack-1x"></i>
+                </span>
+              </a>
+            </li>
+            {% endif %}
           </ul>
         </div>  
       </div>

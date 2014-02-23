@@ -24,59 +24,60 @@ layout: default
           </div>
         </div>
         <div class="visible-xs">
-        <p>
-          <button type="button" class="sort btn btn-default btn-xs btn-block" data-sort="titolo">Titolo</button></p>
-<p>            <button type="button" class="sort btn btn-default btn-xs btn-block" data-sort="aut">Autore</button></p>
-<p>            <button type="button" class="sort btn btn-default btn-xs btn-block" data-sort="data">Data</button></p>
-<p>            <button type="button" class="sort btn btn-default btn-xs btn-block" data-sort="collana">Collana</button>
+          <p>
+            <button type="button" class="sort btn btn-default btn-xs btn-block" data-sort="titolo">Titolo</button></p>
+            <p><button type="button" class="sort btn btn-default btn-xs btn-block" data-sort="aut">Autore</button></p>
+            <p><button type="button" class="sort btn btn-default btn-xs btn-block" data-sort="data">Data</button></p>
+            <p><button type="button" class="sort btn btn-default btn-xs btn-block" data-sort="collana">Collana</button>
             </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="list">
+
+          {% for book in site.pages reversed %}
+          {% if book.layout == 'book' %}
+          <article class="col-md-2 col-sm-3 col-xs-6">
+            <div class="thumbnail fixed-height">
+              <a href="{{ book.url }}">
+                <img class="lazy img-responsive" data-original="{{ site.coverurl }}/small/{{ book.isbn }}.jpg" alt="{{ book.title }}">
+              </a>
+              <div class="caption resize">
+                <h2 class="resize margin_sm">{{ book.title }}</h2>
+                <dl>
+                  <dd>
+
+                    {% for autore in site.pages %}
+                    {% for autori in book.author %}
+                    {% if autore.nome_completo == autori %}
+                    <a href="{{ autore.url }}"><strong>{{ autore.nome }} <span class="aut">{{ autore.cognome }}</span></strong></a>
+                    {% endif %}
+                    {% endfor %}
+                    {% endfor %}
+
+                  </dd>
+                  <dd class="collana"><a href="{{ site.baseurl }}books/collection/{{ book.collana }}">{{ book.collana }}</a></dd>
+                  <dd class="categoria">{{ book.categories | join:', ' }}</dd>
+                  <dd class="data">{{ book.date | date: "%Y"}}</dd>
+                </dl>
+              </div>
+            </div>
+          </article>
+          {% endif %}
+          {% endfor %}
         </div>
       </div>
     </div>
+  </section>
 
-    <div class="row">
-      <div class="list">
+  <script type="text/javascript">
 
-        {% for book in site.pages reversed %}
-        {% if book.layout == 'book' %}
-        <article class="col-md-2 col-sm-3 col-xs-6">
-          <div class="thumbnail fixed-height">
-            <a href="{{ book.url }}">
-              <img class="lazy img-responsive" data-original="{{ site.coverurl }}/small/{{ book.isbn }}.jpg" alt="...">
-            </a>
-            <div class="caption resize">
-              <h2 class="resize margin_sm">{{ book.title }}</h2>
-              <dl>
-                <dd>
+    var options = {
+      valueNames: ['titolo', 'aut', 'collana', 'categoria', 'data']
+    };
 
-                  {% for autore in site.pages %}
-                  {% for autori in book.author %}
-                  {% if autore.nome_completo == autori %}
-                  <a href="{{ autore.url }}"><strong>{{ autore.nome }} <span class="aut">{{ autore.cognome }}</span></strong></a>
-                  {% endif %}
-                  {% endfor %}
-                  {% endfor %}
+    var entryList = new List('entry-list', options);
 
-                </dd>
-                <dd class="collana"><a href="{{ site.baseurl }}books/collection/{{ book.collana }}">{{ book.collana }}</a></dd>
-                <dd class="data">{{ book.date | date: "%Y"}}</dd>
-              </dl>
-            </div>
-          </div>
-        </article>
-        {% endif %}
-        {% endfor %}
-      </div>
-    </div>
-  </div>
-</section>
-
-<script type="text/javascript">
-
-  var options = {
-    valueNames: ['titolo', 'aut', 'data', 'collana']
-  };
-
-  var entryList = new List('entry-list', options);
-
-</script>
+  </script>

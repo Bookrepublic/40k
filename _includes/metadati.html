@@ -1,18 +1,26 @@
 <table class="table table-responsive table-striped">
     <tr>
-        <td>titolo</td>
-        <td>dato</td>
+        <td>ISBN:</td>
+        <td>{{ page.isbn }}</td>
     </tr>
     <tr>
-        <td>titolo</td>
-        <td>dato</td>
+        <td>Categoria:</td>
+        <td>{{ page.categories | join:', ' }}</td>
     </tr>
     <tr>
-        <td>titolo</td>
-        <td>dato</td>
+        <td>Lingua:</td>
+        <td>{{ page.lang }}</td>
     </tr>
     <tr>
-        <td>titolo</td>
-        <td>dato</td>
+        <td>Formato:</td>
+        <td>{{ page.format }}</td>
+    </tr>
+    <tr>
+        <td>Uscito il:</td>
+        <td>{{ page.date | date: "%Y-%m-%d" }}</td>
+    </tr>
+    <tr>
+        <td>Prezzo:</td>
+        <td>{{ page.price }}</td>
     </tr>
 </table>

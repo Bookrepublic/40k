@@ -7,7 +7,7 @@ cover: /static/img/jpeg.jpg
 author: "Matteo Scurati"
 ---
 
-{% image figresponsive /static/img/jpeg.jpg "La descrizione dell'immagine" %}
+{% image imgresponsive jpeg.jpg "La descrizione dell'immagine" %}
 
 ##titolo 2##
 

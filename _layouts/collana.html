@@ -9,9 +9,11 @@ layout: default
     <div class="container-fluid">
     	<div class="row">
 	        <div class="col-md-8 col-md-offset-2 single_post resize_to_cover">
+            <div class="container-fluid">
 	            <h1>{{ page.collana }}</h1>
-	            <p class="single_cover lead">{{ content }}</p>
+	            <p class="lead">{{ content }}</p>
 	            <input type="text" class="search form-control" placeholder="Search" />
+
 	            <div class="btn-group btn-group-lg btn-group-justified">
 		            <div class="btn-group">
 						<button type="button" class="sort btn btn-default" data-sort="titolo">Ordina per titolo</button>
@@ -20,6 +22,7 @@ layout: default
 						<button type="button" class="sort btn btn-default center" data-sort="aut">Ordina per autore</button>
 					</div>
 				</div>
+        </div>
 	        </div>
         </div>
     </div>
@@ -36,7 +39,7 @@ layout: default
 <script type="text/javascript">
 
 var options = {
-  valueNames: ['titolo', 'aut']
+  valueNames: ['titolo', 'aut', 'nome', 'categories', 'descrizione']
 };
 
 var entryList = new List('entry-list', options);

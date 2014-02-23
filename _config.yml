@@ -1,7 +1,9 @@
 name: 40kbooks
 markdown: redcarpet
 pygments: true
-permalink: pretty
+permalink: /blog/:year/:month/:day/:title/
+paginate: 10
+paginate_path: "blog/page:num"
 baseurl: /
 authorurl: /static/author/
 authorurl_thumb: /static/author/photo-thumbnail/
@@ -21,6 +23,27 @@ authors:
     twitter: MatteoScurati
     quote: "Vedere tutto, sopportare molto, correggere una cosa per volta"
     google:
+  Daria Bernardoni:
+    display_name: Daria Bernardoni
+    image: /static/firme/daria_bernardoni.jpg
+    web: http://www.filodaria.it
+    twitter: filodaria
+    quote:
+    google:
+  Sandro Bocchio:
+    display_name: Sandro Bocchio
+    image: /static/firme/sandro_bocchio.jpg
+    twitter: sandrobocchio
+    quote:
+    google:
+
+image:
+  source: static/img/
+  presets:
+    imgresponsive:
+      attr:
+        class: f-post-img-responsive lazy
+        itemprop: image
 
 mini_magick:
     photo-thumbnail:

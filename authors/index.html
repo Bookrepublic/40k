@@ -13,14 +13,12 @@ layout: default
       <div class="row">
         {% for autore in site.pages | sort:"name"%}
         {% if autore.layout == 'autore' %}
-        <div class="col-md-2 col-sm-2 col-xs-4 author_fixed_height text-center">
-          <a href="{{ autore.url }}">
-            <div class="img-circle author_list" style="background: url('{{ site.authorurl }}{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg') no-repeat center center; background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
-            </div>
-          </a>
-          <section class="author_meta">
-            <h2><a href="{{ autore.url }}">{{autore.nome }}<br><span class="cognome">{{ autore.cognome }}</span></a></h2>
-          </section>
+        <div class="col-md-2 col-sm-2 col-xs-4 extra-margin-bottom">
+          <div class="img-thumbnail" style="background: url('{{ site.authorurl }}{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg') no-repeat center center; background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 150px; width: 100%;">
+          </div>
+          <section class="f-paddingtop-h-title resize">
+          <h2><a href="{{ autore.url }}">{{autore.nome }}<br>{{ autore.cognome }}</a></h2>
+        </section>
         </div>
         {% endif %}
         {% endfor %}

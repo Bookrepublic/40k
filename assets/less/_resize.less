@@ -35,6 +35,18 @@
       font-size: (@font-size-base * 0.6);
     }
   }
+
+  ul,ol,li {
+
+    @media (max-width: @screen-sm-max) {
+      font-size: (@font-size-base * 0.9);
+    }
+
+    @media (max-width: @screen-sm-min) {
+      font-size: (@font-size-base * 0.8);
+    }
+
+  }
 }
 
 p.very_small {
@@ -65,14 +77,15 @@ p.very_small {
   p {
 
     @media (max-width: @screen-xs-min) {
-    font-size: (@font-size-base * 0.9);
+    font-size: (@font-size-base * 0.95);
   }
-  }
+  
 
   .lead {
     @media (max-width: @screen-xs-min) {
-    font-size: (@font-size-base * 0.9);
+    font-size: (@font-size-base * 0.95);
     }
+  }
   }
 }
 
@@ -92,4 +105,26 @@ p.very_small {
     text-align: center;
     }
   }
+}
+
+.f-paddingtop-h-title {
+
+  h1,h2,h3,h4,h5,h6 {
+
+    margin-top: @padding-base-vertical;
+
+    @media (max-width: @screen-sm-max) {
+
+      margin-top: @padding-small-vertical;
+
+    }
+
+    @media (max-width: @screen-sm-min) {
+
+      margin-top: @padding-small-vertical;
+
+    }
+
+  }  
+
 }
