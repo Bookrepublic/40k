@@ -57,6 +57,7 @@
 
     {% include slidemenu.html %}
 
+    {% comment %}
     <div id="search">
       <form action="/search" method="get">
         <input type="text" id="search-query" name="q" placeholder="Search" autocomplete="off">
@@ -81,6 +82,7 @@
       {{/entries}}
     </script>
     {% endraw %}
+    {% endcomment %}
 
     {{ content }}
 

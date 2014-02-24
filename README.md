@@ -81,6 +81,7 @@ E poi
 
 ####Dipendenze necessarie####
 
+brew instal imagemagick
 gem install mini_magick
 gem install jekyll-minimagick
 gem install nokogiri json
