@@ -1,7 +1,7 @@
 ---
 layout: autore
 nome: Francesca
-cognome: Amé
+cognome: Ame
 nome_completo: Francesca Amé
 meta: "Vivo a Milano, ma ho nel cuore Leeds, Yorkshire, dove ho studiato per un semestre diventando da allora strenua fan del progetto Erasmus."
 cover_autore:

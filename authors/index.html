@@ -15,7 +15,7 @@ layout: default
         {% if autore.layout == 'autore' %}
         <div class="col-md-2 col-sm-2 col-xs-4 extra-margin-bottom">
           <a href="{{ autore.url }}">
-            <img class="lazy img-circle img-responsive" src="{{ site.authorurl }}{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg" alt="l'autore di 40k in ebook {{ autore.nome_completo }}" title="{{ autore.nome_completo }}">
+            <img class="lazy img-circle img-responsive" data-original="{{ site.authorurl }}{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg" alt="l'autore di 40k in ebook {{ autore.nome_completo }}" title="{{ autore.nome_completo }}">
           </a>
           <section class="f-paddingtop-h-title resize text-center">
           <h2><a href="{{ autore.url }}">{{autore.nome }}<br>{{ autore.cognome }}</a></h2>
