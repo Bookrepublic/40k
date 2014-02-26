@@ -13,7 +13,7 @@ lang: italiano
 date: 2013-11-21 00:00:00
 state: catalogo
 bookrepublic: http://www.bookrepublic.it/book/9788898001361
-amazon: http://www.amazon.it/Manuale-sopravvivenza-single-Irene-Alcano-ebook/dp/B00GTU6DQK/
+kindle: http://www.amazon.it/Manuale-sopravvivenza-single-Irene-Alcano-ebook/dp/B00GTU6DQK/
 drm: Social DRM
 quote:
 cover_image:

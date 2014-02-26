@@ -14,7 +14,7 @@ lang: ita
 date: 2014-02-20
 state: catalogo
 bookrepublic: http://www.bookrepublic.it/book/9788898001514
-amazon: http://www.amazon.it/30-anni-dintorni-cuori-colori-ebook/dp/B00IJX4K2O/
+kindle: http://www.amazon.it/30-anni-dintorni-cuori-colori-ebook/dp/B00IJX4K2O/
 drm: Social DRM
 quote:
 meta: "Sergio vive per la carriera, Carlo non ci pensa proprio a fidanzarsi, vuole solo divertirsi, a differenza di Giorgio che è finalmente riuscito a mettere su casa e famiglia"

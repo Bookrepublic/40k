@@ -13,7 +13,7 @@ lang: ita
 date: 2013-11-23 00:00:00
 state: catalogo
 bookrepublic: http://www.bookrepublic.it/book/9788898001392-da-porta-romana-al-bernabeu/
-amazon: http://www.amazon.it/Da-Porta-Romana-al-Bernabeu-ebook/dp/B00GWF3JC8/
+kindle: http://www.amazon.it/Da-Porta-Romana-al-Bernabeu-ebook/dp/B00GWF3JC8/
 quote:
 cover_image:
 meta: "Chi ama il calcio festeggia due Capodanni ogni anno: il 1° gennaio e il giorno della finale di Coppa Campioni. Sempre nella seconda metà di maggio in una serata nella quale non piove quasi mai e c’è sempre un tramonto magnifico."

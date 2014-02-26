@@ -14,7 +14,7 @@ lang: ita
 date: 2013-11-21
 state: catalogo
 bookrepublic: http://www.bookrepublic.it/book/9788898001378
-amazon: http://www.amazon.it/Lora-della-merenda-preparare-merende-ebook/dp/B00GTU6DR4/
+kindle: http://www.amazon.it/Lora-della-merenda-preparare-merende-ebook/dp/B00GTU6DR4/
 drm: Social DRM
 quote:
 meta: "Questo libro è un piccolo campionario di ricette e di idee, per preparare delle buone merende insieme ai bambini."

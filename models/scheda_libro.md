@@ -14,12 +14,13 @@ lang:
 date:
 state:
 bookrepublic:
-amazon:
+kindle:
 drm: Social DRM
 quote:
 meta:
 cover_image:
 ---
+testo
 
 {% if page.quote %}
 <blockquote>

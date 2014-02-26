@@ -14,7 +14,7 @@ lang: ita
 date: 2013-12-09
 state: catalogo
 bookrepublic: http://www.bookrepublic.it/book/9788898001439
-amazon: http://www.amazon.it/%C3%88-solo-gatto-Elena-Angeli-ebook/dp/B00H79N658/
+kindle: http://www.amazon.it/%C3%88-solo-gatto-Elena-Angeli-ebook/dp/B00H79N658/
 drm: Social DRM
 quote: 
 meta: "Se avete perso un animale da compagnia (che sia un gatto, un cane, un furetto, un pappagallo) sappiate che la vostra sofferenza non è «strana», inusuale o eccessiva"

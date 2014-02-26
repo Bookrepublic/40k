@@ -15,7 +15,7 @@ lang: italiano
 date: 2013-12-19 00:00:00
 state: catalogo
 bookrepublic: http://www.bookrepublic.it/book/9788898001460
-amazon: http://www.amazon.it/Mamma-lavoro-oggi-conciliazione-famiglia-lavoro-ebook/dp/B00HFBPWQO/
+kindle: http://www.amazon.it/Mamma-lavoro-oggi-conciliazione-famiglia-lavoro-ebook/dp/B00HFBPWQO/
 drm: Social DRM
 quote:
 cover_image:

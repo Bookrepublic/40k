@@ -12,7 +12,7 @@ lang: italiano
 date: 2013-11-21 00:00:00
 state: catalogo
 bookrepublic: http://www.bookrepublic.it/book/9788898001545
-amazon: http://www.amazon.it/fosse-oroscopo-astro-bloggers-unaparolabuonapertutti-curato-ebook/dp/B00I46UG1K/
+kindle: http://www.amazon.it/fosse-oroscopo-astro-bloggers-unaparolabuonapertutti-curato-ebook/dp/B00I46UG1K/
 drm: Social DRM
 quote:
 cover_image:

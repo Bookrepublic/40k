@@ -13,7 +13,7 @@ lang: italiano
 date: 2014-01-30 19:57:29
 state: catalogo
 bookrepublic:
-amazon:
+kindle:
 ---
 
 <blockquote>

@@ -14,7 +14,7 @@ lang: ita
 date: 2013-11-27
 state: catalogo
 bookrepublic: http://www.bookrepublic.it/book/9788898001385
-amazon: http://www.amazon.it/La-valigia-dellautore-compagnia-scrittori-ebook/dp/B00GY8Q6MI/
+kindle: http://www.amazon.it/La-valigia-dellautore-compagnia-scrittori-ebook/dp/B00GY8Q6MI/
 drm: Social DRM
 quote:
 meta: "Emilio Salgari diceva che «Un libro è come un viaggio senza la seccatura delle valigie» e lui di viaggi senza bagagli se intendeva" 

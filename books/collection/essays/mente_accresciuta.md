@@ -14,7 +14,7 @@ quote: "It is a widely accepted notion among painters that it does not matter wh
 painted. This is the essence of academism. There is no such thing as good painting about nothing. We assert that only that subject matter is valid which is tragic and timeless. That is why we profess spiritual kinship with primitive and archaic art."
 state: catalogo
 bookrepublic: http://www.bookrepublic.it/book/9788865860366-la-mente-accresciuta/
-amazon: http://www.amazon.it/La-mente-accresciuta-Derrick-Kerckhove-ebook/dp/B004EYTBGC/
+kindle: http://www.amazon.it/La-mente-accresciuta-Derrick-Kerckhove-ebook/dp/B004EYTBGC/
 ---
 
 Come ci stanno cambiando le tecnologie? Come cambiano il rapporto tra noi e il modo in cui pensiamo? Che cos'è la

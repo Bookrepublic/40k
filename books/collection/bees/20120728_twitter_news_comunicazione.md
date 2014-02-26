@@ -16,7 +16,7 @@ categories:
 quote: "Se dite che i social media sono pieni di stupidaggini, state seguendo le persone sbagliate."
 state: catalogo
 bookrepublic: http://www.bookrepublic.it/book/9788898001064-twitter-news-e-comunicazione/
-amazon: http://www.amazon.it/Twitter-news-comunicazione-Barbara-Sgarzi-ebook/dp/B008PVCWY8/
+kindle: http://www.amazon.it/Twitter-news-comunicazione-Barbara-Sgarzi-ebook/dp/B008PVCWY8/
 ---
 
 Ci sono almeno dodici buone ragioni per imparare a usare bene Twitter, soprattutto se vi occupate di comunicazione. E se siete giornalisti, i 140 caratteri sono una grande opportunità. Su Twitter scoprite storie, vi regalate pubblico, incrociate notizie e partecipate al dibattito. Anche nell’informazione del futuro ci sarà sempre bisogno di chi sa verificare le fonti. E siccome il futuro della comunicazione è già adesso, meglio cominciare subito.

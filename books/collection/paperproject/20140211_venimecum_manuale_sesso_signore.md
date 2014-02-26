@@ -14,7 +14,7 @@ lang: italiano
 date: 2014-02-11 00:00:00
 state: catalogo
 bookrepublic: http://www.bookrepublic.it/book/9788898001477-venimecum-manuale-di-sesso-per-signore/
-amazon: http://www.amazon.it/Venimecum-Manuale-sesso-signore-Inachis-ebook/dp/B00ID6OT46/
+kindle: http://www.amazon.it/Venimecum-Manuale-sesso-signore-Inachis-ebook/dp/B00ID6OT46/
 drm: Social DRM
 quote:
 cover_image: /static/img_cover/maja_desnuda.jpg
