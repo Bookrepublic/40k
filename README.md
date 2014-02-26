@@ -85,3 +85,11 @@ brew instal imagemagick
 gem install mini_magick
 gem install jekyll-minimagick
 gem install nokogiri json
+
+###Media query
+
+@media (max-width: @screen-xs-min){  }
+    @media (max-width: @screen-sm-min) and (min-width: (@screen-xs-min + 1)) {  }
+    @media (max-width: @screen-md-min) and (min-width: (@screen-sm-min + 1)) {  }
+    @media (max-width: @screen-lg-min) and (min-width: (@screen-md-min + 1)) {  }
+    @media (min-width: @screen-lg-min) {  }

@@ -1,0 +1,81 @@
+// Classi per il thumb all'interno delle pagine di categoria
+.thumbnail--book-list {
+
+	@media (max-width: @screen-xs-min) {
+		height: 590px;
+	}
+    @media (max-width: @screen-sm-min) and (min-width: (@screen-xs-min + 1)) {
+    	height: 610px;
+    }
+    @media (max-width: @screen-md-min) and (min-width: (@screen-sm-min + 1)) {
+    	height: 630px;
+    }
+    @media (max-width: @screen-lg-min) and (min-width: (@screen-md-min + 1)) {
+		height: 625px;
+    }
+    @media (min-width: @screen-lg-min) {
+    	height: 685px;
+    }
+
+
+	h2 {
+		@media (max-width: @screen-xs-min){ 
+			font-size: (@font-size-h2 * 0.35);
+			text-align: center;
+		 }
+		@media (max-width: @screen-sm-min) and (min-width: (@screen-xs-min + 1)) { 
+			font-size: (@font-size-h2 * 0.35);
+			text-align: center;
+		}
+		@media (max-width: @screen-md-min) and (min-width: (@screen-sm-min + 1)) {
+			font-size: (@font-size-h2 * 0.4);
+		}
+		@media (max-width: @screen-lg-min) and (min-width: (@screen-md-min + 1)) {
+			font-size: (@font-size-h2 * 0.4);
+		}
+		@media (min-width: @screen-lg-min) {
+			font-size: (@font-size-h2 * 0.45);
+		}
+	}
+
+	h3 {
+		@media (max-width: @screen-xs-min){ 
+			font-size: (@font-size-h3 * 0.35);
+			text-align: center;
+		 }
+		@media (max-width: @screen-sm-min) and (min-width: (@screen-xs-min + 1)) { 
+			font-size: (@font-size-h3 * 0.35);
+			text-align: center;
+		}
+		@media (max-width: @screen-md-min) and (min-width: (@screen-sm-min + 1)) {
+			font-size: (@font-size-h3 * 0.4);
+		}
+		@media (max-width: @screen-lg-min) and (min-width: (@screen-md-min + 1)) {
+			font-size: (@font-size-h3 * 0.4);
+		}
+		@media (min-width: @screen-lg-min) {
+			font-size: (@font-size-h3 * 0.45);
+		}
+	}
+
+	p {
+		@media (max-width: @screen-xs-min){ 
+			font-size: (@font-size-h3 * 0.35);
+			text-align: center;
+		}
+		@media (max-width: @screen-sm-min) and (min-width: (@screen-xs-min + 1)) { 
+			font-size: (@font-size-h3 * 0.35);
+			text-align: center;
+		}
+		@media (max-width: @screen-md-min) and (min-width: (@screen-sm-min + 1)) {
+			font-size: (@font-size-h3 * 0.4);
+		}
+		@media (max-width: @screen-lg-min) and (min-width: (@screen-md-min + 1)) {
+			font-size: (@font-size-h3 * 0.4);
+		}
+		@media (min-width: @screen-lg-min) {
+			font-size: (@font-size-h3 * 0.45);
+		}	
+	}
+
+}

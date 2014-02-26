@@ -35,17 +35,18 @@ layout: default
       </div>
 
       <div class="row">
-        <div class="list">
+        <div class="list">        
 
           {% for book in site.pages reversed %}
           {% if book.layout == 'book' %}
+          
           <article class="col-md-2 col-sm-3 col-xs-6">
             <div class="thumbnail fixed-height">
               <a href="{{ book.url }}">
                 <img class="lazy img-responsive" data-original="{{ site.coverurl }}/small/{{ book.isbn }}.jpg" alt="{{ book.title }}">
               </a>
               <div class="caption resize">
-                <h2 class="resize margin_sm">{{ book.title }}</h2>
+                <h2 class="resize margin_sm titolo">{{ book.title }}</h2>
                 <dl>
                   <dd>
 
@@ -58,13 +59,14 @@ layout: default
                     {% endfor %}
 
                   </dd>
-                  <dd class="collana"><a href="{{ site.baseurl }}books/collection/{{ book.collana }}">{{ book.collana }}</a></dd>
+                  <dd><a href="{{ site.baseurl }}books/collection/{{ book.collana }}"><span class="collana">{{ book.collana }}</span></a></dd>
                   <dd class="categoria">{{ book.categories | join:', ' }}</dd>
                   <dd class="data">{{ book.date | date: "%Y"}}</dd>
                 </dl>
               </div>
             </div>
           </article>
+          
           {% endif %}
           {% endfor %}
         </div>

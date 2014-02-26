@@ -1,20 +1,22 @@
 <div>
     <a id="right-panel-link" href="#right-panel" class="logo_menu">
-        40k
+        <i class="fa fa-bars"></i>
     </a>
 </div>
 
 <!-- lo slidemenu a sinistra -->
 <div id="right-panel" class="slidepanel">
-    <button id="close-panel-bt">Close</button>
+    <a href="#">
+      <i class="fa fa-backward" id="close-panel-bt"></i>
+    </a>
     <h2>Left panel</h2>
-    <ul>
-      <li>1</li>
-      <li>2</li>
-      <li>3</li>
-      <li>4</li>
-      <li>5</li>
-    <ul>
-    <p><a href="/books/">Gli ebook</a></p>
-    
+    <ul class="fa-ul">
+      <li><i class="fa-li fa fa-home {% if page.url == '/index.html' %}fa-spin{% endif %}"></i><a href="/">Home</a></li>
+      <li><i class="fa-li fa fa-stack-exchange {% if page.url == '/blog/index.html' %}fa-spin{% endif %}"></i><a href="/blog">Blog</a></li>
+      <li><i class="fa-li fa fa-book {% if page.url == '/books/index.html' %}fa-spin{% endif %}"></i><a href="/books">Ebook</a></li>
+      <li><i class="fa-li fa fa-quote-left {% if page.url == '/books/collection/index.html' %}fa-spin{% endif %}"></i><a href="/books/collections">Collane</a></li>
+      <li><i class="fa-li fa fa-users {% if page.url == '/authors/index.html' %}fa-spin{% endif %}"></i><a href="/authors">Autori</a></li>
+      <li><i class="fa-li fa fa-keyboard-o {% if page.url == '/diventa_autore/index.html' %}fa-spin{% endif %}"></i><a href="/diventa_autore">Diventa autore</a></li>
+      <li><i class="fa-li fa fa-pencil {% if page.url == '/scrivi/index.html' %}fa-spin{% endif %}"></i><a href="/scrivi">Scrivi!</a></li>
+    <ul>    
 </div>
