@@ -9,7 +9,7 @@ collana: essays
 price: 3,99 €
 format: epub
 lang: italiano
-date: 2014-01-30 19:57:29
+date: 2010-12-03 19:57:29
 quote: "It is a widely accepted notion among painters that it does not matter what one paints as long as it is well
 painted. This is the essence of academism. There is no such thing as good painting about nothing. We assert that only that subject matter is valid which is tragic and timeless. That is why we profess spiritual kinship with primitive and archaic art."
 state: catalogo
