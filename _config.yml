@@ -8,6 +8,7 @@ baseurl: /
 authorurl: /static/author/
 authorurl_thumb: /static/author/photo-thumbnail/
 coverurl: /static/cover/resize
+postimageurl: /static/img/
 safe: false
 
 exclude: ['README.md', less, models]
@@ -38,7 +39,7 @@ authors:
     google:
 
 image:
-  source: static/img/
+  source: /static/img/
   presets:
     imgresponsive:
       attr:

@@ -8,17 +8,19 @@ layout: default
       <h1>I nostri autori</h1>
     </div>
   </div>
+
   <div class="row">
     <div class="col-md-10 col-md-offset-1">
       <div class="row">
-        {% for autore in site.pages | sort:"name"%}
+        {% assign sorted_pages = site.pages | sort:"name" %}
+        {% for autore in sorted_pages %}
         {% if autore.layout == 'autore' %}
         <div class="col-md-2 col-sm-2 col-xs-4 extra-margin-bottom">
           <a href="{{ autore.url }}">
             <img class="lazy img-circle img-responsive" data-original="{{ site.authorurl }}{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg" alt="l'autore di 40k in ebook {{ autore.nome_completo }}" title="{{ autore.nome_completo }}">
           </a>
           <section class="f-paddingtop-h-title resize text-center">
-          <h2><a href="{{ autore.url }}">{{autore.nome }}<br>{{ autore.cognome }}</a></h2>
+          <h2><a href="{{ autore.url }}">{{ autore.nome }}<br>{{ autore.cognome }}</a></h2>
         </section>
         </div>
         {% endif %}
