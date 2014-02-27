@@ -1,6 +1,6 @@
 ---
 layout: book
-isbn:
+isbn: 
 title:
 sottotitolo:
 author:
