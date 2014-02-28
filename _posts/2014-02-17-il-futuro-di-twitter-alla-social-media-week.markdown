@@ -6,10 +6,9 @@ slug: il-futuro-di-twitter-alla-social-media-week
 title: "Il futuro di Twitter alla Social Media Week"
 categories:
 - Storie
-cover:
+cover: /static/img/40kbees-1024x864.jpeg
 ---
 
-{% image imgresponsive 40kbees-1024x864.jpeg alt="La nuova collana 40k" %}
 
 È finalmente iniziata la Social Media Week di Milano e quest'anno non ci sono scuse, [tutti gli eventi sono in diretta streaming](http://live.tim.it/smw/it.html).
 

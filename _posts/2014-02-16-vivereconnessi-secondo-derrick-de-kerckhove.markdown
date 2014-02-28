@@ -3,12 +3,11 @@ author: "Daria Bernardoni"
 date: 2014-02-16 16:25:44+00:00
 layout: post
 slug: vivereconnessi-secondo-derrick-de-kerckhove
-title: "#VivereConnessi secondo Derrick de Kerckhove"
+title: "Vivere connessi secondo Derrick de Kerckhove"
 categories:
 - Storie
-cover: /static/img/augmented-dekerckhove_I_ok-712x1024.jpg
+cover: /static/img/ddk_robocop.jpg
 ---
-
 Dal 17 al 21 febbraio Milano sarà la città dei Social Media e del _digital lifestyle_. [Il programma](http://socialmediaweek.us3.list-manage.com/track/click?u=c0152851fb78fb810ad551f4f&id=170d02f2b0&e=fffdabdfb3) è ormai completo: cinque giorni e oltre 50 appuntamenti per approfondire il rapporto tra Social Media e società.
 
 Il tema di quest'anno è _The Future of Now: Vivere Connessi_. Un saggio illuminante per cominciare ad esplorare il modo in cui ci muoviamo nel nuovo mondo della conoscenza è senza dubbio [_La mente accresciuta_](http://www.amazon.it/La-mente-accresciuta-Derrick-Kerckhove-ebook/dp/B004EYTBGC/) di Derrick de Kerckhove.
