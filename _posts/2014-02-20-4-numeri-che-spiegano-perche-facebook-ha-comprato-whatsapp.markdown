@@ -3,17 +3,13 @@ author: "Daria Bernardoni"
 date: 2014-02-20 10:06:28+00:00
 layout: post
 slug: 4-numeri-che-spiegano-perche-facebook-ha-comprato-whatsapp
-title: "4 numeri che spiegano perché Facebook ha comprato WhatsApp"
+title: "Quattro numeri che spiegano perché Facebook ha comprato WhatsApp"
 categories:
 - Storie
-image:
-  - url: static/img/mark_zuckemberg_annuncio.png
-    caption: "L'annuncio di Marck su Facebook"
-    alt: "Mark ha comprato Whatsapp"
+cover: /static/img/social.jpg
 
 ---
 
-{% figure_img img-responsive 0 caption %}
 
 Facebook annuncia a sorpresa di aver comprato il sistema di messaggeria più famoso al mondo, WhatsApp, per 19 miliardi di dollari (13,8 miliardi di euro). Secondo [Sequoia Capital](http://sequoiacapital.tumblr.com/post/77211282835/four-numbers-that-explain-why-facebook-acquired) quattro numeri spiegano perché:
 
@@ -27,5 +23,5 @@ Facebook annuncia a sorpresa di aver comprato il sistema di messaggeria più fam
 
 via [Sequoia Capital](http://sequoiacapital.tumblr.com/post/77211282835/four-numbers-that-explain-why-facebook-acquired).
 
-{% image imgresponsive facebook_whatsapp.jpg alt="Solo quattro numeri per Whatsapp" %}
+
 <figcaption></figcaption>
