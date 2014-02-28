@@ -37,8 +37,8 @@ layout: default
       <div class="row">
         <div class="list">
 
-          {% assign sorted_pages = site.pages | sort:"name" %}
-          {% for book in sorted.pages %}
+          {% assign order_page = site.pages | sort:"name" %}
+          {% for book in order_page reversed %}
           {% if book.layout == 'book' %}
 
           <article class="col-md-2 col-sm-3 col-xs-6">
