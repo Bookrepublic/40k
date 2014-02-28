@@ -10,6 +10,7 @@ image:
   - url: static/img/mark_zuckemberg_annuncio.png
     caption: "L'annuncio di Marck su Facebook"
     alt: "Mark ha comprato Whatsapp"
+
 ---
 
 {% figure_img img-responsive 0 caption %}
