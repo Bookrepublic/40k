@@ -10,7 +10,7 @@
 
 .f-margin-top {
 
-	@media (max-width: @screen-xs-min){ 
+	@media (max-width: @screen-xs-min){
 		margin-top: @padding-xs-vertical;
 	}
 	@media (max-width: @screen-sm-min) and (min-width: (@screen-xs-min + 1)) {
@@ -25,12 +25,12 @@
     @media (min-width: @screen-lg-min) {
     	margin-top: @padding-large-vertical;
     }
-		
+
 }
 
 .f-margin-bottom {
 
-	@media (max-width: @screen-xs-min){ 
+	@media (max-width: @screen-xs-min){
 		margin-bottom: @padding-xs-vertical;
 	}
 
@@ -46,7 +46,7 @@
     @media (min-width: @screen-lg-min) {
     	margin-top: @padding-large-vertical;
     }
-		
+
 }
 
 // Padding
@@ -55,11 +55,23 @@
 	padding: 0;
 }
 
+.f-no-padding-top {
+	padding-top: 0px !important;
+}
+
+.f-extra-padding-right {
+	padding-right: 10px;
+}
+
+.f-extra-padding-left {
+	padding-left: 10px;
+}
+
 // Text alignement
 
 .f-text-center-media {
 
-	@media (max-width: @screen-xs-min){ 
+	@media (max-width: @screen-xs-min){
 		text-align: center;
 	}
 
@@ -72,6 +84,15 @@
 	}
     @media (min-width: @screen-lg-min) {
     }
+
+}
+
+.f-text-center-to-justify {
+
+	@media (max-width: @screen-sm-min) and (min-width: (@screen-xs-min + 1)) { text-align: justify; word-wrap:break-word; }
+    @media (max-width: @screen-md-min) and (min-width: (@screen-sm-min + 1)) { text-align: center; }
+    @media (max-width: @screen-lg-min) and (min-width: (@screen-md-min + 1)) { text-align: center; }
+    @media (min-width: @screen-lg-min) { text-align: center; }
 
 }
 
