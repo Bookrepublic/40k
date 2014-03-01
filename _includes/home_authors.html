@@ -1,25 +1,104 @@
 <section class="container cover_padding">
-    <div class="row extra-margin-bottom">
-        <div class="col-md-3 col-sm-6 text-center">
-            <img src="http://placehold.it/300x300" alt="" class="img-circle img-responsive">
-            <h3>Nome Cognome</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-        </div>
-        <div class="col-md-3 col-sm-6 text-center">
-            <img src="http://placehold.it/300x300" alt="" class="img-circle img-responsive">
-            <h3>Nome Cognome</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-        </div>
-        <div class="col-md-3 col-sm-6 text-center">
-            <img src="http://placehold.it/300x300" alt="" class="img-circle img-responsive">
-            <h3>Nome Cognome</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-        </div>
-        <div class="col-md-3 col-sm-6 text-center">
-            <img src="http://placehold.it/300x300" alt="" class="img-circle img-responsive">
-            <h3>Nome Cognome</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-        </div>
+    <div class="row">
+        {% for autore in site.pages %}
+            {% if autore.nome_completo == page.autore1 %}
+            <div class="col-md-3 col-sm-6 col-xs-6 text-center extra-margin-bottom">
+                <a href="{{ autore.url }}">
+                    <img src="{{ site.authorurl }}/{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg" alt="" class="img-circle img-responsive">
+                </a>
+                <h3><a href="{{ autore.url }}">{{ autore.nome }}<br>{{ autore.cognome }}</a></h3>
+                <p class="hidden-xs">{{ autore.meta }}</p>
+            </div>
+            {% endif %}
+        {% endfor %}
+        {% for autore in site.pages %}
+            {% if autore.nome_completo == page.autore1 %}
+            <div class="col-md-3 col-sm-6 col-xs-6 text-center extra-margin-bottom">
+                <a href="{{ autore.url }}">
+                    <img src="{{ site.authorurl }}/{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg" alt="" class="img-circle img-responsive">
+                </a>
+                <h3><a href="{{ autore.url }}">{{ autore.nome }}<br>{{ autore.cognome }}</a></h3>
+                <p class="hidden-xs">{{ autore.meta }}</p>
+            </div>
+            {% endif %}
+        {% endfor %}
+
+        <div class="clearfix visible-sm visible-xs"></div>
+
+        {% for autore in site.pages %}
+            {% if autore.nome_completo == page.autore1 %}
+            <div class="col-md-3 col-sm-6 col-xs-6 text-center extra-margin-bottom">
+                <a href="{{ autore.url }}">
+                    <img src="{{ site.authorurl }}/{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg" alt="" class="img-circle img-responsive">
+                </a>
+                <h3><a href="{{ autore.url }}">{{ autore.nome }}<br>{{ autore.cognome }}</a></h3>
+                <p class="hidden-xs">{{ autore.meta }}</p>
+            </div>
+            {% endif %}
+        {% endfor %}
+        {% for autore in site.pages %}
+            {% if autore.nome_completo == page.autore1 %}
+            <div class="col-md-3 col-sm-6 col-xs-6 text-center extra-margin-bottom">
+                <a href="{{ autore.url }}">
+                    <img src="{{ site.authorurl }}/{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg" alt="" class="img-circle img-responsive">
+                </a>
+                <h3><a href="{{ autore.url }}">{{ autore.nome }}<br>{{ autore.cognome }}</a></h3>
+                <p class="hidden-xs">{{ autore.meta }}</p>
+            </div>
+            {% endif %}
+        {% endfor %}
+
+    </div>
+    <div class="row">
+        
+        {% for autore in site.pages %}
+            {% if autore.nome_completo == page.autore1 %}
+            <div class="col-md-3 col-sm-6 col-xs-6 text-center extra-margin-bottom">
+                <a href="{{ autore.url }}">
+                    <img src="{{ site.authorurl }}/{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg" alt="" class="img-circle img-responsive">
+                </a>
+                <h3><a href="{{ autore.url }}">{{ autore.nome }}<br>{{ autore.cognome }}</a></h3>
+                <p class="hidden-xs">{{ autore.meta }}</p>
+            </div>
+            {% endif %}
+        {% endfor %}
+        {% for autore in site.pages %}
+            {% if autore.nome_completo == page.autore1 %}
+            <div class="col-md-3 col-sm-6 col-xs-6 text-center extra-margin-bottom">
+                <a href="{{ autore.url }}">
+                    <img src="{{ site.authorurl }}/{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg" alt="" class="img-circle img-responsive">
+                </a>
+                <h3><a href="{{ autore.url }}">{{ autore.nome }}<br>{{ autore.cognome }}</a></h3>
+                <p class="hidden-xs">{{ autore.meta }}</p>
+            </div>
+            {% endif %}
+        {% endfor %}
+
+        <div class="clearfix visible-sm visible-xs"></div>
+
+        {% for autore in site.pages %}
+            {% if autore.nome_completo == page.autore1 %}
+            <div class="col-md-3 col-sm-6 col-xs-6 text-center extra-margin-bottom">
+                <a href="{{ autore.url }}">
+                    <img src="{{ site.authorurl }}/{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg" alt="" class="img-circle img-responsive">
+                </a>
+                <h3><a href="{{ autore.url }}">{{ autore.nome }}<br>{{ autore.cognome }}</a></h3>
+                <p class="hidden-xs">{{ autore.meta }}</p>
+            </div>
+            {% endif %}
+        {% endfor %}
+        {% for autore in site.pages %}
+            {% if autore.nome_completo == page.autore1 %}
+            <div class="col-md-3 col-sm-6 col-xs-6 text-center extra-margin-bottom">
+                <a href="{{ autore.url }}">
+                    <img src="{{ site.authorurl }}/{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg" alt="" class="img-circle img-responsive">
+                </a>
+                <h3><a href="{{ autore.url }}">{{ autore.nome }}<br>{{ autore.cognome }}</a></h3>
+                <p class="hidden-xs">{{ autore.meta }}</p>
+            </div>
+            {% endif %}
+        {% endfor %}
+        
     </div>
 </section>
 
