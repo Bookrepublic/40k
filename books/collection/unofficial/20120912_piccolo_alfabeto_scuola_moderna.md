@@ -17,7 +17,7 @@ bookrepublic: http://www.bookrepublic.it/book/9788898001149-piccolo-alfabeto-del
 kindle: http://www.amazon.it/Piccolo-alfabeto-della-scuola-moderna-ebook/dp/B00ALIRL58/
 drm: Social DRM
 quote: "Descrivere la scuola moderna in due parole non si può. Ce ne vogliono almeno 21, in ordine alfabetico."
-meta: "Dalla A di alunni alla Z di zen, piccola enciclopedia della scuola moderna."
+meta: "Dalla A di alunni alla Z di zen, piccolo alfabeto della scuola moderna."
 cover_image:
 ---
 Descrivere la scuola moderna in due parole non si può. Meglio usarle tutte, quelle a disposizione. Si comincia dalla materia prima, gli Alunni: svagati, distratti, con gusti musicali orribili e tagli di capelli dalle geometrie strambe. Per tutto il resto, procediamo in ordine alfabetico: scoprirete che la scuola moderna è un mix di dedizione, personaggi strani, paradossi e un necessario sforzo zen.
