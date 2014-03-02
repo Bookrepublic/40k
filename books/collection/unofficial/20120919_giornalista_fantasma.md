@@ -1,7 +1,7 @@
 ---
 layout: book
 isbn: 9788898001071
-title: Il giornalista fantasma
+title: "Il giornalista fantasma"
 sottotitolo:
 author:
   - Carlo Felice Dalla Pasqua

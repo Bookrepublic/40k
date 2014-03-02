@@ -1,7 +1,7 @@
 ---
 layout: book
 isbn: 9788898001149
-title: Piccolo alfabeto della scuola moderna
+title: "Piccolo alfabeto della scuola moderna"
 sottotitolo:
 author:
   - Mariangela Vaglio

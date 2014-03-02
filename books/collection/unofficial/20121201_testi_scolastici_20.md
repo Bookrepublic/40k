@@ -1,7 +1,7 @@
 ---
 layout: book
 isbn: 9788898001118
-title: Testi scolastici 2.0
+title: "Testi scolastici 2.0"
 sottotitolo:
 author:
   - Emanuela Zibordi

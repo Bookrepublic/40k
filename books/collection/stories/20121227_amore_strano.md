@@ -1,12 +1,12 @@
 ---
 layout: book
 isbn: 9788865866337
-title: L'amore è strano
+title: "L'amore è strano"
 author:
   - Bruce Sterling
 categories:
  - fantascienza
-collana: fiction
+collana: stories
 price: 6,99 €
 format: epub
 lang: italiano

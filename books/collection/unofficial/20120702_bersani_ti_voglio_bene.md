@@ -1,7 +1,7 @@
 ---
 layout: book
 isbn: 9788898001002
-title: Bersani ti voglio bene
+title: "Bersani ti voglio bene"
 sottotitolo:
 author:
   - Alessandro Gilioli

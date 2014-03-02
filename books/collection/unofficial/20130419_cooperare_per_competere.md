@@ -1,7 +1,7 @@
 ---
 layout: book
-isbn: 
-title: Cooperare per competere
+isbn: 9788898001231
+title: "Cooperare per competere"
 sottotitolo: Generare valore sociale
 author:
   - Paolo Venturi

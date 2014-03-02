@@ -1,7 +1,7 @@
 ---
 layout: book
 isbn: 9788898001125
-title: Non-luogo Apple
+title: "Non-luogo Apple"
 sottotitolo:
 author:
   - Antonio Dini

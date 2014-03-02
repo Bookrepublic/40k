@@ -1,7 +1,7 @@
 ---
 layout: book
 isbn: 9788898001163
-title: Enigma Grillo
+title: "Enigma Grillo"
 sottotitolo:
 author:
   - Alessandro Lanni 

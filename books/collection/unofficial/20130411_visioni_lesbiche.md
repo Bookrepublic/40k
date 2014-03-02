@@ -1,7 +1,7 @@
 ---
 layout: book
 isbn: 9788898001200
-title: Visioni lesbiche
+title: "Visioni lesbiche"
 sottotitolo:
 author:
   - Federica Fabbiani

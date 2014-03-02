@@ -1,7 +1,7 @@
 ---
 layout: book
 isbn: 9788898001187
-title: Manuale per viaggiatori solitari
+title: "Manuale per viaggiatori solitari"
 sottotitolo:
 author:
   - Virginia Fiume

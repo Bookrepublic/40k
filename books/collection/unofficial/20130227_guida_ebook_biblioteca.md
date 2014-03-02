@@ -1,7 +1,7 @@
 ---
 layout: book
 isbn: 9788898001170
-title: Guida agli ebook in biblioteca
+title: "Guida agli ebook in biblioteca"
 sottotitolo:
 author:
   - Luciana Cumino

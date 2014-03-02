@@ -1,7 +1,7 @@
 ---
 layout: book
 isbn: 9788898001019
-title: Diario di una battutista
+title: "Diario di una battutista"
 sottotitolo:
 author:
   - Lia Celi

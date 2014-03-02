@@ -1,7 +1,7 @@
 ---
 layout: book
 isbn: 9788898001255
-title: Manuale per viaggiare a piedi
+title: "Manuale per viaggiare a piedi"
 sottotitolo:
 author:
   - Giovanna Malfiori 

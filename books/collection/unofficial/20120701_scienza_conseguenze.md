@@ -1,7 +1,7 @@
 ---
 layout: book
 isbn: 9788898001026
-title: Scienza delle conseguenze
+title: "Scienza delle conseguenze"
 sottotitolo:
 author:
   - Luca De Biase
