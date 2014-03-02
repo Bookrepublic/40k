@@ -1,0 +1,40 @@
+.benvenuto__logo_iniziale {
+    position: relative;
+    top: 100px;
+    z-index: 1000;
+
+    @media (max-width: @screen-xs-min) {
+        margin: -55px auto 0 auto;
+    }
+    @media (max-width: @screen-sm-min) and (min-width: (@screen-xs-min + 1)) {
+        margin: -50px auto 0 auto;
+    }
+    @media (max-width: @screen-md-min) and (min-width: (@screen-sm-min + 1)) {
+        margin: -55px auto 0 auto;
+    }
+    @media (max-width: @screen-lg-min) and (min-width: (@screen-md-min + 1)) {
+        margin: -35px auto 0 auto;
+    }
+    @media (min-width: @screen-lg-min) {
+        margin: -35px auto 0 auto;
+    }
+
+}
+
+.benvenuto--testi {
+
+	@media (max-width: @screen-xs-min){
+		padding-top: 40px;
+		text-align: left !important;
+	}
+    @media (max-width: @screen-sm-min) and (min-width: (@screen-xs-min + 1)) {
+    	padding-top: 40px;
+		text-align: left !important;
+    }
+    @media (max-width: @screen-md-min) and (min-width: (@screen-sm-min + 1)) {
+    	padding-top: 40px;
+		text-align: left !important;
+    }
+    @media (max-width: @screen-lg-min) and (min-width: (@screen-md-min + 1)) {  }
+    @media (min-width: @screen-lg-min) {  }
+}

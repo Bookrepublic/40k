@@ -41,10 +41,71 @@
 		margin-bottom: @padding-base-vertical;
 	}
 	@media (max-width: @screen-lg-min) and (min-width: (@screen-md-min + 1)) {
-		margin-top: @padding-large-vertical;
+		margin-bottom: @padding-large-vertical;
 	}
     @media (min-width: @screen-lg-min) {
-    	margin-top: @padding-large-vertical;
+    	margin-bottom: @padding-large-vertical;
+    }
+
+}
+
+.f5x-margin-top {
+
+	@media (max-width: @screen-xs-min){
+		margin-top: (@padding-xs-vertical * 5);
+	}
+	@media (max-width: @screen-sm-min) and (min-width: (@screen-xs-min + 1)) {
+		margin-top: (@padding-small-vertical * 5);
+	}
+	@media (max-width: @screen-md-min) and (min-width: (@screen-sm-min + 1)) {
+		margin-top: (@padding-base-vertical * 5);
+	}
+	@media (max-width: @screen-lg-min) and (min-width: (@screen-md-min + 1)) {
+		margin-top: (@padding-large-vertical * 5);
+	}
+    @media (min-width: @screen-lg-min) {
+    	margin-top: (@padding-large-vertical  * 5);
+    }
+
+}
+
+.f10x-margin-top {
+
+	@media (max-width: @screen-xs-min){
+		margin-top: (@padding-xs-vertical * 5);
+	}
+	@media (max-width: @screen-sm-min) and (min-width: (@screen-xs-min + 1)) {
+		margin-top: (@padding-small-vertical * 5);
+	}
+	@media (max-width: @screen-md-min) and (min-width: (@screen-sm-min + 1)) {
+		margin-top: (@padding-base-vertical * 5);
+	}
+	@media (max-width: @screen-lg-min) and (min-width: (@screen-md-min + 1)) {
+		margin-top: (@padding-large-vertical * 5);
+	}
+    @media (min-width: @screen-lg-min) {
+    	margin-top: (@padding-large-vertical  * 5);
+    }
+
+}
+
+.f10x-margin-bottom {
+
+	@media (max-width: @screen-xs-min){
+		margin-bottom: (@padding-xs-vertical * 10);
+	}
+
+	@media (max-width: @screen-sm-min) and (min-width: (@screen-xs-min + 1)) {
+		margin-bottom: (@padding-small-vertical * 10);
+	}
+	@media (max-width: @screen-md-min) and (min-width: (@screen-sm-min + 1)) {
+		margin-bottom: (@padding-base-vertical * 10);
+	}
+	@media (max-width: @screen-lg-min) and (min-width: (@screen-md-min + 1)) {
+		margin-bottom: (@padding-large-vertical * 10);
+	}
+    @media (min-width: @screen-lg-min) {
+    	margin-bottom: (@padding-large-vertical * 10);
     }
 
 }
