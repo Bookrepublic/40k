@@ -1,0 +1,53 @@
+//variabili
+
+@spiacenti__border-size: 35px;
+@spiacenti__border-size--small: 20px;
+
+.spiacenti {
+	background: #442918;
+	color: white;
+	position: relative;
+
+	@media (max-width: @screen-xs-min) {
+		border: (@spiacenti__border-size * 0.5) solid #a18673;
+	}
+    @media (max-width: @screen-sm-min) and (min-width: (@screen-xs-min + 1)) {
+		border: (@spiacenti__border-size * 0.6) solid #a18673;
+    }
+    @media (max-width: @screen-md-min) and (min-width: (@screen-sm-min + 1)) {
+		border: (@spiacenti__border-size * 0.8) solid #a18673;
+    }
+    @media (max-width: @screen-lg-min) and (min-width: (@screen-md-min + 1)) {
+		border: @spiacenti__border-size solid #a18673;
+    }
+    @media (min-width: @screen-lg-min) {
+		border: @spiacenti__border-size solid #a18673;
+    }
+
+}
+
+.spiacenti:before {
+	content: " ";
+   	position: absolute;
+   	z-index: 200;
+   	top: 0px;
+   	left: 0px;
+   	right: 0px;
+   	bottom: 0px;
+
+   	@media (max-width: @screen-xs-min) {
+		border: (@spiacenti__border-size--small * 0.5) solid #000;
+	}
+    @media (max-width: @screen-sm-min) and (min-width: (@screen-xs-min + 1)) {
+		border: (@spiacenti__border-size--small * 0.6) solid #000;
+    }
+    @media (max-width: @screen-md-min) and (min-width: (@screen-sm-min + 1)) {
+		border: (@spiacenti__border-size--small * 0.8) solid #000;
+    }
+    @media (max-width: @screen-lg-min) and (min-width: (@screen-md-min + 1)) {
+		border: @spiacenti__border-size--small solid #000;
+    }
+    @media (min-width: @screen-lg-min) {
+		border: @spiacenti__border-size--small solid #000;
+    }
+}
