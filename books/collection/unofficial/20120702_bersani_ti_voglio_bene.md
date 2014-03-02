@@ -7,7 +7,7 @@ author:
   - Alessandro Gilioli
 categories:
   - politica
-collana:
+collana: unofficial
 price: 0.99€
 format: epub
 lang: italiano
