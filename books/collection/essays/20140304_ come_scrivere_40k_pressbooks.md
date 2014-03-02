@@ -1,7 +1,7 @@
 ---
 layout: book
 isbn: 9788898001576
-title: Come scrivere un 40k con PressBooks
+title: "Come scrivere un 40k con PressBooks"
 sottotitolo:
 author:
   - Antonio Dini
@@ -12,7 +12,7 @@ price: 0€
 format: epub
 lang: italiano
 date: 2014-03-04
-state: preparazione
+state: catalogo
 bookrepublic:
 kindle:
 drm: Social DRM
