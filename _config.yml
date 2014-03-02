@@ -2,7 +2,7 @@ name: 40kbooks
 markdown: redcarpet
 pygments: true
 permalink: /blog/:year/:month/:day/:title/
-paginate: 10
+paginate: 15
 paginate_path: "blog/page:num"
 baseurl: /
 authorurl: /static/author/
