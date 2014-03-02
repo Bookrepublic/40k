@@ -2,6 +2,31 @@
 @padding-cover: 88px;
 @padding-section: (@padding-cover * 1.5);
 
+.jumbotron__padding {
+
+  @media (max-width: @screen-xs-min) {
+    padding-top: (@padding-section * 0.5);
+    padding-bottom: (@padding-section * 0.5);
+  }
+  @media (max-width: @screen-sm-min) and (min-width: (@screen-xs-min + 1)) {
+    padding-top: (@padding-section * 0.6);
+    padding-bottom: (@padding-section * 0.6);
+  }
+  @media (max-width: @screen-md-min) and (min-width: (@screen-sm-min + 1)) {
+    padding-top: (@padding-section * 0.8);
+    padding-bottom: (@padding-section * 0.8);
+  }
+  @media (max-width: @screen-lg-min) and (min-width: (@screen-md-min + 1)) {
+    padding-top: @padding-section;
+    padding-bottom: @padding-section;
+  }
+  @media (min-width: @screen-lg-min) {
+    padding-top: @padding-section;
+    padding-bottom: @padding-section;
+  }
+
+}
+
 .cover_padding {
   padding-top: ((@padding-cover * 1.5) - @jumbotron-padding) ;
   padding-bottom: (@padding-cover * 1.5);
@@ -38,50 +63,49 @@
 .rosso {
   background: @rosso-40k;
   color: white;
-  padding-top: @padding-section;
-  padding-bottom: @padding-section;
+  .jumbotron__padding();
 }
 
 .blu {
   background: @blu-40k;
   color: white;
-  padding-top: @padding-section;
-  padding-bottom: @padding-section;
+  .jumbotron__padding();
 }
 
 .giallo {
   background: @giallo-40k;
   color: white;
-  padding-top: @padding-section;
-  padding-bottom: @padding-section;
+  .jumbotron__padding();
 }
 
 .arancio {
   background: @arancione-40k;
   color: white;
-  padding-top: @padding-section;
-  padding-bottom: @padding-section;
+  .jumbotron__padding();
 }
 
 .verde {
   background: @verde-40k;
   color: white;
-  padding-top: @padding-section;
-  padding-bottom: @padding-section;
+  .jumbotron__padding();
 }
 
 .white {
   background: white;
   color: @gray-dark;
-  padding-top: @padding-section;
-  padding-bottom: @padding-section;
+  .jumbotron__padding();
 }
 
 .viola {
   background: @viola-40k;
   color: white;
-  padding-top: @padding-section;
-  padding-bottom: @padding-section;
+  .jumbotron__padding();;
+}
+
+.lilla {
+  background: @lilla-40k;
+  color: white;
+  .jumbotron__padding();
 }
 
 img.bg {
