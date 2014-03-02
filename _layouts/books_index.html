@@ -3,84 +3,86 @@ layout: default
 ---
 
 <section class="container-fluid">
-  <div id="entry-list">
-    <div class="row double-margin-bottom">
-      <div class="col-md-8 col-md-offset-2 single_post">
-        <h1 class="text-hide">Tutti gli ebook di 40k</h1>
-        <img src="/static/img/logo40k_black.jpg" class="logo img-responsive extra-margin-bottom crop">
-        <input type="text" class="search form-control extra-margin-bottom" placeholder="Cerca in tutto il catalogo 40k" />
-        <div class="btn-group btn-group-lg btn-group-justified hidden-xs">
-          <div class="btn-group">
-            <button type="button" class="sort btn btn-default" data-sort="titolo">Ordina per titolo</button>
-          </div>
-          <div class="btn-group">
-            <button type="button" class="sort btn btn-default center" data-sort="aut">Ordina per autore</button>
-          </div>
-          <div class="btn-group">
-            <button type="button" class="sort btn btn-default center" data-sort="data">Ordina per data</button>
-          </div>
-          <div class="btn-group">
-            <button type="button" class="sort btn btn-default center" data-sort="collana">Ordina per collana</button>
-          </div>
-        </div>
-        <div class="visible-xs">
-          <p>
-            <button type="button" class="sort btn btn-default btn-xs btn-block" data-sort="titolo">Titolo</button></p>
-            <p><button type="button" class="sort btn btn-default btn-xs btn-block" data-sort="aut">Autore</button></p>
-            <p><button type="button" class="sort btn btn-default btn-xs btn-block" data-sort="data">Data</button></p>
-            <p><button type="button" class="sort btn btn-default btn-xs btn-block" data-sort="collana">Collana</button>
-            </p>
-          </div>
-        </div>
-      </div>
+    <div id="entry-list">
+        <div class="row double-margin-bottom">
+            <div class="col-md-8 col-md-offset-2 single_post">
+                <h1 class="text-hide">Tutti gli ebook di 40k</h1>
+                <img src="/static/img/logo40k_black.jpg" class="logo img-responsive extra-margin-bottom crop">
+                <input type="text" class="search form-control extra-margin-bottom" placeholder="Cerca in tutto il catalogo 40k" />
+                <div class="btn-group btn-group-lg btn-group-justified hidden-xs">
+                    <div class="btn-group">
+                        <button type="button" class="sort btn btn-default" data-sort="titolo">Ordina per titolo</button>
+                    </div>
+                    <div class="btn-group">
+                        <button type="button" class="sort btn btn-default center" data-sort="aut">Ordina per autore</button>
+                    </div>
+                    <div class="btn-group">
+                        <button type="button" class="sort btn btn-default center" data-sort="data">Ordina per data</button>
+                    </div>
+                    <div class="btn-group">
+                        <button type="button" class="sort btn btn-default center" data-sort="collana">Ordina per collana</button>
+                    </div>
+                </div>
+                <div class="visible-xs">
+                    <p>
+                        <button type="button" class="sort btn btn-default btn-xs btn-block" data-sort="titolo">Titolo</button></p>
+                        <p><button type="button" class="sort btn btn-default btn-xs btn-block" data-sort="aut">Autore</button></p>
+                        <p><button type="button" class="sort btn btn-default btn-xs btn-block" data-sort="data">Data</button></p>
+                        <p><button type="button" class="sort btn btn-default btn-xs btn-block" data-sort="collana">Collana</button>
+                        </p>
+                    </div>
+                </div>
+            </div>
 
-      <div class="row">
-        <div class="list">
+            <div class="row">
+                <div class="list">
 
-          {% assign order_page = site.pages | sort:"name" %}
-          {% for book in order_page reversed %}
-          {% if book.layout == 'book' %}
+                    {% assign order_page = site.pages | sort:"name" %}
+                    {% for book in order_page reversed %}
+                    {% if book.layout == 'book' %}
 
-          <article class="col-md-2 col-sm-3 col-xs-6">
-            <div class="thumbnail fixed-height">
-              <a href="{{ book.url }}">
-                <img class="lazy img-responsive" data-original="{{ site.coverurl }}/small/{{ book.isbn }}.jpg" alt="{{ book.title }}">
-              </a>
-              <div class="caption resize">
-                <h2 class="resize margin_sm titolo">{{ book.title }}</h2>
-                <dl>
-                  <dd>
+                    <article class="col-md-2 col-sm-3 col-xs-6">
+                        <div class="thumbnail fixed-height">
+                            <a href="{{ book.url }}">
+                                <img class="lazy img-responsive" data-original="{{ site.coverurl }}/small/{{ book.isbn }}.jpg" alt="{{ book.title }}">
+                            </a>
+                            <div class="caption resize">
+                                <a href="{{ book.url }}">
+                                    <h2 class="resize margin_sm titolo">{{ book.title }}</h2>
+                                </a>
+                                <dl>
+                                    <dd>
 
-                    {% for autore in site.pages %}
-                    {% for autori in book.author %}
-                    {% if autore.nome_completo == autori %}
-                    <a href="{{ autore.url }}"><strong>{{ autore.nome }} <span class="aut">{{ autore.cognome }}</span></strong></a>
+                                        {% for autore in site.pages %}
+                                        {% for autori in book.author %}
+                                        {% if autore.nome_completo == autori %}
+                                        <a href="{{ autore.url }}"><strong>{{ autore.nome }} <span class="aut">{{ autore.cognome }}</span></strong></a>
+                                        {% endif %}
+                                        {% endfor %}
+                                        {% endfor %}
+
+                                    </dd>
+                                    <dd><a href="{{ site.baseurl }}books/collection/{{ book.collana }}"><span class="collana">{{ book.collana }}</span></a></dd>
+                                    <dd class="categoria">{{ book.categories | join:', ' }}</dd>
+                                    <dd class="data">{{ book.date | date: "%Y"}}</dd>
+                                </dl>
+                            </div>
+                        </div>
+                    </article>
+
                     {% endif %}
                     {% endfor %}
-                    {% endfor %}
-
-                  </dd>
-                  <dd><a href="{{ site.baseurl }}books/collection/{{ book.collana }}"><span class="collana">{{ book.collana }}</span></a></dd>
-                  <dd class="categoria">{{ book.categories | join:', ' }}</dd>
-                  <dd class="data">{{ book.date | date: "%Y"}}</dd>
-                </dl>
-              </div>
+                </div>
             </div>
-          </article>
-
-          {% endif %}
-          {% endfor %}
         </div>
-      </div>
-    </div>
-  </section>
+    </section>
 
-  <script type="text/javascript">
+    <script type="text/javascript">
 
-    var options = {
-      valueNames: ['titolo', 'aut', 'collana', 'categoria', 'data']
-    };
+        var options = {
+            valueNames: ['titolo', 'aut', 'collana', 'categoria', 'data']
+        };
 
-    var entryList = new List('entry-list', options);
+        var entryList = new List('entry-list', options);
 
-  </script>
+    </script>

@@ -5,7 +5,7 @@ cognome: Dini
 nome_completo: Antonio Dini
 meta:
 cover_autore:
-twitter: @antoniodini
+twitter: antoniodini
 facebook:
 linkedin:
 web: http://antoniodini.blogspot.it/
