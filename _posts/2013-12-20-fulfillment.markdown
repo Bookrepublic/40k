@@ -6,18 +6,14 @@ slug: fulfillment
 title: "Fulfillment"
 categories:
 - Storie
+description: "Fulfillment è un racconto di Miracle Jones che narra la storia di un impiegato stagionale nel centro di distribuzione Amazon di Haslet, Texas."
 ---
 
 > [Miracle Jones](http://miraclejones.com/) è un autore texano di cui si parla parecchio negli USA. È famoso per le sue digital-short-stories, per i video che posta su [YouTube](http://www.youtube.com/user/fictioncircus) in cui racconta le sue storie (che ottengono migliaia di visualizzazioni) e perché insieme a un gruppo di loschi figuri ha dato vita a [The Fiction Circus](http://fictioncircus.com/index.php), un ambizioso - e bellissimo - progetto che cerca di ridare nuova vita a un genere ormai dato per spacciato.
 
 Non potevamo non intercettarlo.
 
-_Fulfillment_ è la storia di un impiegato stagionale nel centro di distribuzione Amazon di Haslet, Texas.
-
-
-
-
-**FULFILLMENT**
+##FULFILLMENT
 
 
 Lavoro al nuovo Centro distribuzione di Amazon a Haslet, in Texas. Sono un raccoglitore stagionale, assunzione part-time. È inverno. Qui non ci chiamano operai. Siamo collaboratori. Il lavoro che mi hanno assegnato potrei farlo con i postumi da sbronza, o fumato, e almeno in teoria dovrei guadagnare a sufficienza da pagarmi l’appartamento, un posto dove custodire tutte le mie lattine di birra vuote, i sacchetti accartocciati di Taco Cabana, i mucchi di merdosi romanzi di fantascienza.
