@@ -81,15 +81,19 @@ E poi
 
 ####Dipendenze necessarie####
 
-brew instal imagemagick
-gem install mini_magick
-gem install jekyll-minimagick
-gem install nokogiri json
+- brew instal imagemagick
+- gem install mini_magick
+- gem install jekyll-minimagick
+- gem install nokogiri json
+
+###Fix per Jekyll
+
+fixed in serve.rb by adding s.config.store(:DirectoryIndex, s.config[:DirectoryIndex] << "index.xml") after s = HTTPServer.new(webrick_options(options)).
 
 ###Media query
 
 @media (max-width: @screen-xs-min){  }
-    @media (max-width: @screen-sm-min) and (min-width: (@screen-xs-min + 1)) {  }
-    @media (max-width: @screen-md-min) and (min-width: (@screen-sm-min + 1)) {  }
-    @media (max-width: @screen-lg-min) and (min-width: (@screen-md-min + 1)) {  }
-    @media (min-width: @screen-lg-min) {  }
+@media (max-width: @screen-sm-min) and (min-width: (@screen-xs-min + 1)) {  }
+@media (max-width: @screen-md-min) and (min-width: (@screen-sm-min + 1)) {  }
+@media (max-width: @screen-lg-min) and (min-width: (@screen-md-min + 1)) {  }
+@media (min-width: @screen-lg-min) {  }

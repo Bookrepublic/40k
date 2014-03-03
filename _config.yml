@@ -4,6 +4,7 @@ pygments: true
 permalink: /blog/:year/:month/:day/:title/
 paginate: 15
 paginate_path: "blog/page:num"
+url: http://www.40k.it
 baseurl: /
 authorurl: /static/author/
 authorurl_thumb: /static/author/photo-thumbnail/
@@ -13,8 +14,19 @@ safe: false
 
 exclude: ['README.md', less, models]
 
+sitemap:
+    file: "/sitemap.xml"
+    exclude:
+        - "/atom.xml"
+        - "/feed.xml"
+        - "/feed/index.xml"
+    include_posts:
+        - "/index.html"
+    change_frequency_name: "change_frequency"
+    priority_name: "priority"
+
 lunr_search:
-  excludes: [rss.xml, atom.xml]
+  excludes: [sitemap.xml, rss.xml, atom.xml]
 
 authors:
   Matteo Scurati:
