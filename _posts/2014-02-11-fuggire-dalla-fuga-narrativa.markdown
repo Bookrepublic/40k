@@ -7,6 +7,8 @@ title: "Fuggire dalla fuga narrativa"
 categories:
 - Storie
 cover: /static/img/sliding_water.jpg
+image:
+- url: /static/cover/9788865860236.jpg
 ---
 
 > È come quando ci sentiamo brutti e ci aspettiamo che tutti ci trattino da brutti. Finiamo per comportarci da brutti.
@@ -16,7 +18,7 @@ Se vuoi approfondire, qualche anno fa pubblicammo [questo librino di Tom,](http
 Io banalizzo, ma è una lettura illuminante e appassionante: [La Fuga Narrativa](http://www.amazon.it/La-Fuga-Narrativa-Tom-Stafford-ebook/dp/B00480ODJ2). ([@gg ](https://twitter.com/gg)su [Bookcafe](http://www.bookcafe.net/il-tema-della-citta-e-della-narrazione-della-citta/))
 
 
-![narrative-stafford_ita_hd](http://40k.it/wp-content/uploads/2014/02/narrative-stafford_ita_hd-208x300.jpg)
+{% figure_img img-responsive 0 caption %}
 
 [Il saggio di Tom Stafford](http://www.amazon.it/La-Fuga-Narrativa-Tom-Stafford-ebook/dp/B00480ODJ2) ci spiega come raccontare storie non sia soltanto un'attività ludica, né un disinteressato gesto artistico, bensì la funzione attraverso cui la mente umana conferisce significato al mondo.
 
