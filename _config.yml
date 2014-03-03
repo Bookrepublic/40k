@@ -49,6 +49,12 @@ authors:
     twitter: sandrobocchio
     quote:
     google:
+  40k Team:
+    display_name: 40k Team
+    image: /static/firme/40k_team.jpg
+    twitter: 40kbooks
+    quote: "Smart ebook for smart people"
+    facebook:
 
 image:
   source: /static/img/

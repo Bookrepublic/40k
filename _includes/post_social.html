@@ -1,24 +1,24 @@
 <h6>Condividi:</h6>
 <span>
-    <a class="btn btn-default" href="http://www.facebook.com/sharer.php?u=_URL_&t=_ADDITIONAL_TEXT_">
+    <a class="btn btn-default" href="http://www.facebook.com/sharer.php?u={{ site.url }}/{{ page.url }}&t={% if page.description %}<p>{{ page.description }}</p>{% endif %}">
        <i class="fa fa-facebook fa-lg fb"></i>
     </a>
 </span>
 <span>
     <a class="btn btn-default"
-       href="http://twitter.com/share?url=_URL_&text=_ADDITIONAL_TEXT_&via=TWITTER_NAME">
+       href="http://twitter.com/share?url={{ site.url }}/{{ page.url }}&text={% if page.description %}<p>{{ page.description }}</p>{% endif %}">
        <i class="fa fa-twitter fa-lg tw"></i>
     </a>
 </span>
 <span>
     <a class="btn btn-default google-plus-one"
-       href="https://apis.google.com/_/+1/fastbutton?usegapi=1&size=large&hl=en&url=_URL_">
+       href="https://plus.google.com/share?url={{ site.url }}/{{ page.url }}">
         <i class="fa fa-google-plus fa-2x google"></i>
         <span class="google">1</span>
     </a>
 </span>
 <span>
-    <a class="btn btn-default" href="http://www.linkedin.com/shareArticle?url=_URL_">
+    <a class="btn btn-default" href="http://www.linkedin.com/shareArticle?url={{ site.url }}/{{ page.url }}">
         <i class="fa fa-linkedin fa-lg linkin"></i>
     </a>
 </span>
