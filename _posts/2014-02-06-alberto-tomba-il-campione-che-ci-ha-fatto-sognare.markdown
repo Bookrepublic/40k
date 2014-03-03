@@ -8,9 +8,9 @@ categories:
 - Storie
 tags:
 - Storie di campioni
+cover: /static/img/tomba_discesa.jpg/
 ---
-
-[![tomba_Sci](http://40k.it/wp-content/uploads/2014/02/tomba_Sci-300x186.jpg)](http://40k.it/wp-content/uploads/2014/02/tomba_Sci.jpg)La torcia olimpica è finalmente arrivata nella città di Sochi, pecorrendo il tragitto più lungo della storia delle Olimpiadi: grazie ai cosmonauti russi è addirittura stata nello spazio.
+La torcia olimpica è finalmente arrivata nella città di Sochi, pecorrendo il tragitto più lungo della storia delle Olimpiadi: grazie ai cosmonauti russi è addirittura stata nello spazio.
 
 Con la cerimonia di apertura di domani inizieranno ufficialmente i giochi e tra le piccole grandi gioie dei veri tifosi di sci, quest'anno assisteremo al ritorno di Alberto Tomba. No, ovviamente, non in pista: sarà uno dei commentatori sportivi per i canali Sky, in onda anche su Cielo.
 
