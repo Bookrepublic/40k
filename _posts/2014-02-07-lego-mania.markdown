@@ -6,26 +6,9 @@ slug: lego-mania
 title: "Lego mania"
 categories:
 - Storie
+cover: /static/img/lego_arancia.jpg
+description: "Alex Eylar, un ragazzo di soli 21 anni di Oakland, California, ha ricreato in modo spettacolare famose scene di film con i mattoncini Lego. Con quale strategia Lego ha conquistato il mondo?"
 ---
-
-[![arancia](http://40k.it/wp-content/uploads/2014/02/arancia-300x152.jpg)](http://40k.it/wp-content/uploads/2014/02/arancia.jpg)
-
-
-[![shining](http://40k.it/wp-content/uploads/2014/02/shining.jpg)](http://40k.it/wp-content/uploads/2014/02/shining.jpg)
-
-
-
-
-
-
-[![pulp](http://40k.it/wp-content/uploads/2014/02/pulp.jpg)](http://40k.it/wp-content/uploads/2014/02/pulp.jpg)
-
-
-[![incept](http://40k.it/wp-content/uploads/2014/02/incept.jpg)](http://40k.it/wp-content/uploads/2014/02/incept.jpg)
-
-
-
-
 [Alex Eylar](http://www.flickr.com/photos/hoyvinmayvin/), un ragazzo di soli 21 anni di Oakland, California, ha ricreato in modo spettacolare [famose scene di film](http://www.telegraph.co.uk/culture/culturepicturegalleries/8243528/Scenes-from-famous-films-recreated-using-Lego-bricks-by-Alex-Eylar.html) con i mattoncini Lego.
 
 
