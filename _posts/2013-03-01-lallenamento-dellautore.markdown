@@ -20,4 +20,3 @@ Nel tuo allenamento da autore devi considerare bene quali siano le tue vere atti
 
 **Leggi tutto:** [How to Achieve Publishing Success and Reach Writing Goals](http://writenonfictionnow.com/how-to-achieve-publishing-success-and-reach-writing-goals/)
 
-{% figure_img img-responsive 0 %}
