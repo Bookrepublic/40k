@@ -7,7 +7,7 @@ author:
   - AA.VV.
 categories:
   - attualità
-collana: la_stampa
+collana: lastampa
 price: 2.99€
 format: epub
 lang: italiano
