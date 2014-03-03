@@ -3,7 +3,7 @@ layout: autore
 nome: Antonio
 cognome: Dini
 nome_completo: Antonio Dini
-meta:
+meta: "Se pensate che iPhone e iPad siano i migliori prodotti Apple, non siete mai entrati in un Apple store."
 cover_autore:
 twitter: antoniodini
 facebook:

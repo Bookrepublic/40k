@@ -2,13 +2,13 @@
 layout: autore
 nome: Cory
 cognome: Doctorow
-nome_completo: Paul Di Filippo
-meta:
+nome_completo: Cory Doctorow
+meta: "Tutto ruota attorno alla discussione. Il contenuto è solo qualcosa di cui discutere."
 cover_autore:
-twitter: 
+twitter: doctorow
 facebook:
 linkedin:
-web: http://paul-di-filippo.com/
+web: http://boingboing.net/author/cory_doctorow_1
 instagram:
 pinterest:
 vine:

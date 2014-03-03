@@ -3,7 +3,7 @@ layout: autore
 nome: Marta
 cognome: Perego
 nome_completo: Marta Perego
-meta: "Leggo libri. Faccio domande. Scrivo e conduco Adesso Cinema! e Ti racconto un libro su Iris Mediaset"
+meta: "Se non twitti non partecipi."
 cover_autore:
 twitter: marta_perego
 facebook:
