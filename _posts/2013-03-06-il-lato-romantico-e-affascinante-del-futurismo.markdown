@@ -6,10 +6,11 @@ slug: il-lato-romantico-e-affascinante-del-futurismo
 title: "Il lato romantico e affascinante del futurismo"
 categories:
 - News
+image: 
 image:
 - url: static/img/bruce.jpg
-- caption: Il romanzo di di Bruce Sterling
-- alt: L'amore è strano
+caption: Il romanzo di di Bruce Sterling
+alt: L'amore è strano
 ---
 {% figure_img img-responsive 0 caption %}
 
