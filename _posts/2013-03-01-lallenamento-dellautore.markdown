@@ -6,9 +6,11 @@ slug: lallenamento-dellautore
 title: "L'allenamento dell'autore"
 categories:
 - Idee trovate in giro
+image:
+- url: static/img/attitude.jpg
 ---
-
-![attitude is everything](http://40k.it/wp-content/uploads/2013/03/Attitude-by-marekuliasz-iStock_000011806154Large.jpg) «L'allenamento è questo. I ballerini si allenano, ripetendo lo stesso movimento alla sbarra all'infinito, facendolo diventare un'abitudine, qualcosa di semplice da eseguire durante la loro performance. Un pianista esegue lo stesso passaggio continuamente, così da poterlo fare senza sforzo in concerto. [...]
+{% figure_img img-responsive 0 %}
+«L'allenamento è questo. I ballerini si allenano, ripetendo lo stesso movimento alla sbarra all'infinito, facendolo diventare un'abitudine, qualcosa di semplice da eseguire durante la loro performance. Un pianista esegue lo stesso passaggio continuamente, così da poterlo fare senza sforzo in concerto. [...]
 
 Tutte queste sono abitudini. Alcuni dei maggiori esperti che indagano sul potenziale umano sostengono che siano le abitudini a permetterci di raggiungere il nostro personale livello di successo. Se vuoi raggiungere un nuovo livello devi cambiare le tue abitudini. 
 

@@ -9,7 +9,7 @@ categories:
 - News
 - Storie
 cover: /static/img_cover/40k_altramatematica.jpg
-descriptions: "Esiste un modo divertente, sagace, pop, di parlare di numeri: Altramatematica"
+description: "Esiste un modo divertente, sagace, pop, di parlare di numeri: Altramatematica"
 ---
 Finalmente ci siamo, oggi nasce ufficialmente Altramatematica: una collana di ebook su argomenti che spaziano dalla matematica pura, alla fisica, all’informatica, ma non solo, e che hanno come minimo comun denominatore un approccio «pop» e coinvolgente ad argomenti complessi. L’intento della collana è di permettere a studiosi e appassionati di approcciarsi alla saggistica scientifica come se si leggesse un romanzo. Il tutto sempre in chiave 40k: agile, smart e digital.
 
