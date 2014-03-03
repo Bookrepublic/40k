@@ -56,7 +56,7 @@ layout: default
                                         {% for autore in site.pages %}
                                         {% for autori in book.author %}
                                         {% if autore.nome_completo == autori %}
-                                        <a href="{{ autore.url }}"><strong>{{ autore.nome }} <span class="aut">{{ autore.cognome }}</span></strong></a>
+                                        <a href="{{ autore.url }}"><em>{{ autore.nome }} <span class="aut">{{ autore.cognome }}</span></em></a>
                                         {% endif %}
                                         {% endfor %}
                                         {% endfor %}
