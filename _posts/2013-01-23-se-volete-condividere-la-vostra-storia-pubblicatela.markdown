@@ -7,8 +7,7 @@ title: "Se volete condividere la vostra storia, pubblicatela"
 categories:
 - Idee trovate in giro
 ---
-
-![](http://40k.it/wp-content/uploads/2013/01/cover24728-medium.png) «E poi una serie di consigli agli aspiranti scrittori.
+«E poi una serie di consigli agli aspiranti scrittori.
 
 Fra questi, mi piace in particolare uno dei consigli di David Baldacci – un autore di thriller che è entrato nella lista dei best seller col suo primo romanzo, dopo dieci anni di gavetta durissima:
 

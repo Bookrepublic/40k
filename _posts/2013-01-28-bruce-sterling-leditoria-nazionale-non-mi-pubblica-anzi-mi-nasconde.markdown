@@ -7,9 +7,10 @@ title: "Bruce Sterling «L'editoria nazionale non mi pubblica. Anzi: mi nasconde
 categories:
 - 40k Originals
 - Idee trovate in giro
+image:
+- url: static/cover/9788865866337.jpg
 ---
-
-[![L'amore è strano - Bruce Sterling](http://40k.it/wp-content/uploads/2013/01/cover_sito.jpg)](http://www.amazon.it/dp/B00B2KB51U) Un'intervista a più mani a Bruce Sterling in occasione dell'uscita del suo ultimo romanzo, [**L'amore è strano**](http://www.amazon.it/dp/B00B2KB51U): [Cory Doctorow](http://twitter.com/doctorow), [Ted Striphas](https://twitter.com/striphas), [Paul Di Filippo](http://it.wikipedia.org/wiki/Paul_Di_Filippo), [Giuseppe Granieri](http://twitter.com/gg), [Richard Nash](http://twitter.com/R_Nash) e molti altri hanno contribuito con domande sui trend, il futuro, la scrittura, la fantascienza. 
+Un'intervista a più mani a Bruce Sterling in occasione dell'uscita del suo ultimo romanzo, [**L'amore è strano**](http://www.amazon.it/dp/B00B2KB51U): [Cory Doctorow](http://twitter.com/doctorow), [Ted Striphas](https://twitter.com/striphas), [Paul Di Filippo](http://it.wikipedia.org/wiki/Paul_Di_Filippo), [Giuseppe Granieri](http://twitter.com/gg), [Richard Nash](http://twitter.com/R_Nash) e molti altri hanno contribuito con domande sui trend, il futuro, la scrittura, la fantascienza. 
 
 La traduzione dell'[intervista originale inglese](http://www.40kbooks.com/?p=13726) è stata pubblicata venerdì su [La Stampa](http://www.lastampa.it/2013/01/25/cultura/bruce-sterling-intervistato-dai-suoi-fan-qjzXvykIiVsUFNqzpupnEI/pagina.html).
 

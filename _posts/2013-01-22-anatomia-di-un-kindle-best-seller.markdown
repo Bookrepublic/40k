@@ -7,32 +7,19 @@ title: "Anatomia di un Kindle Best Seller"
 categories:
 - Idee trovate in giro
 ---
-
-![Success](http://40k.it/wp-content/uploads/2013/01/bigstock-Success.jpeg)
-
-
 I consigli di Rachel Abbott:
 
-
-
-	
   1. Crea una cover che dica al lettore esattamente di che tipo di libro si tratta e che abbia un aspetto professionale.
-
 	
   2. Scrivi una descrizione del libro che faccia desiderare disperatamente di leggerlo.
-
 	
   3. Prepara un piano di marketing e portalo avanti, con tutti gli adattamenti necessari man mano che capisci cosa funziona e cosa non funziona.
 
-	
   4. Anzi che annegare i tuoi follower su Twitter di link, cerca di ottenere dei retweet e di raggiungere più persone possibile.
 
-	
   5. Contatta, in modo amichevole e professionale, chiunque tu ritieni possa darti visibilità, e dagli ottime ragioni per farlo.
 
-	
   6. Collabora con scrittori di successo: impara da loro il più possibile.
-
 	
   7. Sii pronto a lavorare davvero duro!
 

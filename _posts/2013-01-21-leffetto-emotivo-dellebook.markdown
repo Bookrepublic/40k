@@ -7,9 +7,10 @@ slug: leffetto-emotivo-dellebook
 title: "L'effetto emotivo dell'ebook"
 categories:
 - Idee trovate in giro
+description: "Sì, sono il re dei visionari ma sul futuro ci azzecco. (Bruce Sterling)"
 ---
 
-![Bruce Sterling](http://40k.it/wp-content/uploads/2013/01/2013-01-ipad-386-0.jpeg) **Gli ebook, magari con dentro video, foto e musica, sono «libri»?**
+**Gli ebook, magari con dentro video, foto e musica, sono «libri»?**
 
 «No. È come se qualcuno dicesse che le clip su Youtube sono film. Magari l'effetto emotivo è lo stesso. Ma per tecnica, economia, design, produzione, distribuzione, distruzione e persino per legge sono diversi. Skeuomorfo è la parola che indica questi falsi, simili formalmente ai vecchi originali. Paragonarli è impossibile».
 
