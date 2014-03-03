@@ -6,10 +6,8 @@ slug: fuggire-dalla-fuga-narrativa
 title: "Fuggire dalla fuga narrativa"
 categories:
 - Storie
+cover: /static/img/sliding_water.jpg
 ---
-
-[![Inception sliding water](http://40k.it/wp-content/uploads/2014/02/Inception-sliding-water.jpg)](http://40k.it/wp-content/uploads/2014/02/Inception-sliding-water.jpg)
-
 
 > È come quando ci sentiamo brutti e ci aspettiamo che tutti ci trattino da brutti. Finiamo per comportarci da brutti.
 Alle piccole comunità succede lo stesso. Se manca la fiducia, l’autostima, se ci si racconta per il peggio, difficilmente verrà fuori il coraggio per fare cose belle.
