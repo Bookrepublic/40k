@@ -7,8 +7,7 @@ title: "A ogni libro serve un business plan"
 categories:
 - Idee trovate in giro
 ---
-
-![iStock_000015426043XSmall-business-plan](http://40k.it/wp-content/uploads/2013/02/iStock_000015426043XSmall-business-plan.jpeg) «Ogni libro ha bisogno di un business plan. Un libro è in tutto e per tutto una fonte di profitti. Come editore indipendente potresti avere l'idea che il libro sia una scintilla all'interno della tua avventura imprenditoriale, chiamata casa editrice. 
+«Ogni libro ha bisogno di un business plan. Un libro è in tutto e per tutto una fonte di profitti. Come editore indipendente potresti avere l'idea che il libro sia una scintilla all'interno della tua avventura imprenditoriale, chiamata casa editrice. 
 
 Quell'azienda ha bisogno di un business plan. Devi sapere prima di avviare la macchina che il tuo prodotto ha un mercato, che il mercato ne ha bisogno ed è in grado di sbaragliare la concorrenza, che hai dei potenziali clienti, e che puoi rientrare delle spese che hai sostenuto per lavorare a quel prodotto. 
 

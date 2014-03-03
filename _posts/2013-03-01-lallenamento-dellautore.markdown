@@ -6,8 +6,6 @@ slug: lallenamento-dellautore
 title: "L'allenamento dell'autore"
 categories:
 - Idee trovate in giro
-image:
-- url: static/img/attitude.jpg
 ---
 
 «L'allenamento è questo. I ballerini si allenano, ripetendo lo stesso movimento alla sbarra all'infinito, facendolo diventare un'abitudine, qualcosa di semplice da eseguire durante la loro performance. Un pianista esegue lo stesso passaggio continuamente, così da poterlo fare senza sforzo in concerto. [...]

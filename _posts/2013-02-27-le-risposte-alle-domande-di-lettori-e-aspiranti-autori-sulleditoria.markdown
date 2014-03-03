@@ -7,8 +7,7 @@ title: "Le risposte alle domande di lettori e aspiranti autori sull'editoria"
 categories:
 - Idee trovate in giro
 ---
-
-![Books](http://40k.it/wp-content/uploads/2013/02/Books.jpg) Esiste molta curiosità riguardo il percorso che porta dal manoscritto alla pubblicazione del libro da parte di lettori e aspiranti autori. Per questa ragione, Tor, una delle più importanti case editrici di Fantascienza e Fantasy degli Stati Uniti, ha raccolto su Twitter alcune delle loro domande. 
+Esiste molta curiosità riguardo il percorso che porta dal manoscritto alla pubblicazione del libro da parte di lettori e aspiranti autori. Per questa ragione, Tor, una delle più importanti case editrici di Fantascienza e Fantasy degli Stati Uniti, ha raccolto su Twitter alcune delle loro domande. 
 
 Spiegando che no, fare l'editore o l'editor - al contrario di quel che si può pensare - non vuol dire bere caffè e leggere tutto il giorno.
 
