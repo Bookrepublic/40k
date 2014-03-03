@@ -3,15 +3,14 @@ author: 40k Team
 date: 2013-12-20 11:50:09+00:00
 layout: post
 slug: fulfillment
-title: "Fulfillment"
+title: "Fulfillment, un racconto di Miracle Jones"
 categories:
 - Storie
+cover: /static/img/fulfillment.jpg
 description: "Fulfillment è un racconto di Miracle Jones che narra la storia di un impiegato stagionale nel centro di distribuzione Amazon di Haslet, Texas."
 ---
 
-> [Miracle Jones](http://miraclejones.com/) è un autore texano di cui si parla parecchio negli USA. È famoso per le sue digital-short-stories, per i video che posta su [YouTube](http://www.youtube.com/user/fictioncircus) in cui racconta le sue storie (che ottengono migliaia di visualizzazioni) e perché insieme a un gruppo di loschi figuri ha dato vita a [The Fiction Circus](http://fictioncircus.com/index.php), un ambizioso - e bellissimo - progetto che cerca di ridare nuova vita a un genere ormai dato per spacciato.
-
-Non potevamo non intercettarlo.
+> [Miracle Jones](http://miraclejones.com/) è un autore texano di cui si parla parecchio negli USA. È famoso per le sue digital-short-stories, per i video che posta su [YouTube](http://www.youtube.com/user/fictioncircus) in cui racconta le sue storie (che ottengono migliaia di visualizzazioni) e perché insieme a un gruppo di loschi figuri ha dato vita a [The Fiction Circus](http://fictioncircus.com/index.php), un ambizioso - e bellissimo - progetto che cerca di ridare nuova vita a un genere ormai dato per spacciato. Non potevamo non intercettarlo. Ecco per voi la traduzione di Elena Cantoni, dietro esplicito consenso dell'autore. Buona lettura!
 
 ##FULFILLMENT
 
@@ -434,4 +433,4 @@ Sto da dio, come mi sentivo al liceo, quando saltavo fuori dalla finestra a nott
 Ma sono comunque capace di cose che loro non potranno mai fare, e in questo momento mi sento alla grande. Forse nessuna esperienza può cambiarti la vita, e loro saranno anche i padroni dell’universo, mentre il totale dei miei averi sta comodamente in un borsone di plastica, ma _Gradatim ferociter_, per dio!: “Un passo alla volta, con ferocia”, anche se significa camminare in contromano su un nastro trasportatore, senza mai arrivare da nessuna parte, senza mai venire smistato correttamente né consegnato abbastanza in fretta da evitare le lamentele dei clienti.
 
 _[Fulfillment](http://miraclejones.blogspot.it/2013/11/fulfillment.html)_, di Miracle Jones
-(Traduzione di Elena Cantoni, dietro esplicito consenso dell'autore.)
+
