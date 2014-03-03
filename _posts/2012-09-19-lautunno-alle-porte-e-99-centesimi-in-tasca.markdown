@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-09-19 08:35:51+00:00
 layout: post
 slug: lautunno-alle-porte-e-99-centesimi-in-tasca

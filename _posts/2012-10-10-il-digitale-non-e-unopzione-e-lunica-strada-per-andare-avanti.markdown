@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-10-10 10:04:45+00:00
 layout: post
 slug: il-digitale-non-e-unopzione-e-lunica-strada-per-andare-avanti

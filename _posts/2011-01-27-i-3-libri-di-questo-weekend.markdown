@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 date: 2011-01-27 14:11:21+00:00
 layout: post
 slug: i-3-libri-di-questo-weekend

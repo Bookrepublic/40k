@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2011-09-10 05:31:00+00:00
 layout: post
 slug: dario-tonani-goes-international

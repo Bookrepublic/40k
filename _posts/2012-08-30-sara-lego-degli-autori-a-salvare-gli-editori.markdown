@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-08-30 09:50:11+00:00
 layout: post
 slug: sara-lego-degli-autori-a-salvare-gli-editori

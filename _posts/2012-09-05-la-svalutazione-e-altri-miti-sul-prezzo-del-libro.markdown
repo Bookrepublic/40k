@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-09-05 13:30:38+00:00
 layout: post
 slug: la-svalutazione-e-altri-miti-sul-prezzo-del-libro

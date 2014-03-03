@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 date: 2011-07-22 13:35:48+00:00
 layout: post
 slug: daniel-pearlman-le-distopie-non-ci-abbandoneranno-mai

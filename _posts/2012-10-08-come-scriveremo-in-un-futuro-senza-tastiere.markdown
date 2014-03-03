@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-10-08 09:28:56+00:00
 layout: post
 slug: come-scriveremo-in-un-futuro-senza-tastiere

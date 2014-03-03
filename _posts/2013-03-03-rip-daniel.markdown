@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2013-03-03 19:12:10+00:00
 layout: post
 slug: rip-daniel

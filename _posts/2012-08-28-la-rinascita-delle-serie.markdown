@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-08-28 09:58:56+00:00
 layout: post
 slug: la-rinascita-delle-serie

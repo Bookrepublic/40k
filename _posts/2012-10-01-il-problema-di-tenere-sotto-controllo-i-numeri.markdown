@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-10-01 09:17:11+00:00
 layout: post
 slug: il-problema-di-tenere-sotto-controllo-i-numeri

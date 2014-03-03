@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-04-21 09:00:44+00:00
 layout: post
 slug: luomo-che-ti-colpisce-allo-stomaco

@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 date: 2010-10-11 19:26:45+00:00
 layout: post
 slug: la-classifica-degli-ebook-10-ottobre

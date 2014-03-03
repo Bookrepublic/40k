@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2011-09-12 12:59:05+00:00
 layout: post
 slug: quattro-saggi-sulla-scrittura-creativa-un-solo-bookpack-a-9-99e

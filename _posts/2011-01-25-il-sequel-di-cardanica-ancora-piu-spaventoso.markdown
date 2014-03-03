@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 date: 2011-01-25 10:48:46+00:00
 layout: post
 slug: il-sequel-di-cardanica-ancora-piu-spaventoso

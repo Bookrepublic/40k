@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2011-10-04 10:23:13+00:00
 layout: post
 slug: chiara-dal-ben-tra-amore-per-la-carta-e-passione-per-la-tecnologia

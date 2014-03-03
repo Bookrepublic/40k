@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 date: 2011-03-14 18:30:58+00:00
 layout: post
 slug: alessandro-beria-lereader-e-le-porosita-del-testo

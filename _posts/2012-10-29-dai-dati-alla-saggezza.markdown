@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-10-29 09:21:37+00:00
 layout: post
 slug: dai-dati-alla-saggezza

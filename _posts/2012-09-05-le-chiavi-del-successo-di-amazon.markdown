@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-09-05 12:38:13+00:00
 layout: post
 slug: le-chiavi-del-successo-di-amazon

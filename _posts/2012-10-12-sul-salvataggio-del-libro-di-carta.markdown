@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-10-12 10:36:23+00:00
 layout: post
 slug: sul-salvataggio-del-libro-di-carta

@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 date: 2010-10-14 12:27:27+00:00
 layout: post
 slug: i-lettori-sulla-robredo

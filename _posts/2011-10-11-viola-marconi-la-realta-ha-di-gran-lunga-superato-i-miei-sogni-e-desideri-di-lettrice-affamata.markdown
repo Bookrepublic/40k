@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2011-10-11 21:01:44+00:00
 layout: post
 slug: viola-marconi-la-realta-ha-di-gran-lunga-superato-i-miei-sogni-e-desideri-di-lettrice-affamata

@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2011-11-12 15:36:33+00:00
 layout: post
 slug: la-fantascienza-ha-ancora-senso

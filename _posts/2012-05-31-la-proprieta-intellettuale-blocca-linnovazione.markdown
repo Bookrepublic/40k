@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-05-31 05:53:38+00:00
 layout: post
 slug: la-proprieta-intellettuale-blocca-linnovazione

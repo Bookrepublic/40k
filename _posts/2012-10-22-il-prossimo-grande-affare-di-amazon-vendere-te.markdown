@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-10-22 09:23:04+00:00
 layout: post
 slug: il-prossimo-grande-affare-di-amazon-vendere-te

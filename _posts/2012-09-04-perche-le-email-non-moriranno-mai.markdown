@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-09-04 13:09:03+00:00
 layout: post
 slug: perche-le-email-non-moriranno-mai

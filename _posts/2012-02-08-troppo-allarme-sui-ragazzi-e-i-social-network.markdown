@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-02-08 09:22:04+00:00
 layout: post
 slug: troppo-allarme-sui-ragazzi-e-i-social-network

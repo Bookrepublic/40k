@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 date: 2010-09-27 07:43:44+00:00
 layout: post
 slug: la-classifica-degli-ebook-27-settembre

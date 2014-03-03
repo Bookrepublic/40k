@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 date: 2011-02-25 15:22:55+00:00
 layout: post
 slug: coming-next-week-the-phantom-festival-il-festival-dei-fantasmi

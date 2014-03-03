@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-10-22 09:48:46+00:00
 layout: post
 slug: ma-chi-se-ne-frega-dei-book-blogger

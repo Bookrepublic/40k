@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 date: 2011-04-20 16:58:26+00:00
 layout: post
 slug: un-altro-capolavoro-di-resnick

@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 date: 2011-01-16 07:57:53+00:00
 layout: post
 slug: munizioni-per-la-tua-vita-creativa

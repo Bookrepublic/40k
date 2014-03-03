@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2011-09-26 10:05:44+00:00
 layout: post
 slug: giulio-passerini-sono-il-lettore-che-qualunque-editore-di-domani-vorrebbe-avere

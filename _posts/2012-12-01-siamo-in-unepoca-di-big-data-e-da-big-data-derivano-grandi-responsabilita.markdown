@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-12-01 08:49:17+00:00
 layout: post
 slug: siamo-in-unepoca-di-big-data-e-da-big-data-derivano-grandi-responsabilita

@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-11-13 10:58:53+00:00
 layout: post
 slug: i-barbari-che-rinnovano-la-cultura

@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2013-01-30 16:18:14+00:00
 layout: post
 slug: il-self-publishing-al-servizio-delleditoria-tradizionale

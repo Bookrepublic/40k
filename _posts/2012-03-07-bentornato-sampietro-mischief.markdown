@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-03-07 08:58:35+00:00
 layout: post
 slug: bentornato-sampietro-mischief

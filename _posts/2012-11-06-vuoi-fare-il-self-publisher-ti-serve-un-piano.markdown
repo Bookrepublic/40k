@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-11-06 09:54:38+00:00
 layout: post
 slug: vuoi-fare-il-self-publisher-ti-serve-un-piano

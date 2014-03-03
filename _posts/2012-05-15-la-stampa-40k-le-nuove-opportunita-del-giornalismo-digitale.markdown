@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-05-15 14:38:41+00:00
 layout: post
 slug: la-stampa-40k-le-nuove-opportunita-del-giornalismo-digitale

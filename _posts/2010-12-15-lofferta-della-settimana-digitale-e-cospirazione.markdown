@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 date: 2010-12-15 09:53:29+00:00
 layout: post
 slug: lofferta-della-settimana-digitale-e-cospirazione

@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-09-12 12:58:48+00:00
 layout: post
 slug: 9-cose-irritanti-che-un-autore-puo-evitare-di-fare-su-facebook

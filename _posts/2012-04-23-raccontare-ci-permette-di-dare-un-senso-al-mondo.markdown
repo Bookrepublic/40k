@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-04-23 07:12:27+00:00
 layout: post
 slug: raccontare-ci-permette-di-dare-un-senso-al-mondo

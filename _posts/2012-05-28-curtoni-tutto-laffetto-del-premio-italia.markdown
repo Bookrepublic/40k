@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-05-28 08:30:05+00:00
 layout: post
 slug: curtoni-tutto-laffetto-del-premio-italia

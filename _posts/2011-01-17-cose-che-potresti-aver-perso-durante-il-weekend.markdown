@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 date: 2011-01-17 10:52:24+00:00
 layout: post
 slug: cose-che-potresti-aver-perso-durante-il-weekend

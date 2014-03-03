@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-10-03 09:26:12+00:00
 layout: post
 slug: 10-modi-per-imparare-con-i-social-media

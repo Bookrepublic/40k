@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-08-27 12:39:21+00:00
 layout: post
 slug: come-immaginavamo-internet-prima-di-internet

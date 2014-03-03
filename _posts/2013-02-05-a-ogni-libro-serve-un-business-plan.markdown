@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2013-02-05 09:50:17+00:00
 layout: post
 slug: a-ogni-libro-serve-un-business-plan

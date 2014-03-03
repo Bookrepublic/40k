@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-05-22 06:08:01+00:00
 layout: post
 slug: se-solo-il-26-e-disposto-a-pagare-per-i-libri

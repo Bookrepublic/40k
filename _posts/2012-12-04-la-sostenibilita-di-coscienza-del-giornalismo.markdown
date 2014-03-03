@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-12-04 10:41:06+00:00
 layout: post
 slug: la-sostenibilita-di-coscienza-del-giornalismo

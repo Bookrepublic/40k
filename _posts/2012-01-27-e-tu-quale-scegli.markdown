@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-01-27 15:34:13+00:00
 layout: post
 slug: e-tu-quale-scegli

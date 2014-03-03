@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-11-05 11:01:25+00:00
 layout: post
 slug: come-gli-ecosistemi-sono-diventati-i-nuovi-walled-garden

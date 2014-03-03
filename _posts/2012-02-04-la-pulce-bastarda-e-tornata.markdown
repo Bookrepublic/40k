@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-02-04 11:32:22+00:00
 layout: post
 slug: la-pulce-bastarda-e-tornata

@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-06-09 09:34:06+00:00
 layout: post
 slug: finora-abbiamo-sentito-la-spinta-ma-non-abbiamo-ancora-davvero-subito-limpatto

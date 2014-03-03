@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-06-26 07:45:36+00:00
 layout: post
 slug: i-boschi-sacri-della-letteratura-visti-da-ursula-k-le-guin

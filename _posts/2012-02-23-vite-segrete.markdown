@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-02-23 16:20:56+00:00
 layout: post
 slug: vite-segrete

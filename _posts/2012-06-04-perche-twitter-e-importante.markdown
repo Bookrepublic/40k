@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-06-04 12:48:28+00:00
 layout: post
 slug: perche-twitter-e-importante

@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-10-19 09:12:45+00:00
 layout: post
 slug: nel-dubbio-chiediti-se-quello-che-vuoi-fare-danneggia-la-reputazione-della-testata-per-cui-scrivi

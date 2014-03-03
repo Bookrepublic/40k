@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-06-03 08:45:41+00:00
 layout: post
 slug: perche-alcuni-di-noi-riescono-a-comunicare-e-altri-no

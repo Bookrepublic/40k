@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-06-27 07:22:23+00:00
 layout: post
 slug: lamore-e-strano-e-la-fine-del-buon-senso

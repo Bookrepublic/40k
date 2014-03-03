@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-06-18 12:01:34+00:00
 layout: post
 slug: i-dati-importanti-per-gli-editori-riguardo-la-condivisione-dei-contenuti

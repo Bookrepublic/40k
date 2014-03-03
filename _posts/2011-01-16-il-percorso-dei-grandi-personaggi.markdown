@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 date: 2011-01-16 10:31:58+00:00
 layout: post
 slug: il-percorso-dei-grandi-personaggi

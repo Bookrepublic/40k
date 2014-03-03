@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-06-28 07:46:29+00:00
 layout: post
 slug: la-fine-dellera-del-buon-senso-linkiesta-intervista-stefano-maruzzi

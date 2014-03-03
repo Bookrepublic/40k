@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-06-10 09:44:27+00:00
 layout: post
 slug: leditore-2-0-e-il-rapporto-con-lautore-moderno

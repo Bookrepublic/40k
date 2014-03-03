@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-10-22 08:53:11+00:00
 layout: post
 slug: levoluzione-dellintelligenza

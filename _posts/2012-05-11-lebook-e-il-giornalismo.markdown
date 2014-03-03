@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-05-11 07:46:28+00:00
 layout: post
 slug: lebook-e-il-giornalismo

@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2013-02-04 09:44:06+00:00
 layout: post
 slug: sono-le-idee-a-fare-lautore

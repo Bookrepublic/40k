@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2013-01-21 12:56:37+00:00
 layout: post
 slug: leditore-cambia-pelle

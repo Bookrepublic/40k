@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-08-21 08:57:26+00:00
 layout: post
 slug: perche-i-libri-indie-fanno-bene-alleditoria

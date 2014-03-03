@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2013-03-06 08:47:13+00:00
 layout: post
 slug: misura-le-tue-competenze-da-self-publisher

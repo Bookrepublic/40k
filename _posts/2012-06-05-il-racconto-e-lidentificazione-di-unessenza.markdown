@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-06-05 10:27:34+00:00
 layout: post
 slug: il-racconto-e-lidentificazione-di-unessenza

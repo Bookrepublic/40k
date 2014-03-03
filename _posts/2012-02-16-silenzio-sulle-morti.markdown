@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-02-16 11:04:54+00:00
 layout: post
 slug: silenzio-sulle-morti

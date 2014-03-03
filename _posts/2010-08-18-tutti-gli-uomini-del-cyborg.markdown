@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 date: 2010-08-18 10:08:17+00:00
 layout: post
 title: Tutti gli uomini del Cyborg

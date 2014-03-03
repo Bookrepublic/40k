@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-03-02 10:13:51+00:00
 layout: post
 slug: qual-e-la-durata-di-una-vita-umana

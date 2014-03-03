@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-06-18 11:52:57+00:00
 layout: post
 slug: networking-non-e-una-parolaccia

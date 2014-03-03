@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-10-03 10:29:18+00:00
 layout: post
 slug: le-promesse-dei-big-data

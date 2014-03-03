@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-09-17 08:28:47+00:00
 layout: post
 slug: sul-prezzo-degli-ebook-chi-comanda-e-il-lettore

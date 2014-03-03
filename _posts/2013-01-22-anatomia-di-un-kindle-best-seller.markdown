@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2013-01-22 10:06:52+00:00
 layout: post
 slug: anatomia-di-un-kindle-best-seller

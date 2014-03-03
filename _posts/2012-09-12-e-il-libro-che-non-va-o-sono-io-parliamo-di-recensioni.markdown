@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-09-12 12:32:14+00:00
 layout: post
 slug: e-il-libro-che-non-va-o-sono-io-parliamo-di-recensioni

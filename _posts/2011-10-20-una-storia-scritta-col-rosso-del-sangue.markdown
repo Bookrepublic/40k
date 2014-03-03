@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2011-10-20 07:47:09+00:00
 layout: post
 slug: una-storia-scritta-col-rosso-del-sangue

@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2013-01-21 11:45:47+00:00
 layout: post
 slug: la-provvisorieta-delle-prime-stesure

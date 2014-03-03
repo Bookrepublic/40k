@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-06-27 06:51:43+00:00
 layout: post
 slug: di-cosa-si-parla-quando-si-dice-platform

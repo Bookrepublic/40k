@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 date: 2010-11-05 11:01:02+00:00
 layout: post
 slug: lofferta-della-settimana-wikiworld-30

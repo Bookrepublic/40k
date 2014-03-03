@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-10-17 10:19:48+00:00
 layout: post
 slug: se-potessi-scrivere-una-novella-perfetta-morirei-felice

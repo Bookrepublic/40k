@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-09-10 09:08:30+00:00
 layout: post
 slug: per-riuscire-nellinnovazione-bisogna-tenere-un-piede-nella-fantascienza

@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-06-05 11:08:01+00:00
 layout: post
 slug: gli-ebook-riscrivono-le-regole-dellindustria-del-libro

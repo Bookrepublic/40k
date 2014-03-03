@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-10-08 10:16:09+00:00
 layout: post
 slug: perche-non-usare-la-fantascienza-per-insegnare

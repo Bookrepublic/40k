@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-10-31 11:08:32+00:00
 layout: post
 slug: la-letteratura-e-un-gioco

@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2013-01-29 10:59:37+00:00
 layout: post
 slug: il-passa-parola-di-internet-e-il-file-sharing

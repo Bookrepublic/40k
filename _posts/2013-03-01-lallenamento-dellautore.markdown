@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2013-03-01 10:10:39+00:00
 layout: post
 slug: lallenamento-dellautore

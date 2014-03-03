@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-06-02 17:12:35+00:00
 layout: post
 slug: effetto-amazon

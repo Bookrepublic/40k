@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-08-21 09:15:57+00:00
 layout: post
 slug: contenuti-generati-da-algoritmi-in-grado-di-trasformare-leditoria

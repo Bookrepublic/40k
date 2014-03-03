@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-05-10 12:05:48+00:00
 layout: post
 slug: lo-scudetto-degli-imbattibili

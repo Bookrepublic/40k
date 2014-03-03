@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-01-20 07:33:47+00:00
 layout: post
 slug: la-sublime-avventura-di-una-bibliotecaria

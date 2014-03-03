@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-08-28 08:43:31+00:00
 layout: post
 slug: e-la-fine-delloffline-per-come-lo-conoscevamo

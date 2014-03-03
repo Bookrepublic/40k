@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2011-12-01 18:01:48+00:00
 layout: post
 slug: pillole-contro-la-crisi

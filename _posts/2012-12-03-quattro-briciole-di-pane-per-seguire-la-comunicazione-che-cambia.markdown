@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-12-03 11:25:54+00:00
 layout: post
 slug: quattro-briciole-di-pane-per-seguire-la-comunicazione-che-cambia

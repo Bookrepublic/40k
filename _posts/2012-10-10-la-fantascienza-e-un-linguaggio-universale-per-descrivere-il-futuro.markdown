@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-10-10 10:25:03+00:00
 layout: post
 slug: la-fantascienza-e-un-linguaggio-universale-per-descrivere-il-futuro

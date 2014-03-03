@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-05-18 07:13:05+00:00
 layout: post
 slug: i-social-network-non-sono-la-televisione-perche-non-spendere-25-per-comprarsi-2000-fan-i-media-mondo-la-mutazione-che-vedo-attorno-a-me

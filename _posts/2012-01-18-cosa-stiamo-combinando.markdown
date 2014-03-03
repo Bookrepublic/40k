@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-01-18 08:54:02+00:00
 layout: post
 slug: cosa-stiamo-combinando

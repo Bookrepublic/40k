@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2013-02-27 10:59:58+00:00
 layout: post
 slug: le-risposte-alle-domande-di-lettori-e-aspiranti-autori-sulleditoria

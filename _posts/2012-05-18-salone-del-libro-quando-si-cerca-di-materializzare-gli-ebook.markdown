@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-05-18 08:08:26+00:00
 layout: post
 slug: salone-del-libro-quando-si-cerca-di-materializzare-gli-ebook

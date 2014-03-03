@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 date: 2010-12-18 16:03:44+00:00
 layout: post
 slug: libri-banditi-vicini-inquietanti-e-parole-che-toccano-il-cervello

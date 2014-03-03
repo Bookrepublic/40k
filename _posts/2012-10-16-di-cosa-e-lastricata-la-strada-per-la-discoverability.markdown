@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-10-16 10:17:13+00:00
 layout: post
 slug: di-cosa-e-lastricata-la-strada-per-la-discoverability

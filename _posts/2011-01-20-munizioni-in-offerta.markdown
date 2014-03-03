@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 date: 2011-01-20 20:52:56+00:00
 layout: post
 slug: munizioni-in-offerta

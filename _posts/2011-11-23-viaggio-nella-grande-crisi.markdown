@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2011-11-23 09:44:51+00:00
 layout: post
 slug: viaggio-nella-grande-crisi

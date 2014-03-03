@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-10-16 10:43:44+00:00
 layout: post
 slug: come-sono-diventati-smart-i-telefoni

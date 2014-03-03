@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-06-18 10:50:57+00:00
 layout: post
 slug: i-miti-delleditoria-tradizionale

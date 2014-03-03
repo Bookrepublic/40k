@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 date: 2011-06-08 18:30:28+00:00
 layout: post
 slug: questo-libro-non-e-per-voi

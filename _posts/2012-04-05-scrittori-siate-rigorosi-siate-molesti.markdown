@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-04-05 09:16:20+00:00
 layout: post
 slug: scrittori-siate-rigorosi-siate-molesti

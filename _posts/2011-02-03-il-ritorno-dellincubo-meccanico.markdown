@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 date: 2011-02-03 08:03:15+00:00
 layout: post
 slug: il-ritorno-dellincubo-meccanico

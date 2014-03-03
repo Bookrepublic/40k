@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 date: 2010-08-27 07:21:23+00:00
 layout: post
 title: Un libro, tre euro

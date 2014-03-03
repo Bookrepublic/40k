@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-09-17 09:10:11+00:00
 layout: post
 slug: in-editoria-si-impara-dai-lettori

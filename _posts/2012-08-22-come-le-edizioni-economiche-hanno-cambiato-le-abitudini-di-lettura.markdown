@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-08-22 08:58:19+00:00
 layout: post
 slug: come-le-edizioni-economiche-hanno-cambiato-le-abitudini-di-lettura

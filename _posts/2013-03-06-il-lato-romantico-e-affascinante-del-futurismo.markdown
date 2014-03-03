@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2013-03-06 09:28:36+00:00
 layout: post
 slug: il-lato-romantico-e-affascinante-del-futurismo

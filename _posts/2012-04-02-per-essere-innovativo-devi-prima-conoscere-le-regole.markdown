@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-04-02 05:54:33+00:00
 layout: post
 slug: per-essere-innovativo-devi-prima-conoscere-le-regole

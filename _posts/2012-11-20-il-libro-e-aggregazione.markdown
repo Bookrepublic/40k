@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-11-20 11:04:13+00:00
 layout: post
 slug: il-libro-e-aggregazione

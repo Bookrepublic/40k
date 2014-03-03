@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 date: 2011-02-09 11:04:50+00:00
 layout: post
 slug: cosa-fanno-gli-altri-quintadicopertina

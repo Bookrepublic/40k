@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2011-12-15 08:35:06+00:00
 layout: post
 slug: unindagine-per-lettori-audaci

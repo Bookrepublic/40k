@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 date: 2010-09-10 18:22:12+00:00
 layout: post
 title: Nove anni dopo

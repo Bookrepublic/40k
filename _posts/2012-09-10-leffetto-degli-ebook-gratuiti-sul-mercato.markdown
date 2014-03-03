@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-09-10 08:55:40+00:00
 layout: post
 slug: leffetto-degli-ebook-gratuiti-sul-mercato

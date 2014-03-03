@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-06-19 09:30:44+00:00
 layout: post
 slug: cosa-possiamo-imparare-dalla-progettazione-degli-algoritmi

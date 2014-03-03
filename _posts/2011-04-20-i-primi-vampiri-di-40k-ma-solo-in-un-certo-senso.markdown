@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 date: 2011-04-20 17:06:52+00:00
 layout: post
 slug: i-primi-vampiri-di-40k-ma-solo-in-un-certo-senso

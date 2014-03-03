@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-01-15 10:21:20+00:00
 layout: post
 slug: il-prezzo-giusto-degli-ebook

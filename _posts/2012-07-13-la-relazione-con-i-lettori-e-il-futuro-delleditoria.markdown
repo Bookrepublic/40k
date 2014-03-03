@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-07-13 12:01:31+00:00
 layout: post
 slug: la-relazione-con-i-lettori-e-il-futuro-delleditoria

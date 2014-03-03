@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-10-02 08:43:29+00:00
 layout: post
 slug: fanfic-come-startup

@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-11-13 10:09:47+00:00
 layout: post
 slug: e-un-momento-meraviglioso-per-essere-autori-correte-a-scrivere

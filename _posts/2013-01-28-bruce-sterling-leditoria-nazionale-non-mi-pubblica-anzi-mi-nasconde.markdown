@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2013-01-28 10:01:36+00:00
 layout: post
 slug: bruce-sterling-leditoria-nazionale-non-mi-pubblica-anzi-mi-nasconde

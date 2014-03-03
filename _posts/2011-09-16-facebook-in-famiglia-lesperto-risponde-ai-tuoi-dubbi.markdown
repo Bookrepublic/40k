@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2011-09-16 07:41:15+00:00
 layout: post
 slug: facebook-in-famiglia-lesperto-risponde-ai-tuoi-dubbi

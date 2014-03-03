@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 date: 2010-12-07 13:36:55+00:00
 layout: post
 slug: lofferta-della-settimana-ispirazione-e-presente-parallelo

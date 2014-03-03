@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-11-07 10:05:07+00:00
 layout: post
 slug: perche-diventare-leditore-piu-grande-del-mondo

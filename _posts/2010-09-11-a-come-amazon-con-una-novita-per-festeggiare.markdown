@@ -1,5 +1,5 @@
 ---
-author: admin
+author: 40k Team
 date: 2010-09-11 11:19:24+00:00
 layout: post
 title: A come Amazon (con una novità per festeggiare)

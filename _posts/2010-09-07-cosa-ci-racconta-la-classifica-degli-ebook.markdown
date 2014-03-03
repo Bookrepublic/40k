@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 date: 2010-09-07 11:11:57+00:00
 layout: post
 slug: cosa-ci-racconta-la-classifica-degli-ebook

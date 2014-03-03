@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-06-26 07:43:55+00:00
 layout: post
 slug: sette-ragioni-per-fare-una-cosa-che-non-avevi-pensato-di-fare

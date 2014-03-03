@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-06-06 09:18:26+00:00
 layout: post
 slug: abitudini-che-cambiano-con-gli-ebook

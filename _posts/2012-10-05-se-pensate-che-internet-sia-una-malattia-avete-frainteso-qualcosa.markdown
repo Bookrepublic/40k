@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-10-05 09:40:36+00:00
 layout: post
 slug: se-pensate-che-internet-sia-una-malattia-avete-frainteso-qualcosa

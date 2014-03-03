@@ -1,5 +1,5 @@
 ---
-author: "40kteam"
+author: "40k Team"
 date: 2011-09-07 18:10:37+00:00
 layout: post
 slug: benvenuti-nel-regno-dellunheimliche

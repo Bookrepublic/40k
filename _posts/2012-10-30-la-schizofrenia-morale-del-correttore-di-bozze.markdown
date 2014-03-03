@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-10-30 13:34:20+00:00
 layout: post
 slug: la-schizofrenia-morale-del-correttore-di-bozze

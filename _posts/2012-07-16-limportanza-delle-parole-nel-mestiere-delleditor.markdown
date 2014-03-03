@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-07-16 08:31:53+00:00
 layout: post
 slug: limportanza-delle-parole-nel-mestiere-delleditor

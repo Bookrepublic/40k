@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2011-12-02 14:11:44+00:00
 layout: post
 slug: ricominciamo-da-c

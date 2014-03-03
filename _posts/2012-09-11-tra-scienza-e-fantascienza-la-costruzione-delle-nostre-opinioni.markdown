@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-09-11 10:53:58+00:00
 layout: post
 slug: tra-scienza-e-fantascienza-la-costruzione-delle-nostre-opinioni

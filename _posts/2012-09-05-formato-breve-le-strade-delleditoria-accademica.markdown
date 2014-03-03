@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-09-05 10:50:24+00:00
 layout: post
 slug: formato-breve-le-strade-delleditoria-accademica

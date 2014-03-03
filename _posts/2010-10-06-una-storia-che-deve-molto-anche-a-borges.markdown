@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 date: 2010-10-06 17:32:27+00:00
 layout: post
 slug: una-storia-che-deve-molto-anche-a-borges

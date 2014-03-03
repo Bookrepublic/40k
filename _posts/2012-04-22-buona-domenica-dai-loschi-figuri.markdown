@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-04-22 06:00:53+00:00
 layout: post
 slug: buona-domenica-dai-loschi-figuri

@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-06-05 12:53:36+00:00
 layout: post
 slug: 9-cose-da-sapere-prima-di-iniziare-a-scrivere-un-libro-di-successo

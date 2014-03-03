@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-09-04 09:28:00+00:00
 layout: post
 slug: twitter-amore-e-odio

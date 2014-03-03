@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-05-24 06:33:35+00:00
 layout: post
 slug: internet-e-ebook-come-cambia-il-mestiere-delleditore

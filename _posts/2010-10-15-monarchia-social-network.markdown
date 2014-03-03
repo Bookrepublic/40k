@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 date: 2010-10-15 11:50:48+00:00
 layout: post
 slug: monarchia-social-network

@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-09-25 08:16:05+00:00
 layout: post
 slug: la-filosofia-va-dove-la-scienza-non-puo-e-che-nessuno-dica-42

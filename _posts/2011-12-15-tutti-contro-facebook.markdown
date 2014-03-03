@@ -1,5 +1,5 @@
 ---
-author: marcog
+author: 40k Team
 date: 2011-12-15 09:51:06+00:00
 layout: post
 slug: tutti-contro-facebook

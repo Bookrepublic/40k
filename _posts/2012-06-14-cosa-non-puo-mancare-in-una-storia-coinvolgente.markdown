@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-06-14 08:34:42+00:00
 layout: post
 slug: cosa-non-puo-mancare-in-una-storia-coinvolgente

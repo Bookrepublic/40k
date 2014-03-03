@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-09-21 10:15:35+00:00
 layout: post
 slug: il-web-che-svanisce-erode-la-storia

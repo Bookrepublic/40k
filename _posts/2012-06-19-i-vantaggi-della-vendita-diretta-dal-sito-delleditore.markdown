@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-06-19 08:59:09+00:00
 layout: post
 slug: i-vantaggi-della-vendita-diretta-dal-sito-delleditore

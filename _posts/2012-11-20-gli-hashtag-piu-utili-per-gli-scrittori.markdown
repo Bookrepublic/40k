@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-11-20 10:52:59+00:00
 layout: post
 slug: gli-hashtag-piu-utili-per-gli-scrittori

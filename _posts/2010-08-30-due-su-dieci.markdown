@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 date: 2010-08-30 12:04:31+00:00
 layout: post
 title: Due su dieci

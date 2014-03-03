@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-12-12 09:33:35+00:00
 layout: post
 slug: la-qualita-generosa-del-libro

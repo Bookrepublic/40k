@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-10-18 13:39:43+00:00
 layout: post
 slug: il-mestiere-piu-interessante-del-ventunesimo-secolo

@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-06-07 13:29:49+00:00
 layout: post
 slug: la-prospettiva-di-una-societa-anti-intellettuale

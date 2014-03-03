@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 date: 2011-01-27 09:11:44+00:00
 layout: post
 slug: lincubo-meccanico-sta-per-ripartire

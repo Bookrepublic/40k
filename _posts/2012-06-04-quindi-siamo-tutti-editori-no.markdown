@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-06-04 11:07:00+00:00
 layout: post
 slug: quindi-siamo-tutti-editori-no

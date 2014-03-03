@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-08-24 13:16:03+00:00
 layout: post
 slug: leditoria-tradizionale-e-la-nuova-vanity-press

@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 date: 2010-08-25 16:16:20+00:00
 layout: post
 title: Cardanica e l'ascensore di Grassilli

@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-10-05 08:20:25+00:00
 layout: post
 slug: le-carte-vincenti-dellecosistema-di-amazon

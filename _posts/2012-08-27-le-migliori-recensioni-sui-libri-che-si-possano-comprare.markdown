@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-08-27 09:14:57+00:00
 layout: post
 slug: le-migliori-recensioni-sui-libri-che-si-possano-comprare

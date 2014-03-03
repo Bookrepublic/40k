@@ -1,5 +1,5 @@
 ---
-author: 40kteam
+author: 40k Team
 date: 2012-06-01 10:35:02+00:00
 layout: post
 slug: il-libro-non-ha-piu-niente-di-sacro
