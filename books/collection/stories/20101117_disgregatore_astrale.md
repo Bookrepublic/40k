@@ -1,6 +1,6 @@
 ---
 layout: book
-isbn: 
+isbn: 9788865860342
 title: Il disgregatore astrale
 sottotitolo:
 author:
