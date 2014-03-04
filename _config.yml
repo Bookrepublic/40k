@@ -13,7 +13,7 @@ postimageurl: /static/img/
 safe: false
 encoding: UTF-8
 
-exclude: ['README.md', less, models]
+exclude: ['README.md', Gemfile, Gemfile.lock, less, models]
 
 sitemap:
     file: "/sitemap.xml"
