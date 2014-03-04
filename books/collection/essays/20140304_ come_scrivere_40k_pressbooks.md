@@ -7,7 +7,7 @@ author:
   - Antonio Dini
 categories:
   - scrittura creativa
-collana: essays
+collana: unofficial
 price: 0€
 format: epub
 lang: italiano

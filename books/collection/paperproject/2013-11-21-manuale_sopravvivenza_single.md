@@ -6,7 +6,7 @@ author:
   - Irene Alcano
 categories:
   - lifestyle
-collana: paperproject
+collana: "paperproject"
 price: 0.99€
 format: epub
 lang: italiano
