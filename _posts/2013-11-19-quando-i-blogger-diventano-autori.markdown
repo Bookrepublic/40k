@@ -7,7 +7,7 @@ slug: quando-i-blogger-diventano-autori
 title: "Quando i blogger diventano autori"
 categories:
 - News
-cover: /stati/img/invito_pp.jpg
+cover: /static/img/invito_pp.jpg
 description: "40k e Paper Poject fanno festa a Bookcity. Vieni?"
 ---
 In occasione di [Bookcity Milano 2013](http://www.bookcitymilano.it/) (21/24 Novembre) 40k Unofficial e [Paper Project](http://paperproject.it/) raccontano la nascita della nuova collana 40kUnofficial/PaperProject che si affaccia sul panorama digitale italiano con un ricco catalogo di saggi digitali su tematiche come Tech, Libri, Do it Yourself, Fashion, Sport, Bon Ton, Food, Rosa, Lifestyle, Beauty, Sesso, Green, Counseling, Oroscopo e Viaggi, tratte dal meglio della blogosfera italiana: quella più letta, cliccata, condivisa, capace di creare con semplici post vere e proprie web-tendenze.

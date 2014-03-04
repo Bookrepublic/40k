@@ -26,12 +26,16 @@ cover: /static/img/jpeg.jpg
                     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
                 </span>
                 <span class="meta small">{{ post.date | date_to_string }} di {{ post.author }}</span>
+                {% if post.cover %}
+                <div class="image_cover_small img-responsive f5x-margin-top f5x-margin-bottom" style="background: url('{{ post.cover }}') no-repeat center center; no-repeat center center; background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover;">
+                </div>
+                {% endif %}
                 <div class="list_post">
-                    {% if post.description %}
+                  {% if post.description %}
                     <p>{{ post.description }}</p>
-                    {% else %}
+                  {% else %}
                     <p>{{ post.excerpt }}</p>
-                    {% endif %}
+                  {% endif %}
                 </div>
             </article>
             <div class="clearfix"></div>
