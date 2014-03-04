@@ -6,7 +6,7 @@ cover: /static/img/jpeg.jpg
 
 {% if paginator.previous_page %}
 {% else %}
-<header class="image_cover img-responsive" style="background: url('{{ page.cover }}') no-repeat center center; no-repeat center center; background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover;">
+<header class="lazy image_cover img-responsive" style="background: url('{{ page.cover }}') no-repeat center center; no-repeat center center; background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover;">
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-8 col-md-offset-2">
@@ -27,7 +27,7 @@ cover: /static/img/jpeg.jpg
                 </span>
                 <span class="meta small">{{ post.date | date_to_string }} di {{ post.author }}</span>
                 {% if post.cover %}
-                <div class="image_cover_small img-responsive f5x-margin-top f5x-margin-bottom" style="background: url('{{ post.cover }}') no-repeat center center; no-repeat center center; background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover;">
+                <div class="lazy image_cover_small img-responsive f5x-margin-top f5x-margin-bottom" style="background: url('{{ post.cover }}') no-repeat center center; no-repeat center center; background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover;">
                 </div>
                 {% endif %}
                 <div class="list_post">

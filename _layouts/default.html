@@ -98,6 +98,9 @@ template: '#search-results-template'  // jQuery selector for the Mustache.js tem
                 failure_limit : 50,
                 effect : "fadeIn"
             });
+            $("div.lazy").lazyload({
+                effect : "fadeIn"
+            });
         });
     </script>
 
