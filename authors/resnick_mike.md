@@ -3,7 +3,7 @@ layout: autore
 nome: Mike
 cognome: Resnick
 nome_completo: Mike Resnick
-meta: 
+meta: "Il più premiato scrittore di fantascienza degli Stati Uniti"
 cover_autore:
 twitter:
 facebook:
