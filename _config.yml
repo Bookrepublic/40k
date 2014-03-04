@@ -11,6 +11,7 @@ authorurl_thumb: /static/author/photo-thumbnail/
 coverurl: /static/cover/resize
 postimageurl: /static/img/
 safe: false
+encoding: UTF-8
 
 exclude: ['README.md', less, models]
 
