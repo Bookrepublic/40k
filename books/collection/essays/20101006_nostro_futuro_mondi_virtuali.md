@@ -1,7 +1,7 @@
 ---
 layout: book
 isbn: 9788865860168
-title: Il nostro futuro nei mondi virtuali
+title: "Il nostro futuro nei mondi virtuali"
 sottotitolo:
 author:
   - Peter Ludlow
