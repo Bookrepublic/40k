@@ -8,7 +8,7 @@ categories:
 - Storie
 tags:
 - Storie di campioni
-cover: /static/img/tomba_discesa.jpg/
+cover: /static/img/tomba_discesa.jpg
 ---
 La torcia olimpica è finalmente arrivata nella città di Sochi, pecorrendo il tragitto più lungo della storia delle Olimpiadi: grazie ai cosmonauti russi è addirittura stata nello spazio.
 
