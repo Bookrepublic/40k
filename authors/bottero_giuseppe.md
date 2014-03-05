@@ -6,8 +6,8 @@ nome_completo: Giuseppe Bottaro
 meta:
 cover_autore:
 twitter: giubot
-facebook:
-linkedin:
+facebook: 
+linkedin: 
 web:
 instagram:
 pinterest:
