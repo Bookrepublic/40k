@@ -8,7 +8,7 @@ categories:
 description: "Dieci trend che ogni autori dovrebbe tenere d'occhio secondo la London Author Fair riportati da Laxmi Hariharan. "
 cover: /static/img/london_authors.jpg
 ---
-[Laxmi Hariharan](https://twitter.com/laxmi), autrice bestseller su Kindle, ha stilato i dieci trend che ogni autore dovrebbe tenere d'occhio secondo la [London Author Fair](authoright.com). Eccoli: 
+[Laxmi Hariharan](https://twitter.com/laxmi), autrice bestseller su Amazon, ha stilato i dieci trend che ogni autore dovrebbe tenere d'occhio secondo la [London Author Fair](authoright.com). Eccoli: 
 
 1. La frenesia della vita moderna sta premiando il formato breve. Non essere prolisso!
 2. Ci sono sempre più scrittori là fuori. Che ne è dei lettori?
