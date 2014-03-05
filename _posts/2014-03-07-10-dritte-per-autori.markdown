@@ -1,7 +1,7 @@
 author: Daria Bernardoni
 date: 2014-03-05
 layout: post
-title: 10 dritte per autori 
+title: "10 dritte per autori"
 categories:
 - autori
 description:
@@ -15,8 +15,6 @@ image:
   alt:
 tag:
 ---
-{% figure_img img-responsive 0 caption %}
-
 Laxmi Hariharan, autrice bestseller su Kindle, ha stilato le dieci tendenze dell'editoria emerse dalla London Author Fair organizzata da [authoright.com](authoright.com), di certo dieci buone indicazioni per ogni autore che vuole pubblicare un ebook. Eccole: 
 
 1. La frenesia della vita moderna sta premiando il formato breve. Non essere prolisso!
