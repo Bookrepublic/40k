@@ -1,21 +1,14 @@
+---
 author: Daria Bernardoni
 date: 2014-03-05
 layout: post
-title: "10 dritte per autori"
+title: "10 trend che ogni autore dovrebbe tenere d'occhio"
 categories:
 - autori
-description:
+description: "Dieci trend che ogni autori dovrebbe tenere d'occhio secondo la London Author Fair"
 cover: /static/img/sliding_water.jpg
-image: 
-- url:
-  caption:
-  alt:
-- url:
-  caption:
-  alt:
-tag:
 ---
-Laxmi Hariharan, autrice bestseller su Kindle, ha stilato le dieci tendenze dell'editoria emerse dalla London Author Fair organizzata da [authoright.com](authoright.com), di certo dieci buone indicazioni per ogni autore che vuole pubblicare un ebook. Eccole: 
+Laxmi Hariharan, autrice bestseller su Kindle, ha stilato i dieci trend che ogni autore dovrebbe tenere d'occhio secondo la [London Author Fair](authoright.com). Eccoli: 
 
 1. La frenesia della vita moderna sta premiando il formato breve. Non essere prolisso!
 2. Ci sono sempre più scrittori là fuori. Ma i lettori?
