@@ -19,6 +19,7 @@ Laxmi Hariharan, autrice bestseller su Kindle, ha stilato i dieci trend che ogni
 7. Sii fiducioso, anche un po' di sana ingenuità non guasta
 8. Conosci i tuoi lettori: se sai chi ti legge, puoi imparare a parlare alla tua community.
 9. Per vendere il tuo ebook, non devi parlare di vendere il tuo ebook. Sii discreto, sii creativo. Ad esempio, sui social network parla di te stesso: se conquisti il tuo pubblico, saranno loro a volr comprare.
+10. Sfrutta la serialità: grazie al digitale, la tecnica del cliff hanger (protagonisti di film d'azione che restano appesi a cespugli sopra ai burroni un attimo prima di un cambio di inquadratura) può giocare anche agli scrittori.
 
 Leggi l'articolo intero sull'[Huffington Post](http://www.huffingtonpost.co.uk/londonbombay-return/ten-publishing-trends-an-indie-authors-take_b_4884676.html)
 
