@@ -3,7 +3,7 @@ date: 2014-03-05
 layout: post
 title: 10 dritte per autori 
 categories:
--
+- autori
 description:
 cover: /static/img/sliding_water.jpg
 image: 
