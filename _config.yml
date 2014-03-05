@@ -1,4 +1,5 @@
 name: 40kbooks
+title: 40k - Smart Ebooks for Smart People
 markdown: redcarpet
 pygments: true
 permalink: /blog/:year/:month/:day/:title/
@@ -59,6 +60,7 @@ authors:
 
 image:
   source: /static/img/
+  output: generated
   presets:
     imgresponsive:
       attr:
@@ -78,3 +80,11 @@ mini_magick:
         source: static/cover/
         destination: static/cover/resize/small
         resize: "300x420"
+
+#Open Graph
+og_image:  # Default image for Open Graph tag
+og_image_type: /static/img/40k_ebook_logo_nero.jpg
+og_image_width: 320
+og_image_height: 320
+fb_profile_id: 40kbooks
+fb_admins: 1707792040
