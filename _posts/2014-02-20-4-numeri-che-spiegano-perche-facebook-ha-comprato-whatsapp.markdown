@@ -9,8 +9,6 @@ categories:
 cover: /static/img/social.jpg
 
 ---
-
-
 Facebook annuncia a sorpresa di aver comprato il sistema di messaggeria più famoso al mondo, WhatsApp, per 19 miliardi di dollari (13,8 miliardi di euro). Secondo [Sequoia Capital](http://sequoiacapital.tumblr.com/post/77211282835/four-numbers-that-explain-why-facebook-acquired) quattro numeri spiegano perché:
 
 **450**: sono i milioni di utenti attivi su WhatsApp.
