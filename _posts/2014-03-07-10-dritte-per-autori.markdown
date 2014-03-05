@@ -2,7 +2,7 @@
 author: Daria Bernardoni
 date: 2014-03-05
 layout: post
-title: "10 trend che ogni autore dovrebbe tenere d'occhio"
+title: "10 trend che un autore dovrebbe tenere d'occhio"
 categories:
 - autori
 description: "Dieci trend che ogni autori dovrebbe tenere d'occhio secondo la London Author Fair riportati da Laxmi Hariharan. "
