@@ -12,10 +12,10 @@
 
 <!-- se siamo in una scheda scheda prodotto, anche detta libro -->
 
+{% if page.isbn %}
 <title>{{ page.title }} | 40k Ebook</title>
 <meta name="description=" content="{{ page.content }}">
 
-{% if page.isbn %}
 <meta property="fb:app_id"          content="269829379846399" /> 
 <meta property="og:type"            content="books.book" /> 
 <meta property="og:url"             content="{{ page.url }}" /> 
