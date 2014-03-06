@@ -5,7 +5,7 @@ pygments: true
 permalink: /blog/:year/:month/:day/:title/
 paginate: 15
 paginate_path: "blog/page:num"
-url: http://jekyll.40k.it
+url: http://jekyllw.40k.it
 baseurl: /
 authorurl: /static/author/
 authorurl_thumb: /static/author/photo-thumbnail/
@@ -82,9 +82,9 @@ mini_magick:
         resize: "300x420"
 
 #Open Graph
-og_image:  # Default image for Open Graph tag
-og_image_type: /static/img/40k_ebook_logo_nero.jpg
-og_image_width: 320
-og_image_height: 320
-fb_profile_id: 40kbooks
-fb_admins: 1707792040
+#og_image:  # Default image for Open Graph tag
+#og_image_type: /static/img/40k_ebook_logo_nero.jpg
+#og_image_width: 320
+#og_image_height: 320
+#fb_profile_id: 40kbooks
+#fb_admins: 1707792040
