@@ -38,21 +38,19 @@ Matteo Papadopoulos è un bellissimo ragazzo padre e, soprattutto, un bravissimo
 Da quel giorno, è amore (verso Jekyll). Perché?
 
 1. **Jekyll è semplice**;
-2. **jekyll è veloce** come può esserlo un sito statico;
-3. **liquid ha una vaga somiglianza con Django** (sì, lo so, non c'entra niente, ma la sintassi è davvero simile).
+2. **Jekyll è veloce** come può esserlo un sito statico;
+3. **Liquid ha una vaga somiglianza con Django** (sì, lo so, non c'entra niente, ma la sintassi è davvero simile).
 
 {% figure_img img-responsive 0 caption %}
 
-A queste considerazioni se ne aggiungono altre due, entrambe frutto del lavoro svolto fino a qui assieme a Daria e Giovanni all'interno di Bookrepublic.
+A queste considerazioni se ne aggiungono altre due, entrambe frutto del lavoro svolto fino a qui assieme a Daria e [Giovanni](https://twitter.com/CrazyDesign84) all'interno di Bookrepublic.
 
-1. Scrivere un post in Jekyll significa scrivere in markdown (ok, non solo, ma soprattutto). Negli ultimi mesi, questo è stato lo strumento utilizzato per condividere documenti e progetti. Aldilà della facilità d'uso, scrivere in markdown obbliga a un certo ordine mentale che - almeno in alcuni casi - è corrisposto a un certo ordine di idee;
+1. Scrivere un post in Jekyll significa scrivere in markdown (ok, non solo, ma soprattutto). Negli ultimi mesi, questo è stato lo strumento utilizzato per condividere documenti e progetti. Aldilà della facilità d'uso, scrivere in markdown obbliga a un certo ordine mentale che - almeno in alcuni casi - corrisponde a un certo ordine di idee;
 2. il codice di questo nuovo progetto vive all'interno di un repository di Github. Oltre ai progetti più complessi (la libreria di Bookrepublic, il servizio di distribuzione Exlibris, il Reader etc.) abbiamo utilizzato Git per gestire codice in qualunque forma. In altri termini, Git non è, grazie a Dio, un perfetto sconosciuto all'interno del team.
 
 ##Cosa abbiamo deciso di inserire all'interno del sito di 40k
 
-Da un lato il blog, dall'altro il catalogo. Lapalissiano, ovvio, ma non lo era stato fino a ora. O meglio: il catalogo 40k sta allargandosi e le scelte che stiamo facendo vanno nella direzione di una piattaforma di self publishing assistito (ne parleremo, per ora accontentatevi di questa pagina: link).
-
-Gestire, come fatto fino a ora, il catalogo attraverso pagine di un blog Wordpress non ci bastava più.
+Da un lato il blog, dall'altro il catalogo. Lapalissiano, ma non lo era stato fino a ora. La community di autori makers di 40k Unofficial si sta allargando sempre di più (ne parleremo, per ora accontentatevi di [questa pagina](http://40k.it/diventa_autore/)): gestire, come fatto fino a ora, il catalogo attraverso pagine di un blog Wordpress non ci bastava più.
 
 {% figure_img img-responsive 1 caption %}
 
@@ -60,7 +58,7 @@ Ora i flussi sono separati: da un lato la nostra comunicazione (fatta di tanta c
 
 ###Ma allora potevate continuare a usare Wordpress
 
-Sì, è vero. Ma anche no. Wordpress *non* è *la* scelta nel caso della pubblicazione di blog o siti. O meglio, non lo è per noi. È una possibile, ottima, consolidata scelta. Ma non l'unica. Ora, in non amo Wordpress e temo di esserne ricambiato, e se ad esempio in questo momento mi chiedeste "e allora come devo farlo il mio blog", ecco, io vi risponderei dicendo **Ghost**. Ma Ghost è ancora troppo giovane per un sito che includa più autori e diverse pagine. Non va bene, insomma.
+Sì, è vero. Ma anche no. Wordpress *non* è *la* scelta nel caso della pubblicazione di blog o siti. O meglio, non lo è per noi. È una possibile, ottima, consolidata scelta. Ma non l'unica. Ora, io non amo Wordpress e temo di essere ricambiato, e se ad esempio in questo momento mi chiedeste "e allora come devo farlo il mio blog", ecco, io vi risponderei dicendo **Ghost**. Ma Ghost è ancora troppo giovane per un sito che includa più autori e diverse pagine. Non va bene, insomma.
 
 Del resto, la verità è questa: abbiamo giocato. Tralasciamo le tonnellate di studi etologici che ci ricordano come la nostra specie apprenda giocando e concentriamoci su un punto: per il nostro team **provare** è fondamentale. Giocare, sperimentare, imparare. Non ne abbiamo sempre il tempo e a volte non ne abbiamo neppure la forza, ma quando lo spazio c'è, allora perché no?
 
@@ -74,9 +72,9 @@ Direte: ma mancano i classici widget di un blog.
 
 {% figure_img img-responsive 2 caption %}
 
-Io odio i widget, non ne capisco il senso. Ok, generare più traffico all'interno del sito. Ok, far rimanere il lettore all'interno del nostro mondo. Ma all'alba del 2014 e con un mondo popolato da Social Netwokr, ha davvero senso pensare a 40k come il sito di 40k? Non credo: 40k è la somma dei suoi elementi ovunque in rete: blog, social network, ebook, autori, lettori. Credere che per essere in 40k si debba essere sul suo sito significa avere capito poco - io credo - di cosa significhi oggi essere online.
+Io odio i widget, non ne capisco il senso. Ok, generare più traffico all'interno del sito. Ok, far rimanere il lettore all'interno del nostro mondo. Ma all'alba del 2014 e con un mondo popolato da Social Network, ha davvero senso pensare a 40k come il sito di 40k? Non credo: 40k è la somma dei suoi elementi ovunque in rete: blog, social network, ebook, autori, lettori. Credere che per essere in 40k si debba essere sul suo sito significa avere capito poco - io credo - di cosa significhi oggi essere online.
 
-Per questo motivo: arriveranno, probabilmente, articoli correlati e piccoli altri orpelli, ma per ora il blog che vogliamo è esattamente quello che sta facendo il team di Medium: un luogo che racconti storie.
+Per questo motivo, arriveranno, probabilmente, articoli correlati e piccoli altri orpelli, ma per ora il blog che vogliamo è esattamente quello che sta facendo il team di Medium: un luogo che racconti storie.
 
 ##Ma è molto, troppo simile a Boostrap!
 
@@ -98,4 +96,4 @@ Principalmente:
 
 ##Cosa useremo
 
-Non lo sapiamo ancora. Di certo, il suddetto Matteo Papadopoulos mi sta instillando la convinzione che [Sass](http://sass-lang.com/) sia superiore a Less (dove questa volta ci siamo adagiati) e che abbia senso scrivere di elementi e classi coltivando un'insana passione per [BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/). Non credo ne usciremo vivi.
+Non lo sappiamo ancora. Di certo, il suddetto Matteo Papadopoulos mi sta instillando la convinzione che [Sass](http://sass-lang.com/) sia superiore a Less (dove questa volta ci siamo adagiati) e che abbia senso scrivere di elementi e classi coltivando un'insana passione per [BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/). Non credo ne usciremo vivi.
