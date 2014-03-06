@@ -1,8 +1,8 @@
 ---
 layout: book
 isbn: 9788865860939
-title: Morire d'amianto
-sottotitolo: Il caso Eternit: la fabbrica, le vittime, la giustizia
+title: "Morire d'amianto"
+sottotitolo: "Il caso Eternit: la fabbrica, le vittime, la giustizia"
 author:
   - Silvana Mossano
   - Michele Brambilla 
