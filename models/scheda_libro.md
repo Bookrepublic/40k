@@ -1,7 +1,7 @@
 ---
 layout: book
 isbn: 
-title:
+title: ""
 sottotitolo:
 author:
   - 

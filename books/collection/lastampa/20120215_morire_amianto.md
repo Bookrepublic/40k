@@ -15,7 +15,7 @@ lang: italiano
 date: 2012-02-15
 state: catalogo
 bookrepublic: http://www.bookrepublic.it/book/9788865860939-morire-damianto-il-caso-eternit-la-fabbrica-le-vittime-la-giustizia/
-kindle: 
+kindle: http://www.amazon.it/Morire-damianto-caso-Eternit-giustizia-ebook/dp/B0079469ZU/
 drm: Social DRM
 quote:
 meta:
