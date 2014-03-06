@@ -39,7 +39,7 @@ Da quel giorno, è amore (verso Jekyll). Perché?
 
 1. **Jekyll è semplice**;
 2. **Jekyll è veloce** come può esserlo un sito statico;
-3. **Liquid ha una vaga somiglianza con Django** (sì, lo so, non c'entra niente, ma la sintassi è davvero simile).
+3. **il markup di [Liquid](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers) ha una vaga somiglianza con quello di [Django](https://www.djangoproject.com/)** che abbiamo imparato a conosciere con la libreria di [Bookrepublic](http://www.bookrepublic.it/) (sì, lo so, non c'entrano niente l'uno con l'altro, ma la sintassi è davvero simile).
 
 {% figure_img img-responsive 0 caption %}
 
@@ -58,7 +58,7 @@ Ora i flussi sono separati: da un lato la nostra comunicazione (fatta di tanta c
 
 ###Ma allora potevate continuare a usare Wordpress
 
-Sì, è vero. Ma anche no. Wordpress *non* è *la* scelta nel caso della pubblicazione di blog o siti. O meglio, non lo è per noi. È una possibile, ottima, consolidata scelta. Ma non l'unica. Ora, io non amo Wordpress e temo di essere ricambiato, e se ad esempio in questo momento mi chiedeste "e allora come devo farlo il mio blog", ecco, io vi risponderei dicendo **Ghost**. Ma Ghost è ancora troppo giovane per un sito che includa più autori e diverse pagine. Non va bene, insomma.
+Sì, è vero. Ma anche no. [Wordpress](http://wordpress.com/) *non* è *la* scelta nel caso della pubblicazione di blog o siti. O meglio, non lo è per noi. È una possibile, ottima, consolidata scelta. Ma non l'unica. Ora, io non amo Wordpress e temo di essere ricambiato, e se ad esempio in questo momento mi chiedeste "e allora come devo farlo il mio blog?", ecco, io vi risponderei dicendo [**Ghost**](https://ghost.org/). Ma Ghost è ancora troppo giovane per un sito che includa più autori e diverse pagine. Non va bene, insomma.
 
 Del resto, la verità è questa: abbiamo giocato. Tralasciamo le tonnellate di studi etologici che ci ricordano come la nostra specie apprenda giocando e concentriamoci su un punto: per il nostro team **provare** è fondamentale. Giocare, sperimentare, imparare. Non ne abbiamo sempre il tempo e a volte non ne abbiamo neppure la forza, ma quando lo spazio c'è, allora perché no?
 
@@ -66,7 +66,7 @@ In definitiva: Wordpress è bello, Jekyll lo è altrettanto, e siamo davvero fel
 
 ##Ma il blog è molto, troppo simile a Medium!
 
-Sì, lo so. E, a dire il vero, è molto simile anche al tema di default di Ghost. Ma non è un problema. Medium è bello, Ghost è bello. Averci avuto più tempo, chissà, ora avremmo rivoluzionato il mondo del web design, ma per ora ci siamo solo largamente ispirati a chi, in rete, sta facendo un grandissimo lavoro.
+Sì, lo so. E, a dire il vero, è molto simile anche al tema di default di Ghost. Ma non è un problema. [Medium](https://medium.com/) è bello, Ghost è bello. Averci avuto più tempo, chissà, ora avremmo rivoluzionato il mondo del web design, ma per ora ci siamo solo largamente ispirati a chi, in rete, sta facendo un grandissimo lavoro.
 
 Direte: ma mancano i classici widget di un blog.
 
@@ -78,7 +78,7 @@ Per questo motivo, arriveranno, probabilmente, articoli correlati e piccoli altr
 
 ##Ma è molto, troppo simile a Boostrap!
 
-Sì, lo so. Abbiamo usato questo framework. Abbiamo messo le mani qua è là per modificare alcuni stili, abbiamo lavorato su alcune classi e, in maniera assolutamente disordinata, creato nuovi elementi da usare all'occorrenza.
+Sì, lo so. Abbiamo usato [questo framework](http://getbootstrap.com/). Abbiamo messo le mani qua è là per modificare alcuni stili, abbiamo lavorato su alcune classi e, in maniera assolutamente disordinata, creato nuovi elementi da usare all'occorrenza.
 
 Vi ho detto che avevamo una settimana e mezzo per realizzare il sito, vero?
 
