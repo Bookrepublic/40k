@@ -23,7 +23,7 @@
 <meta property="og:image"           content="{{ site.url }}{{ site.coverurl }}/{{ page.isbn }}.jpg" /> 
 <meta property="og:description"     content="{{ page.content }}" /> 
 <meta property="books:isbn"         content="{{ page.isbn }}" /> 
-<meta property="books:author"       content="{% for autore in site.pages %}{% for autori in page.author %}{% if autore.nome_completo == autori %}{{ sit.url }}{{ autore.url }}{% endif %}{% endfor %}{% endfor %}" />
+<meta property="books:author"       content="{% for autore in site.pages %}{% for autori in page.author %}{% if autore.nome_completo == autori %}{{ site.url }}{{ autore.url }}{% endif %}{% endfor %}{% endfor %}" />
 {% endif %}
 
 {% comment %}
