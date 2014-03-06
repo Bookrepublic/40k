@@ -21,9 +21,3 @@ meta: "I non-luoghi non hanno storia ed esistono solo nel presente, sono luoghi 
 cover_image:
 ---
 Come hanno potuto, Steve Jobs e i suoi collaboratori, immaginare di creare una catena di negozi fisici chiamati Apple Store? Per capire meglio questo passaggio cruciale dovete riprendere in mano due idee: la tragedia greca e il concetto di non-luogo. Siete stupiti e perplessi? È lo stato d’animo migliore per iniziare la lettura: la chiarezza della conclusione avrà su di voi un effetto catartico.«I non-luoghi non hanno storia ed esistono solo nel presente, sono luoghi precari, disonesti, che diventano una delle basi di una società sempre più liquida.»
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

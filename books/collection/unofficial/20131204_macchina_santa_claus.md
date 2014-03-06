@@ -21,9 +21,3 @@ meta: "Un ebook che racconta i vari aspetti storici e tecnologici oltre che le a
 cover_image:
 ---
 La stampante 3D è davvero la macchina di Santa Claus? Le sue potenzialità permettono di rivoluzionare il sistema produttivo dalla massima alla minima scala, con possibilità inimmaginabili per il Do It Yourself. Gli industriali più avveduti e i politici più illuminati se ne sono già resi conto, anche se nell’opinione pubblica l’idea non è molto diffusa. Un ebook che racconta i vari aspetti storici e tecnologici oltre che le applicazioni nei più svariati campi: dal design alla medicina, dall’industria aerospaziale alle nanotecnologie, dalla ludica all’arte e all’architettura.
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

@@ -21,9 +21,3 @@ meta: "Pinterest è un diario originale su cui possiamo raccontare la nostra vit
 cover_image:
 ---
 La nostra vita possiamo raccontarla in mille modi: su Pinterest diventa un diaro originale di quello che siamo. La quotidianità scorre sulle lavagne online: è lì che appuntiamo le immagini migliori, come tanti e colorati post-it. E per le aziende, il dietro le quinte del marketing diventa il racconto social di un'emozione."
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

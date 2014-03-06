@@ -21,9 +21,3 @@ meta: "Spunti e idee per nuovi e fantastici abbinamenti vegetali e floreali perf
 cover_image:
 ---
 Vi svelerò un segreto: non ho il pollice verde, anche se progetto giardini e amo le piante questo non fa di me una giardiniera provetta. Ma di una cosa sono certa: le piante menzionate in questo libro sono facilissime da curare, avete la mia parola, se ci sono riuscita io, lo potete fare anche voi. Vi darò poi alcuni consigli pratici per una buona gestione delle piante da appartamento; inoltre vi fornirò anche alcuni suggerimenti per cercare online, nel variegato mondo di internet, spunti e idee per nuovi e fantastici abbinamenti vegetali e floreali perfetti per la vostra casa.
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

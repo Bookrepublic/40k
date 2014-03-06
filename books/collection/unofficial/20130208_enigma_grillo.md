@@ -21,9 +21,3 @@ meta: "L'analisi di Alessandro Lanni sul fenomeno Grillo, senza paura di porsi n
 cover_image:
 ---
 «Una delle novità più affascinanti della triste politica italiana di questi anni»: l’enigma Grillo non ha ancora trovato una soluzione. Semplificazioni, accuse, incomprensioni: intorno al caso non si risparmiano parole e non è semplice distinguere quelle fondate dai luoghi comuni. Dal concetto di leader al populismo, passando per immancabili agende, armiamoci di lente di ingrandimento per analizzare con Alessandro Lanni il fenomeno Grillo, senza paura di porci nessuna domanda.
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

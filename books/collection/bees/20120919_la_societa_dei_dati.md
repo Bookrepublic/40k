@@ -21,9 +21,3 @@ meta: "La tecnologia si è sviluppata al punto da regalarci un sesto senso: poss
 cover_image:
 ---
 La tecnologia si è sviluppata al punto da regalarci un sesto senso: possiamo ottenere informazioni con cui prevedere comportamenti, nostri e degli altri. Le aziende usano questo mare di dati per far crescere il proprio business. Le amministrazioni potrebbero farlo per abbattere i tempi della burocrazia e migliorare i servizi. E i cittadini? Nella società dei dati possono controllare consumi, prestazioni sportive, salute. Ma come bilanciare i vantaggi di una maggiore conoscenza con la cessione di così tanti dati personali?
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

@@ -21,9 +21,3 @@ meta: "Appel guida il lettore fino al cuore del dilemma tra libertà e sicurezza
 cover_image:
 ---
 Menzione speciale, Pushcart Prize 2006. Maggie e Frank sono una coppia di newyorkesi senza figli. Vogliono un bambino, ma a pochi giorni dall’11 Settembre, pensare a una nuova vita richiede troppo coraggio. E non è coraggio, quello che vede Maggie negli occhi di suo marito, quando torna a casa dopo aver saccheggiato la biblioteca di quartiere alla ricerca di documentazione sulle possibili forme di nuovi attacchi terroristici. Frank, da buon marito, vuole soltanto proteggere la moglie: “Ti amo troppo per permettere che tu muoia per l’antrace, o di botulismo”. Anche a costo di lasciare New York. Anche a costo di trasferirsi fuori città. Anche a costo di… costruire un rifugio antiatomico. Ma fino a che punto è legittima la paura del pericolo? E quanto è rischioso sottovalutare il pericolo della paura? Appel guida il lettore fino al cuore del dilemma tra libertà e sicurezza, sull’intimo confine tra paura e paranoia, tra amore e ostinazione.
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

@@ -22,9 +22,3 @@ cover_image:
 ---
 Qual è il nostro rapporto con le storie? Come ce le raccontano e come le viviamo? Come ce le raccontiamo noi stessi?E quanto conta «la “storia” che ci raccontano o ci raccontiamo» nel definire le scelte che facciamo e nel guidare le decisioni che prendiamo? «È necessario descrivere il mondo per dargli un senso. Queste descrizioni diventano quindi simboli potenti».
 In un saggio bello e appassionante, che spazia dalla letteratura agli esperimenti scientifici, Tom Stafford ci aiuta a comprendere il nostro rapporto con le narrazioni. Quelle degli altri e quelle che ci costruiamo da soli per descrivere la nostra vita.
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

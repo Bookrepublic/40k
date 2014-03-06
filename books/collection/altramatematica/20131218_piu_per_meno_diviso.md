@@ -21,9 +21,3 @@ meta: "Quella dei segni delle operazioni è insomma una lunga storia: qua ne tro
 cover_image:
 ---
 Lo si dice spesso: se una cosa è certa allora è matematica. Che sei per sette sia la risposta alla domanda fondamentale sulla Vita, l’Universo e Tutto Quanto, non c’è dubbio, ma come scrivete l’operazione? Sulla carta con un puntino o una crocetta, sulla calcolatrice avete a disposizione un asterisco. L’operazione è certa, il segno meno: e a proposito del segno meno, il trattino orizzontale, che ora ci pare così scontato, ci ha messo un po’ per affermarsi. Quella dei segni delle operazioni è insomma una lunga storia: qua ne troverete un pezzo, quella delle quattro operazioni fondamentali e di chi in Europa, tra il Rinascimento e il XVII secolo, li ha tracciati (mentre calcolava oroscopi…).»
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

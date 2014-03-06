@@ -20,9 +20,3 @@ meta: "Chi non ha mai giocato, nemmeno una volta al ritratto cinese, meglio cono
 ---
 
 Chi non ha mai giocato, nemmeno una volta al ritratto cinese, meglio conosciuto come il gioco del se fosse? Da piccini le domande e le risposte sono utili per scoprire soprattutto le proprie caratteristiche, da grandi per fantasticare con gli amici su possibili conquiste e amori. Noi, astro-bloggers di unaparolabuonapertutti.it, abbiamo deciso di giocare al se fosse abbinando personalità e caratteristiche di ogni segno dello zodiaco a vari elementi, così da esaltarne i punti di forza e ironizzarne su quelli deboli: provare per credere, vi riconoscete nelle nostre fantasie astrali?
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

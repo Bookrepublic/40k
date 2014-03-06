@@ -21,9 +21,3 @@ meta: "Ci sono tre regole di base da seguire mentre si intraprende l’avventura
 cover_image: 
 ---
 Ci sono tre regole di base da seguire mentre si intraprende l’avventura di un blog: scrivi solo se hai qualcosa da dire, rendi unica la tua voce e dai qualcosa in più. Insomma, stai in rete con la modalità più sincera che hai: te stesso. E poi dialoga con i lettori, ascolta in giro, linka, accetta le critiche e impara dagli errori. Qualunque sia l’argomento dei tuoi post, aggiungi anche un po’ di ironia. Così il tuo blog non resterà un’isola.
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

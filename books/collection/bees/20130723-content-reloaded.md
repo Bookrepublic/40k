@@ -22,9 +22,3 @@ meta: "In un contesto 2.0 saturo di «rumori» e bit informativi, qual è il fut
 cover_image:
 ---
 In un contesto 2.0 saturo di «rumori» e bit informativi, qual è il futuro del business sui social network? La proposta dei due autori contenuta nell’ebook è quella del content reloading, una logica che si sta dimostrando fondamentale per la sopravvivenza di tutto il social web. Se la rete è vissuta dagli utenti e il livello di coinvolgimento di questi ultimi è determinato dalla qualità dei contenuti ritrovabili e condivisibili online, al fine di determinare e incrementare il reale valore degli stessi luoghi d’interazione digitale è necessario ripartire dai e ripensare ai contenuti generati e diffusi da brand e persone in un’ottica prettamente qualitativa.È questa la direzione verso cui le aziende devono orientarsi per impostare efficaci strategie di Digital Marketing: i progetti di social business che saranno capaci di valorizzarlo avranno probabilmente in mano la carta del successo e la formula della propria sostenibilità economico-finanziaria.
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

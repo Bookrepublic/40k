@@ -21,9 +21,3 @@ meta: "Un viaggio nell'allucinato mondo dei fan."
 cover_image:
 ---
 Fanfiction: al pari dell'Anello di Sauron, solo il nome fa tramare gli autori più famosi e irritare quelli meno noti. Un viaggio nell'allucinato mondo dei fan, quello che gli sceneggiatori di serie tv nutrono a colpi di scena, ovvero l'arte di rovinare qualunque opera letteraria e non, ma anche di creare coesione, passione e spesso eccellenti prodotti letterari in barba a chi li vede solo come un mero esercizio di penna.
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

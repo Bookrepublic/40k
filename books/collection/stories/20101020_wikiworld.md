@@ -22,10 +22,4 @@ cover_image:
 ---
 Piacere, Russ Reynolds. Forse ricorderete il mio nome dai tre giorni in cui fui a capo della nazione. Ci siamo divertiti, quella volta, eh? Chiedo scusa per avere scatenato una guerra commerciale contro parecchi paesi del pianeta. Scommetto che provate tutti un gran sollievo per la mancata escalation allo scontro armato. Io di sicuro. E comunque alla fine gli Uwa l’hanno spuntata, no? Nessun danno, niente dolo. Vi sono grato della vostra comprensione e indulgenza. Giuro che i miei moventi riguardo all’intera faccenda, se pure piuttosto egoistici, non furono ignobili.
 
-E adesso che il polverone si è depositato, immagino sarete abbastanza sereni da voler sentire tutta la storia dietro quegli eventi spaventosamente elettrizzanti
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}
+E adesso che il polverone si è depositato, immagino sarete abbastanza sereni da voler sentire tutta la storia dietro quegli eventi spaventosamente elettrizzanti.

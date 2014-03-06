@@ -21,10 +21,4 @@ meta: "Sergio vive per la carriera, Carlo non ci pensa proprio a fidanzarsi, vuo
 cover_image:
 ---
 
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}
-
 Sergio vive per la carriera, Carlo non ci pensa proprio a fidanzarsi, vuole solo divertirsi, a differenza di Giorgio che è finalmente riuscito a mettere su casa e famiglia. Nel frattempo Giulia ha cambiato città in cerca di un’assunzione: ha trovato il lavoro, ma ha perso l’amore. Per Lara la situazione è esattamente all’opposto: aspetta una bimba dal suo bel maritino ed è professionalmente appesa a un filo precario.Chi sono tutti loro? Cos’hanno in comune? Sono giovani alle prese con il famoso giro di boa dei trent’anni, in bilico tra il sentirsi ragazzi e il trovarsi adulti. Non più acerbi e non ancora maturi, vivono a cavallo tra due status, muovendosi in una terra di mezzo senza le bussole del passato ma con l’ultimo aggiornamento di Google Maps scaricato sui propri smartphone.Forse come te, di sicuro come me, sorridono e vanno avanti... alla faccia di un’età critica e di un mondo in crisi.

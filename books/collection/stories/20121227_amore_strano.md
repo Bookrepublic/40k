@@ -24,9 +24,3 @@ Farfalla Corrado è una globetrotter e un’affascinante strega italiana, cresci
 Gavin Tremaine è cresciuto a Seattle, si occupa di high-tech, e di professione fa il venture capitalist. Anche lui può predire il futuro: riconosce le nuove tendenze per trasformarle in business model.
 
 Quando i mondi di Farfalla e di Gavin entrano in collisione, la storia stessa comincia a sfaldarsi: sanno già entrambi in che modo andrà a finire. E non è certo come gli altri si aspettano che vada.
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

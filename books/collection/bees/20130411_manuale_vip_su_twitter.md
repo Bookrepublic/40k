@@ -21,9 +21,3 @@ meta: Una guida pratica e ironica per chiunque voglia migliorare il proprio modo
 cover_image:
 ---
 Negli ultimi due anni i Vip italiani sono calati in massa su Twitter. I loro account sono ormai la fonte ufficiale per giornalisti, sponsor, amanti del gossip, appassionati di comunicazione e semplici ammiratori. E allora perché non imparare a fare personal branding e social media marketing dai loro errori e successi? Una guida pratica e ironica per chiunque voglia migliorare il proprio modo di comunicare su Twitter. Utile per i Vip... e per chi vuole diventarlo.
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

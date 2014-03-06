@@ -22,9 +22,3 @@ meta: "Creating shared value, creare valore condiviso. Uno slogan che esprime in
 cover_image:
 ---
 “Creating shared value”, creare valore condiviso. Uno slogan che esprime in modo semplice due concetti chiave del nostro tempo. Da una parte creatività e innovazione che caratterizzano la produzione imprenditoriale più avanzata. Dall’altra la generazione di valore a vantaggio non di una minoranza, ma condiviso da una pluralità di attori. Questo stesso slogan riserva però altrettante sorprese.
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

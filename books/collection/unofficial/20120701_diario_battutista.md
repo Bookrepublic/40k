@@ -20,10 +20,4 @@ quote: "Sono, per così dire, l'anello mancante fra la battutista e la cazzara"
 meta: "Un ebook per chi vuole satira, per chi vuole capirla, per chi vuole godersela."
 cover_image:
 ---
-I battutisti? Gente normale, mica dei geni. E poi chi l'ha detto che non piangono mai? Si commuovono, si arrabbiano, e alla fine si confessano. Sanno che la satira ci salverà. Non capita spesso, ma se un’adepta della Massoneria internazionale della battuta decide di svelare qualche segreto del mestiere, ecco che vale la pena chiederle: “Ma tu, dove le trovi?”
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}
+I battutisti? Gente normale, mica dei geni. E poi chi l'ha detto che non piangono mai? Si commuovono, si arrabbiano, e alla fine si confessano. Sanno che la satira ci salverà. Non capita spesso, ma se un’adepta della Massoneria internazionale della battuta decide di svelare qualche segreto del mestiere, ecco che vale la pena chiederle: “Ma tu, dove le trovi?”.

@@ -21,9 +21,3 @@ meta: "Una lettera dedicata a chi vorrebbe ancora votare centro sinistra."
 cover_image:
 ---
 Le lettere, si sa, si scrivono a chi si vuol bene. E il Partito Democratico, di gente pronta a dimostrare affetto, ne ha parecchia. Salvo poi vederla mettersi le mani nei capelli tante volte, come accadde dopo il 2008. Allora, caro Bersani, quando si comincia a fare sul serio? Quella gente vorrebbe ancora votare centrosinistra. Questa lettera è dedicata anche a loro.
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}9788898001002

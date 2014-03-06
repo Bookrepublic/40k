@@ -1,10 +1,30 @@
 <title>
-	{% if page.title %}
-		{{ page.title }}
-	{% else %}
-		{{ site.title }}
-	{% endif %}
+    {% if page.title %}
+    {{ page.title }}
+    {% else %}
+    {{ site.title }}
+    {% endif %}
 </title>
+<meta content="{% if page.path contains '_posts' %}This page is a post{% else %}This page is a normal page{% endif %}">
+<meta content="{% if page.isbn %}This page is a books{% endif %}">
+
+
+
+<!-- se siamo in una scheda scheda prodotto, anche detta libro -->
+
+<title>{{ page.title }} | 40k Ebook</title>
+<meta name="description=" content="{{ page.content }}">
+
+{% if page.isbn %}
+<meta property="fb:app_id"          content="269829379846399" /> 
+<meta property="og:type"            content="books.book" /> 
+<meta property="og:url"             content="{{ page.url }}" /> 
+<meta property="og:title"           content="{{ page.title }}{% if page.sottotitolo %} {{ page.sottotitolo }}{% endif %}" /> 
+<meta property="og:image"           content="{{ site.coverurl }}/{{ page.isbn }}.jpg" /> 
+<meta property="og:description"     content="{{ page.content }}" /> 
+<meta property="books:isbn"         content="{{ page.isbn }}" /> 
+<meta property="books:author"       content="" />
+{% endif %}
 
 {% comment %}
 <meta content="{% if page.path contains '_posts' %}This page is a post{% else %}This page is a normal page{% endif %}">
@@ -12,22 +32,9 @@
 
 <!-- facebook -->
 {% if page.title %}
-	<meta property="og:type" content="article" />
-	<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="{{ page.title }}" />
 {% else %}
-	<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:title" content="{{ page.title }}" />
 {% endif %}
-
-<!-- per una scheda prodotto -->
-
- <meta property="fb:app_id"          content="269829379846399" /> 
-  <meta property="og:type"            content="books.book" /> 
-  <meta property="og:url"             content="Put your own URL to the object here" /> 
-  <meta property="og:title"           content="Snow Crash" /> 
-  <meta property="og:image"           content="http://en.wikipedia.org/wiki/File:Snowcrash.jpg" /> 
-  <meta property="og:description"     content="In reality, Hiro Protagonist delivers pizza for Uncle Enzo&#x2019;s CosoNostra Pizza Inc., but in the Metaverse he&#x2019;s a warrior prince. Plunging headlong into the enigma of a new computer virus that&#x2019;s striking down hackers everywhere, he races along the neon-lit streets on a search-and-destroy mission for the shadowy virtual villain threatening to bring about infocalypse. Snow Crash is a mind-altering romp through a future America so bizarre, so outrageous&#x2026;you&#x2019;ll recognize it immediately." /> 
-  <meta property="books:isbn"         content="0553380958" /> 
-  <meta property="books:rating:value" content="Sample Rating: value" /> 
-  <meta property="books:rating:scale" content="Sample Rating: scale" /> 
-  <meta property="books:author"       content="http://samples.ogp.me/344562145628374" />
 {% endcomment %}

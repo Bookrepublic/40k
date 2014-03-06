@@ -21,9 +21,3 @@ meta: "Il nostro presente dipende ancora molto dal passato. Ecco perchè vale la
 cover_image:
 ---
 Davanti al futuro ci scopriamo spaesati: non siamo ancora capaci di fare previsioni attendibili. E così spesso ci muoviamo sulla base di quello che abbiamo imparato dalle relazioni con gli altri, o scegliamo come comportarci secondo il sapere comune. Il nostro presente dipende ancora molto dal passato. Ecco perchè vale la pena cominciare a costruirlo, il futuro. Giusto per non farsi trovare impreparati.
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

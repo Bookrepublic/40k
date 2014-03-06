@@ -21,9 +21,3 @@ meta:
 cover_image:
 ---
 Operai sbranati dalle slot machine, ragazzini persi nei labirinti dei casinò online. Psicologi che combattono, preti che sfidano i signori del gioco. Abbiamo girato l’Italia, la prima nazione in Europa per spesa pro capite nell’azzardo, a caccia di storie, dati e voci. Tutti hanno confermato: il banco vince. Sempre.
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

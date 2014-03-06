@@ -41,17 +41,28 @@
 </head>
 <body>
 
+    <!-- facebook -->
+
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=269829379846399";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
     <!-- questo mi serve per lo slidemenu -->
     <script src="/assets/js/jquery.panelslider.js"></script>    
 
     <script type="text/javascript">
         $(function() {
             $('#search-query').lunrSearch({
-indexUrl: '/search.json',             // URL of the `search.json` index data for your site
-results:  '#search-results',          // jQuery selector for the search results container
-entries:  '.entries',                 // jQuery selector for the element to contain the results list, must be a child of the results element above.
-template: '#search-results-template'  // jQuery selector for the Mustache.js template
-});
+              indexUrl: '/search.json',             // URL of the `search.json` index data for your site
+              results:  '#search-results',          // jQuery selector for the search results container
+              entries:  '.entries',                 // jQuery selector for the element to contain the results list, must be a child of the results element above.
+              template: '#search-results-template'  // jQuery selector for the Mustache.js template
+            });
         });
     </script>
 

@@ -21,9 +21,3 @@ meta: "Una storia in stile steampunk ambientata nell’Italia del Risorgimento."
 cover_image:
 ---
 Nessuno all’interno del castello era mai riuscito a superare i gravi problemi grammaticali associati a Ida. Qualche volta lei era “lei”, qualche volta loro erano “loro”. C’erano problemi ulteriori con la forma singolare, la forma plurale, i possessivi femminili plurali, il femminile singolare e le declinazioni dei pronomi plurali, e così via. Persino quando arrivai a conoscere particolarmente bene Ida, Clemenza e Vittoria, così tanto che usavo diminutivi affettuosi per riferirmi a lei, e le forme familiari anziché quelle formali, mi bloccavo sulle più semplici frasi: “Vieni ad abbracciarmi”, o “Datemi un bacio”.
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

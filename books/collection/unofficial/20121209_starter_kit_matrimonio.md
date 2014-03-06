@@ -21,9 +21,3 @@ meta: "Ecco: per non impazzire, restano due possibilità: un wedding planner tut
 cover_image:
 ---
 Avete presente quando vi raccontano che organizzare il matrimonio è un'impresa per titani? Avrete la casa invasa da pacchi e bomboniere, dovrete girare in lungo in largo prima di trovare il vestito adatto e accontentare parenti e amici su tutto. E poi bisogna azzeccare il menu, cercare il fotografo e confidare, nel frattempo, che lo sposo sia ricordato di ritirare le fedi.Ecco: per non impazzire, restano due possibilità: un wedding planner tutto fare o questa guida alla sopravvivenza nell'organizzare il (proprio) matrimonio.
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

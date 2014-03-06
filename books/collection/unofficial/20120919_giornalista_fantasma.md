@@ -21,9 +21,3 @@ meta: "Se il giornalista non si adegua, rischia di diventare come quei fantasmi 
 cover_image:
 ---
 Fino a dieci anni fa nelle redazioni c’era chi si vantava di non saper usare un computer. Ora senza conoscere la grammatica del digitale, un giornalista rischia di non poterci più stare, nelle redazioni. Il mestiere è cambiato, sono cambiati i tempi e gli strumenti. Sono cambiati pure i lettori: sempre più capaci di cercare e verificare da soli le notizie in rete. E se il giornalista non si adegua, rischia di diventare come quei fantasmi che vagano per la realtà senza abitarla davvero.
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

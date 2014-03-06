@@ -21,9 +21,3 @@ meta: "Un racconto e un’analisi di quanto l'impatto con il web 2.0 abbia giova
 cover_image:
 ---
 Facebook, Twitter e la vasta gamma di social network oggi esistenti ci fanno vivere uno dei momenti storico-sociologici più interessanti dell'intera umanità; strumenti e piattaforme che in pochi anni hanno stravolto la vita degli abitanti di una parte considerevole e significativa del pianeta Terra. Schemi e regole si capovolgono e vanno reinterpretati, vanno tracciate nuove linee guida e paradossalmente l'arte di comunicare e di vendere diventa più complessa poiché gli strumenti per farlo sono alla portata indistinta di tutti. Il web 2.0 e le dinamiche della comunicazione social possono così essere utili e funzionali a tutte quelle realtà e organizzazioni che per molteplici motivazioni hanno storicamente comunicato con difficoltà il proprio prodotto. La testimonianza concreta di tale tesi costituisce il cuore di questo libro.Un racconto e un’analisi di quanto l'impatto con il web 2.0 abbia giovato a uno sport vincente ma a torto definito «minore», rendendolo capace di ritagliarsi un suo spazio nel mondo della comunicazione. Il marketing e la comunicazione nell'esperienza schermistica sono il punto di partenza, ma la materia s’irradia anche ad altri mondi come quello delle aziende, dei media, della formazione e anche ad altri sport, grazie alle testimonianze degli addetti ai lavori.
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

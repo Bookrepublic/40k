@@ -21,9 +21,3 @@ meta: "Se volete conoscere le possibilità del prestito bibliotecario in Italia 
 cover_image:
 ---
 Molti sanno cosa sono gli ebook e hanno sperimentato la lettura in digitale. Non tutti sono consapevoli, però, delle iniziative intraprese dalle biblioteche per promuovere la lettura, anche in questo campo. Se volete conoscere le possibilità del prestito bibliotecario in Italia questa breve guida è un ottimo punto di partenza.
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

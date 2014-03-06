@@ -21,9 +21,3 @@ meta: "Dalla A di alunni alla Z di zen, piccolo alfabeto della scuola moderna."
 cover_image:
 ---
 Descrivere la scuola moderna in due parole non si può. Meglio usarle tutte, quelle a disposizione. Si comincia dalla materia prima, gli Alunni: svagati, distratti, con gusti musicali orribili e tagli di capelli dalle geometrie strambe. Per tutto il resto, procediamo in ordine alfabetico: scoprirete che la scuola moderna è un mix di dedizione, personaggi strani, paradossi e un necessario sforzo zen.
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

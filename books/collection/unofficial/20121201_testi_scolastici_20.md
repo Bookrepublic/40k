@@ -21,10 +21,3 @@ meta: Se volete farvi un’idea di come poter lavorare da subito insieme ai vost
 cover_image:
 ---
 La scuola non può ancora dirsi davvero digitale? Quello che è certo è che gli studenti lo sono già: ma non commettete l’errore di sottovalutare gli insegnanti. Se volete farvi un’idea di come poter lavorare da subito insieme ai vostri alunni con i testi digitali e la Rete, questo manuale fa per voi: consigli pratici di didattica e metodo per cominciare subito e includere nel lavoro di ogni giorno nuovi strumenti per studiare e imparare collaborando.«A questo punto direi che si può passare alla fase operativa: come diventare autori del proprio libro di testo o manuale scolastico, coinvolgendo gli studenti nella sua costruzione.»
-
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

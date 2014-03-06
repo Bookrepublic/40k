@@ -22,10 +22,4 @@ cover_image:
 meta: "Stanche di un lavoro che vi «incatena» alla scrivania a orari fissi e con riunioni a ore improbabili?"
 ---
 
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}
-
 Stanche di un lavoro che vi «incatena» alla scrivania a orari fissi e con riunioni a ore improbabili? Se sognate un modo per conciliare la gestione della vostra famiglia con un lavoro economicamente ed emotivamente stimolante provate a diventare Mompreneur, mamme imprenditrici.Questo libro lo abbiamo scritto per voi. Vi spieghiamo che cosa fare (e che cosa evitare!), vi diamo qualche dritta sulla raccolta dei finanziamenti e su come organizzare una formazione adeguata, vi raccontiamo storie di madri come voi che ce l’hanno fatta.Buona impresa!

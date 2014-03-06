@@ -21,9 +21,3 @@ meta: "Avete presente quel vestito nella vetrina di lusso che avete sognato per 
 cover_image:
 ---
 Avete presente quel vestito nella vetrina di lusso che avete sognato per mesi? Bene. Ora pensate alla rivista su cui l’avete scoperto, al camerino di quel negozio, alla carta che striscia nel Pos e poi cancellate tutto. Se siete bravi a raccontare il vostro sogno fashion in Rete, i grandi brand potrebbero chiedervi di indossare quel vestito. A una condizione: come la moda (che funziona) nel ventunesimo secolo, anche voi dovrete saper essere social.
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

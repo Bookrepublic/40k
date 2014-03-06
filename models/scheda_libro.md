@@ -21,9 +21,3 @@ meta:
 cover_image:
 ---
 testo
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

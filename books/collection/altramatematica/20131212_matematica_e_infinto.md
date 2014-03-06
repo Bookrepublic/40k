@@ -21,9 +21,3 @@ meta: "Da duemilacinquecento anni i matematici si trovano tra i piedi l’infini
 cover_image:
 ---
 Da duemilacinquecento anni i matematici si trovano tra i piedi l’infinito. Hanno provato a far finta di nulla, a trattarlo come un numero qualunque, a ingabbiarlo e alla fine hanno deciso di costruirgli intorno tutta una struttura… che però lascia sempre sfuggire qualche paradosso. Questo è un veloce resoconto su come la storia è andata avanti: serio ma non serioso, potrete scoprire quello che a scuola si sono ben guardati dal dirvi.
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

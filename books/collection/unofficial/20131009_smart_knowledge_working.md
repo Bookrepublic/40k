@@ -21,9 +21,3 @@ meta: "Nei prossimi anni il lavoro è destinato a trasformarsi radicalmente."
 cover_image:
 ---
 Nei prossimi anni il lavoro è destinato a trasformarsi radicalmente. Soprattutto nelle società «avanzate» europee il lavoro dovrà diventare sempre più un lavoro ad alto contenuto di conoscenza e di tecnologia, e quindi lavoro in cui i parametri tempi e orari saranno sempre meno significativi, l’identificazione della sede sempre meno possibile, la dimensione del dipendente e del subordinato sempre meno diffusa. Lavoratori nomadi, che si connettono dai propri computer, dagli smartphone, ma anche costantemente in viaggio per realizzare idee e contenuti, per i quali il telelavoro non è un’eccezione, ma la normalità. Lavoratori fragili, perché per loro natura indipendenti e in continua relazione con le diverse comunità, ma non parte di una struttura. E per questo non salvaguardati. In Italia l’arretratezza in innovazione si esprime anche così.
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

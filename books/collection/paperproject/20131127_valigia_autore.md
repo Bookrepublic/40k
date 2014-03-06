@@ -21,12 +21,6 @@ meta: "Emilio Salgari diceva che «Un libro è come un viaggio senza la seccatur
 cover_image:
 ---
 
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}
-
 Emilio Salgari diceva che «Un libro è come un viaggio senza la seccatura delle valigie» e lui di viaggi senza bagagli se intendeva. 
 
 La valigia dell’autore raccoglie esperienze di viaggio senza bagaglio in compagnia di grandi scrittori e dei loro libri. Dall’on the road di Gianrico Carofiglio al Giappone di Dacia Maraini, passando per i Balcani di Paolo Rumiz o il Cile di Andrea De Carlo, solo per citarne alcuni. Il tutto reso ancora più interessante dallo stato dell’autrice, altrettanto interessante.

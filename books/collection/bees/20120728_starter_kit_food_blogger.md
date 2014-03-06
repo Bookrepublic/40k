@@ -21,9 +21,3 @@ meta: "Se pensate che i foodblogger siano tutte casalinghe sorridenti, vi sbagli
 cover_image:
 ---
 Se pensate che i foodblogger siano tutte casalinghe sorridenti, vi sbagliate di grosso. Lì fuori la competizione è seria: bisogna schivare markettari, cavalieri mascherati e gastrofanatici. Agli eventi promozionali, poi, tocca pure pagarsi l’albergo. Ma siccome le cose non capitano per caso, basta rimboccarsi le maniche e lavorare di fantasia. Sopravvivere nel mondo dei foodblogger si può: sperimentate, scegliete con cura i prodotti, coinvolgete il lettore, ma senza strafare. Originali, sì, ma l'ingrediente più importante resta un tocco di sé.
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

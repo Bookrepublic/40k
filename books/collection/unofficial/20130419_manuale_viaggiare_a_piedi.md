@@ -21,9 +21,3 @@ meta: "Un manuale su come concretizzare l'idea che l'obiettivo non è la meta ma
 cover_image:
 ---
 "I viaggi sono gli incontri che fai": in un percorso morbido tra racconti e suggerimenti, la filosofia del viaggio sostenibile diventa un modo diverso per scoprire le mete più disparate. Un manuale su come concretizzare l'idea che l'obiettivo non è la meta ma il viaggio.
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

@@ -21,9 +21,3 @@ meta: "Un Vero Matematico e un apprendista esplorano problemi apparentemente mol
 cover_image:
 ---
 L’enigma della scacchiera mutilata; la seconda più bella formula della matematica; i dadi per giocare a Dungeons and Dragons; il gioco del 15 e il premio mai riscosso; l’avanzata dei soldati nel deserto: cos’hanno in comune? Un Vero Matematico e un apprendista esplorano problemi apparentemente molto diversi tra loro andando alla ricerca di una costante. Perché è più facile trovare una strada, se c’è qualcuno che te la spiega.
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

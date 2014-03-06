@@ -21,7 +21,3 @@ Come ci stanno cambiando le tecnologie? Come cambiano il rapporto tra noi e il m
 mente accresciuta?
 
 «La mente accresciuta», ci spiega De Kerckhove, «è l’espansione e l’accelerazione della mente del singolo, certo, ma è anche una formazione spontanea di un aggregato di menti, che svolgono diverse funzioni cooperative per realizzare miriadi di obiettivi corali e iniziative. La mente accresciuta non è affatto una mente collettiva, è solo connettiva. Si connette senza vincolarsi. Internet, la rete, è un’estensione della mia mente, ma io sono ancora padrone di me stesso. Non sono un nodo come un altro di una mente globale». Un saggio illuminante per cominciare ad esplorare il modo in cui ci muoviamo nel nuovo mondo della conoscenza.
-
-<blockquote>
-    {{ page.quote }}
-</blockquote>

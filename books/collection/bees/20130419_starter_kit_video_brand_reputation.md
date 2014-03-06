@@ -21,9 +21,3 @@ meta: "Sistemate la messa in piega e partite con le riprese. Si va in rete!"
 cover_image:
 ---
 «Niente di meglio dunque che sfruttare un video per farci ricordare (noi, il nostro brand, la nostra azienda anche piccola, il nostro prodotto): magari può regalarci anche pochi minuti di notorietà in rete, ma sicuramente lascia in eredità una visibilità che resta al di là dell’effimera valanga di click.» Sistemate la messa in piega e partite con le riprese. Si va in rete!
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}

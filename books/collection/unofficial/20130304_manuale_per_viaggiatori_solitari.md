@@ -21,9 +21,3 @@ meta: "La fuga non è sempre l’unica ragione che spinge una persona a partire 
 cover_image:
 ---
 «La fuga non è sempre l’unica ragione che spinge una persona a partire da sola.» I consigli testati sul campo per organizzare il miglior viaggio in solitaria: dalla scelta della destinazione all’organizzazione dei dettagli che fanno la differenza, un metodo che vi permetterà in breve di imparare a scovare in autonomia tutte le risorse migliori per la vostra partenza. Tenendo presente che fare i viaggiatori solitari potrebbe voler dire qualcosa di molto, molto diverso dallo stare da soli.
-
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}
