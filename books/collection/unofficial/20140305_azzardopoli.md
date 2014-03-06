@@ -13,8 +13,8 @@ format: epub
 lang: italiano
 date: 2014-03-05
 state: catalogo
-bookrepublic:
-kindle:
+bookrepublic: http://www.bookrepublic.it/book/9788898001521-azzardopoli-20/
+kindle: http://www.amazon.it/Azzardopoli-2-0-Giuseppe-Bottero-ebook/dp/B00ISSSOXG/
 drm: Social DRM
 quote: "Slot, casinò online, poker: ecco perché il banco vince sempre."
 meta:
