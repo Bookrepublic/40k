@@ -8,12 +8,44 @@
 <meta content="{% if page.path contains '_posts' %}This page is a post{% else %}This page is a normal page{% endif %}">
 <meta content="{% if page.isbn %}This page is a books{% endif %}">
 
+<!-- Post del blog -->
+<!-- Seo -->
+{% if page.path contains '_posts' %}
+<title>{{ page.title }} | il blog di 40k Ebook</title>
+{% if page.description %}
+<meta name="description=" content="{{ page.description }}">
+{% else %}
+<meta name="description=" content="{{ post.excerpt }}">
+{% endif %}
+<!-- Facebook -->
+<meta property="fb:app_id"          content="269829379846399" />
+<meta property="fb:profile_id"      content="40kbooks" />
+<meta property="og:type"            content="article" />
+<meta property="og:url"             content="{{ site.url }}{{ page.url }}" />
+<meta property="og:title"           content="{{ page.title }}" />
+{% if page.categories %}
+{% for categories in page.categories %}
+<meta property="article:section"    content="{{ categories }}" />
+{% endfor %}
+{% endif %}
+{% if page.tag %}
+{% for tag in page.tag %}
+<meta property="article:tag"        content="{{ tag }}">
+{% endfor %}
+{% endif %}
+{% if page.cover %}
+<meta property="og:image"           content="{{ site.url }}{{ page.cover }}" />
+{% endif %}
+{% assign author = site.authors[page.author] %}
+<meta property="og:image"           content="{{ site.url }}{{ author.image }}" />
+{% endif %}<!-- end post blog -->
 
-
-<!-- se siamo in una scheda scheda prodotto, anche detta libro -->
 {% if page.isbn %}
+<!-- Scheda libro -->
+<!-- Seo -->
 <title>{{ page.title }} | 40k Ebook</title>
 <meta name="description=" content="{{ page.content }}">
+<!-- Facebook -->
 <meta property="fb:app_id"          content="269829379846399" />
 <meta property="fb:profile_id"      content="40kbooks" />
 <meta property="og:type"            content="books.book" /> 
@@ -29,12 +61,18 @@
 {% endif %}
 {% endfor %}
 {% endfor %}
+<!-- Twitter -->
 {% endif %}<!-- end libro -->
+
+<meta property="og:image"           content="{{ site.url }}/static/img/40k_ebook_logo_nero.jpg" />
+<meta property="og:site_name"       content="40k.it">
+<meta property="fb:admins"          content="1292377305">
+<meta property="fb:admins"          content="1707792040">
+
 
 {% comment %}
 <meta content="{% if page.path contains '_posts' %}This page is a post{% else %}This page is a normal page{% endif %}">
 <meta name="description=" content="40k è un progetto editoriale nato nel 2010 all’insegna della sperimentazione per sfruttare al massimo tutti i vantaggi del digitale.">
-
 <!-- facebook -->
 {% if page.title %}
 <meta property="og:type" content="article" />
