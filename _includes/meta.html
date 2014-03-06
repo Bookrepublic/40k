@@ -5,17 +5,14 @@
     {{ site.title }}
     {% endif %}
 </title>
-<meta content="{% if page.path contains '_posts' %}This page is a post{% else %}This page is a normal page{% endif %}">
-<meta content="{% if page.isbn %}This page is a books{% endif %}">
-
+{% if page.path contains '_posts' %}
 <!-- Post del blog -->
 <!-- Seo -->
-{% if page.path contains '_posts' %}
 <title>{{ page.title }} | il blog di 40k Ebook</title>
 {% if page.description %}
 <meta name="description=" content="{{ page.description }}">
 {% else %}
-<meta name="description=" content="{{ post.excerpt }}">
+<meta name="description=" content="{{ page.content | strip_html | truncate:200 }}">
 {% endif %}
 <!-- Facebook -->
 <meta property="fb:app_id"          content="269829379846399" />
@@ -23,6 +20,11 @@
 <meta property="og:type"            content="article" />
 <meta property="og:url"             content="{{ site.url }}{{ page.url }}" />
 <meta property="og:title"           content="{{ page.title }}" />
+{% if page.description %}
+<meta property:"og:description"     content="{{ page.description }}">
+{% else %}
+<meta property:"og:description"     content="{{ page.content | strip_html | truncate:200 }}">
+{% endif %}
 {% if page.categories %}
 {% for categories in page.categories %}
 <meta property="article:section"    content="{{ categories }}" />
@@ -38,7 +40,9 @@
 {% endif %}
 {% assign author = site.authors[page.author] %}
 <meta property="og:image"           content="{{ site.url }}{{ author.image }}" />
-{% endif %}<!-- end post blog -->
+
+<!-- end post blog -->
+{% endif %}
 
 {% if page.isbn %}
 <!-- Scheda libro -->
@@ -68,6 +72,7 @@
 <meta property="og:site_name"       content="40k.it">
 <meta property="fb:admins"          content="1292377305">
 <meta property="fb:admins"          content="1707792040">
+<meta property="og:locale"          content="it_IT">
 
 
 {% comment %}
