@@ -80,7 +80,7 @@ Per questo motivo, arriveranno, probabilmente, articoli correlati e piccoli altr
 
 Sì, lo so. Abbiamo usato [questo framework](http://getbootstrap.com/). Abbiamo messo le mani qua è là per modificare alcuni stili, abbiamo lavorato su alcune classi e, in maniera assolutamente disordinata, creato nuovi elementi da usare all'occorrenza.
 
-Vi ho detto che avevamo una settimana e mezzo per realizzare il sito, vero?
+Vi ho detto che avevamo due settimane per realizzare il sito, vero?
 
 In definitiva, Bootstrap è così veloce. Ma così veloce. Ancora mi emoziono.
 
