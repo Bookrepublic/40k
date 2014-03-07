@@ -96,4 +96,4 @@ Principalmente:
 
 ##Cosa useremo
 
-Non lo sappiamo ancora. Di certo, il suddetto Matteo Papadopoulos mi sta instillando la convinzione che [Sass](http://sass-lang.com/) sia superiore a Less (dove questa volta ci siamo adagiati) e che abbia senso scrivere di elementi e classi coltivando un'insana passione per [BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/). Non credo ne usciremo vivi.
+Non lo sappiamo ancora. Di certo, il suddetto Matteo Papadopoulos mi sta instillando la convinzione che [Sass](http://sass-lang.com/) sia da preferire a Less (dove questa volta ci siamo adagiati) e che abbia senso scrivere di elementi e classi coltivando un'insana passione per [BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/). Non credo ne usciremo vivi.
