@@ -1,6 +1,6 @@
 ---
 author: "Matteo Scurati"
-date: 2014-03-05
+date: 2014-03-07
 layout: post
 title: "Quella volta che abbiamo deciso di fare un nuovo sito in due settimane"
 categories:
