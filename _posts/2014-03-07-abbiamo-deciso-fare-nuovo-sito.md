@@ -41,7 +41,7 @@ Da quel giorno, è amore (verso Jekyll). Perché?
 2. **Jekyll è veloce** come può esserlo un sito statico;
 3. **il markup di [Liquid](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers) ha una vaga somiglianza con quello di [Django](https://www.djangoproject.com/)** che abbiamo imparato a conoscere con la libreria di [Bookrepublic](http://www.bookrepublic.it/) (sì, lo so, non c'entrano niente l'uno con l'altro, ma la sintassi è davvero simile).
 
-{% figure_img img-responsive 0 caption %}
+{% figure_img img-responsive lazy 0 caption %}
 
 A queste considerazioni se ne aggiungono altre due, entrambe frutto del lavoro svolto fino a qui assieme a Daria e [Giovanni](https://twitter.com/CrazyDesign84) all'interno di Bookrepublic.
 
