@@ -51,7 +51,7 @@
 <meta name="description=" content="{{ page.content page.content | strip_html | truncate:350 }}">
 <!-- Facebook -->
 <meta property="fb:app_id"          content="269829379846399" />
-<meta property="fb:profile_id"      content="@40kbooks" />
+<meta property="fb:profile_id"      content="40kbooks" />
 <meta property="og:type"            content="books.book" /> 
 <meta property="og:url"             content="{{ site.url }}{{ page.url }}" /> 
 <meta property="og:title"           content="{{ page.title }}{% if page.sottotitolo %} {{ page.sottotitolo }}{% endif %}" /> 
@@ -67,7 +67,7 @@
 {% endfor %}
 <!-- Twitter -->
 <meta name="twitter:card" content="product">
-<meta name="twitter:site" content="@40books">
+<meta name="twitter:site" content="@40kbooks">
 {% for autore in site.pages %}
 {% for autori in page.author %}
 {% if autore.nome_completo == autori %}
