@@ -23,8 +23,3 @@ cover_image:
 ---
 Chi è il Principe Azzurro? Come incontrarlo nella frenetica vita di tutti i giorni? L’uomo ideale si nasconde e cambia aspetto nel tempo ma, per scovarlo, è indispensabile conoscerlo. Per carpirne i segreti ecco quindi un’indagine semiotica che parte dall’habitat delle favole, in cui nasce il favoloso uomo dei sogni, per poi spostarsi allo studio del colore azzurro e terminare con un identikit psicologico di principi e principesse. Che vissero a lungo felici e contenti? Forse no.
 
-{% if page.quote %}
-<blockquote>
-    {{ page.quote }}
-</blockquote>
-{% endif %}
