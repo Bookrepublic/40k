@@ -12,7 +12,7 @@ collana: unofficial
 price: 2.99€
 format: epub
 lang: italiano
-date: 2014-03-06
+date: 2014-03-08
 state: catalogo
 bookrepublic: http://www.bookrepublic.it/book/9788865866375-cera-una-volta-un-principe-azzurro/
 kindle: http://www.amazon.it/Cera-una-volta-principe-azzurro-ebook/dp/B00ITQ2L2M/
