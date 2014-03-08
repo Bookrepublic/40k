@@ -75,13 +75,13 @@
 {% endif %}
 {% endfor %}
 {% endfor %}
-<meta name="twitter:title" content="{{ page.title }}{% if page.sottotitolo %} {{ page.sottotitolo }}{% endif %}">
-<meta name="twitter:description" content="{{ page.content | strip_html | truncate:200 }}">
-<meta name="twitter:image" content="{{ site.url }}{{ site.coverurl }}/{{ page.isbn }}.jpg">
-<meta name="twitter:data1" content="{{ page.price }}">
-<meta name="twitter:label1" content="Prezzo">
-<meta name="twitter:data2" content="{{ page.collana }}">
-<meta name="twitter:label2" content="Collana">
+<meta name="twitter:title"          content="{{ page.title }}{% if page.sottotitolo %} {{ page.sottotitolo }}{% endif %}">
+<meta name="twitter:description"    content="{{ page.content | strip_html | truncate:200 }}">
+<meta name="twitter:image"          content="{{ site.url }}{{ site.coverurl }}/{{ page.isbn }}.jpg">
+<meta name="twitter:data1"          content="{{ page.price }}">
+<meta name="twitter:label1"         content="Prezzo">
+<meta name="twitter:data2"          content="{{ page.collana }}">
+<meta name="twitter:label2"         content="Collana">
 <!-- end libro -->
 {% endif %}
 
