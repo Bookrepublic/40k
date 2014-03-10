@@ -11,7 +11,7 @@ cover: /static/img/feed_reader.jpg
 ---
 Uno strumento indispensabile per orientarsi tra le proprie letture web preferite è indubbiamente il feed reader, di fatto un aggregatore di fonti selezionate dall'utente che si aggiorna in automatico ad ogni novità pubblicata. 
 
-Funziona così: invece di andare prima su Boing Boing poi su Wired, prima su TechCrunch poi su The next web, sempre a controllare se c'è qualcosa di nuovo, crei una lista dei tuoi siti preferiti e in un unico luogo trovi aggregati tutti gli articoli delle fonti che ti interessano. In questo modo la consultazione è facile, veloce e spesso anche abbellita da un'interfaccia grafica molto curata.  
+Funziona così: invece di andare prima su [Boing Boing](http://boingboing.net/) poi su [Wired](http://www.wired.com/), prima su [TechCrunch](http://techcrunch.com/) poi su [The next web](http://thenextweb.com/), sempre a controllare se c'è qualcosa di nuovo, crei una lista dei tuoi siti preferiti e in un unico luogo trovi aggregati tutti gli articoli delle fonti che ti interessano. In questo modo la consultazione è facile, veloce e spesso anche abbellita da un'interfaccia grafica molto curata.  
 Si possono raggruppare i contenuti per temi, per lingue, o in base al criterio che preferisci. Puoi personalizzare le tempistiche di aggiornamento e di notifica. 
 
 Ci sono diversi software o applicazioni che svolgono questa funzione, sia online che offline. 
