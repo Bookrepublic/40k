@@ -9,17 +9,19 @@ categories:
 description: "Il racconto di quello che abbiamo fatto per creare il nuovo sito di 40k. L'influenza di Matteo Papadopoulos, la scelta degli strumenti e le fonti di ispirazione"
 cover: /static/img/lentree_du_christ_ a_bruxelles.jpg
 image: 
-- url: static/img/40K_nuovo_sito.jpg
+- url: "static/img/40K_nuovo_sito.jpg"
   caption: "fonte http://www.slantmagazine.com/assets/film/willywonkathechocolatefactory.jpg"
   alt: "Ora 40k ha un nuovo sito"
-- url: static/img/40k_mai_incrociare_flussi.jpg
+- url: "static/img/40k_mai_incrociare_flussi.jpg"
   caption: "fonte http://www.fanpage.it/mai-incrociare-i-flussi-di-coscienza/ Rip Harold Ramis"
   alt: "Mai incrociare i flussi"
-- url: static/img/40k_puffo.jpg
+- url: "static/img/40k_puffo.jpg"
   caption: "fonte http://images2.fanpop.com/image/photos/10200000/I-hate-kites-grouchy-smurf-10232278-450-328.jpg"
   alt: "Io odio i widget"
 tag:
 ---
+
+{{ page.image | first | map: 'url' | escape }}
 
 Due settimane fa, [Daria](https://twitter.com/filodaria) mi ha chiesto un nuovo sito per 40k. Qualche giorno prima, [Matteo Papadopoulos](http://www.cantierecreativo.net/it/chi-siamo) mi ha parlato di [Jekyll](http://jekyllrb.com/).
 

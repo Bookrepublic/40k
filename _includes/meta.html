@@ -38,9 +38,57 @@
 {% if page.cover %}
 <meta property="og:image"           content="{{ site.url }}{{ page.cover }}" />
 {% endif %}
+{% if page.image %}
+{% for img in page.image %}
+<meta property="og:image"           content="{{ site.url }}{{ img.url }}">
+{% endfor %}
+{% endif %}
 {% assign author = site.authors[page.author] %}
-<meta property="og:image"           content="{{ site.url }}{{ author.image }}" />
-
+<meta property="og:image"           content="{{ site.url }}/{{ author.image }}" />
+<!-- Twitter -->
+{% if page.cover %}
+<meta name="twitter:card"           content="summary_large_image">
+<meta name="twitter:site"           content="@40kbooks">
+{% assign author = site.authors[page.author] %}
+{% if author.twitter %}
+<meta name="twitter:creator"        content="@{{ author.twitter }}">
+{% endif %}
+<meta name="twitter:title"          content="{{ page.title }}">
+{% if page.description %}
+<meta name="twitter:description"    content="{{ page.description }}">
+{% else %}
+<meta name="twitter:description"    content="{{ page.content | strip_html | truncate:140 }}">
+{% endif %}
+<meta name="twitter:image:src"      content="{{ site.url }}{{ page.cover }}">
+{% elsif page.image %}
+<meta name="twitter:card"           content="summary">
+<meta name="twitter:site"           content="@40kbooks">
+{% assign author = site.authors[page.author] %}
+{% if author.twitter %}
+<meta name="twitter:creator"        content="@{{ author.twitter }}">
+{% endif %}
+<meta name="twitter:title"          content="{{ page.title }}">
+{% if page.description %}
+<meta name="twitter:description"    content="{{ page.description }}">
+{% else %}
+<meta name="twitter:description"    content="{{ page.content | strip_html | truncate:140 }}">
+{% endif %}
+<meta name="twitter:image:src"      content="{{ site.url }}{{ page.image[0].url }}">
+{% else %}
+<meta name="twitter:card"           content="summary">
+<meta name="twitter:site"           content="@40kbooks">
+{% assign author = site.authors[page.author] %}
+{% if author.twitter %}
+<meta name="twitter:creator"        content="@{{ author.twitter }}">
+{% endif %}
+<meta name="twitter:title"          content="{{ page.title }}">
+{% if page.description %}
+<meta name="twitter:description"    content="{{ page.description }}">
+{% else %}
+<meta name="twitter:description"    content="{{ page.content | strip_html | truncate:140 }}">
+{% endif %}
+<meta name="twitter:image:src"      content="{{ site.url }}/static/img/40k_ebook_logo_nero.jpg">
+{% endif %}
 <!-- end post blog -->
 {% endif %}
 
