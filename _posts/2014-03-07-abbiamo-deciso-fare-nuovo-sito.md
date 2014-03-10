@@ -24,8 +24,11 @@ tag:
 Due settimane fa, [Daria](https://twitter.com/filodaria) mi ha chiesto un nuovo sito per 40k. Qualche giorno prima, [Matteo Papadopoulos](http://www.cantierecreativo.net/it/chi-siamo) mi ha parlato di [Jekyll](http://jekyllrb.com/).
 
 * * *
+<div class="text-center">
 <div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
 <div class="fb-post text-center" data-href="https://www.facebook.com/matteo.scurati/posts/10202938808773188" data-width="500"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/matteo.scurati/posts/10202938808773188">Post</a> by <a href="https://www.facebook.com/matteo.scurati">Matteo Scurati</a>.</div></div>
+</script>
+</div>
 * * *
 
 Matteo Papadopoulos è un bellissimo ragazzo padre e, soprattutto, un bravissimo web designer. Così mi sono chiesto cosa fosse mai Jekyll.
