@@ -38,7 +38,7 @@ Forse proprio in reazione alla mossa di Zuckerberg - notizia di questi giorni - 
 
 Personalmente, mi trovo molto bene con Zite, manca giusto la possibilità di programmare la condivisione dei contenuti, stiamo a vedere cosa succede dopo l'acquisizione.
 
-Insomma, il feed reader è molto più di un utile strumento, è una tecnologia che apre nuovi scenari per l'informazione e l'accesso ai contenuti. Se poi sei un autore, tenerti aggioranto sulle notizie che toccano i tuoi temi ti aiuta a coltivare la tua presenza online e incontrare persone con i tuoi stessi interessi, quindi tuoi potenziali lettori. Si chiama content curation: <em>cover what you do best, link the rest!</em>. 
+Insomma, il feed reader è molto più di un utile strumento, è una tecnologia che apre nuovi scenari per l'informazione e l'accesso ai contenuti. Se poi sei un autore, tenerti aggioranto sulle notizie che toccano i tuoi temi ti aiuta a coltivare la tua presenza online e incontrare persone con i tuoi stessi interessi, quindi tuoi potenziali lettori. Si chiama content curation: <em>cover what you do best, link the rest.</em>. 
 Non hai già un feed reader? Procuratelo!
 
 
