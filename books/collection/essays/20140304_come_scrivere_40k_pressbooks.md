@@ -13,8 +13,8 @@ format: epub
 lang: italiano
 date: 2014-03-04
 state: catalogo
-bookrepublic:
-kindle:
+bookrepublic: http://www.bookrepublic.it/book/9788898001576-come-scrivere-un-40k-con-pressbooks/
+kindle: http://www.amazon.it/Come-scrivere-PressBooks-Antonio-Dini-ebook/dp/B00IRLVSO6/
 drm: Social DRM
 quote: "Da dove si comincia a scrivere un libro?"
 meta: "Scritto direttamente su PressBooks (perché, come diceva Henry Ford, bisogna guidare le automobili che si vendono), Come si scrive un 40k ti offre tutte le informazioni necessarie per iniziare a creare il tuo libro e anche qualche “trucco” per utenti avanzati, che ti permetterà di ottenere il migliore risultato possibile."
