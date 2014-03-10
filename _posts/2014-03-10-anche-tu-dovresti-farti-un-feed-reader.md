@@ -5,16 +5,9 @@ layout: post
 title: "Anche tu dovresti farti un feed reader" 
 categories:
 - web
-description:
-cover: /static/img/sliding_water.jpg
-image: 
-- url:
-  caption:
-  alt:
-- url:
-  caption:
-  alt:
-tag:
+description: "Uno strumento indispensabile per orientarsi tra le proprie letture web preferite è indubbiamente il feed reader, di fatto un aggregatore di fonti selezionate dall'utente che si aggiorna in automatico ad ogni novità pubblicata. Anche tu dovresti fartene uno."
+cover: /static/img/feed_reader.jpg
+
 ---
 Uno strumento indispensabile per orientarsi tra le proprie letture web preferite è indubbiamente il feed reader, di fatto un aggregatore di fonti selezionate dall'utente che si aggiorna in automatico ad ogni novità pubblicata. 
 
