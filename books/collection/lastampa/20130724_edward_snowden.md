@@ -16,7 +16,9 @@ state: catalogo
 bookrepublic: http://www.bookrepublic.it/book/9788865866177-edward-snowden-un-uomo-solo-al-comando-cyberwar-hacker-usa-e-cina-cosa-ce-dietro-il-datagate/
 kindle: http://www.amazon.it/Edward-Snowden-comando-Cyberwar-Datagate-ebook/dp/B00E4S8ROU/
 drm: Social DRM
-quote: 
+quote: "In tutta coscienza non posso consentire al governo degli Stati Uniti di distruggere la privacy, la libertà di Internet e di parola delle persone di tutto il mondo con questa enorme macchina di sorveglianza che stanno costruendo. (E. Snowden)"
+
+Passi di: Antonino Caffo (a cura di). “Edward Snowden. Un uomo solo al comando”. iBooks. https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewBook?id=62B13FC37EF7457537146ED437203BF5
 meta:
 cover_image:
 ---
