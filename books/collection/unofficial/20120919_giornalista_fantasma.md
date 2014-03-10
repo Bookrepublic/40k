@@ -8,7 +8,7 @@ author:
 categories:
   - giornalismo
 collana: unofficial
-price: 0.99
+price: 0.99€
 format: epub
 lang: italiano
 date: 2012-09-19

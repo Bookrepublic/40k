@@ -8,7 +8,7 @@ author:
 categories:
   - internet
 collana: unofficial
-price: 1.99
+price: 1.99€
 format: epub
 lang: italiano
 date: 2012-12-01

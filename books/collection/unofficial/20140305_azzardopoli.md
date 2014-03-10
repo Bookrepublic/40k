@@ -8,7 +8,7 @@ author:
 categories:
   - attualità
 collana: unofficial
-price: 2.99
+price: 2.99€
 format: epub
 lang: italiano
 date: 2014-03-05
