@@ -28,7 +28,7 @@ In effetti, aldilà del servizio di aggiornamento, notifica e aggregazione, la s
 
 Forse proprio in reazione alla mossa di Zuckerberg - notizia di questi giorni - [Flipboard ha comprato Zite](http://androidcommunity.com/flipboard-buys-zite-will-shut-service-down-after-integrating-technology-20140305/).
 
-<blockquote class="twitter-tweet" lang="it"><p>Flipboard acquires <a href="https://twitter.com/Zite">@Zite</a> &amp; partners with <a href="https://twitter.com/CNN">@CNN</a>. Read CEO <a href="https://twitter.com/mmccue">@mmccue</a>&#39;s letter on what lies ahead <a href="http://t.co/wpI1zoB4Um">http://t.co/wpI1zoB4Um</a></p>&mdash; Flipboard (@Flipboard) <a href="https://twitter.com/Flipboard/statuses/441229692574502912">5 Marzo 2014</a></blockquote>
+<blockquote class="twitter-tweet txt-center" lang="it"><p>Flipboard acquires <a href="https://twitter.com/Zite">@Zite</a> &amp; partners with <a href="https://twitter.com/CNN">@CNN</a>. Read CEO <a href="https://twitter.com/mmccue">@mmccue</a>&#39;s letter on what lies ahead <a href="http://t.co/wpI1zoB4Um">http://t.co/wpI1zoB4Um</a></p>&mdash; Flipboard (@Flipboard) <a href="https://twitter.com/Flipboard/statuses/441229692574502912">5 Marzo 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" lang="it"><p>We&#39;re proud to announce that Zite has been acquired by <a href="https://twitter.com/Flipboard">@Flipboard</a>! Read our CTO <a href="https://twitter.com/mikeklaas">@mikeklaas</a>&#39; take: <a href="http://t.co/VuzkCifgFB">http://t.co/VuzkCifgFB</a></p>&mdash; Zite (@Zite) <a href="https://twitter.com/Zite/statuses/441230454952173568">5 Marzo 2014</a></blockquote>
