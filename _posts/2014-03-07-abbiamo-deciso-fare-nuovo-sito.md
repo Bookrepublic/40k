@@ -21,8 +21,6 @@ image:
 tag:
 ---
 
-{{ page.image | first | map: 'url' | escape }}
-
 Due settimane fa, [Daria](https://twitter.com/filodaria) mi ha chiesto un nuovo sito per 40k. Qualche giorno prima, [Matteo Papadopoulos](http://www.cantierecreativo.net/it/chi-siamo) mi ha parlato di [Jekyll](http://jekyllrb.com/).
 
 * * *
