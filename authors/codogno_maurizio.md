@@ -1,7 +1,7 @@
 ---
 layout: autore
-nome: maurizio
-cognome: codogno
+nome: Maurizio
+cognome: Codogno
 nome_completo: Maurizio Codogno
 meta: .mau.
 cover_autore:
