@@ -3,7 +3,7 @@ layout: autore
 nome: Peppe
 cognome: Liberti
 nome_completo: Peppe Liberti
-meta:
+meta: "Come fosse facile, lasciare un segno."
 cover_autore:
 twitter: peppeliberti
 facebook: www.facebook.com/peppe.liberti
