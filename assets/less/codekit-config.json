@@ -2,10 +2,10 @@
   "CodeKitInfo" : "This is a CodeKit project configuration file. It is designed to sync project settings across multiple machines. Modifying the contents of this file can be a poor life decision if you don't know what you're doing. This file is not useful unless accompanied by the project that created it in CodeKit. For more information, see: http:\/\/incident57.com\/codekit",
   "creatorBuild" : "8403",
   "files" : {
-    "\/_click.less" : {
+    "\/responsive-utilities.less" : {
       "ieCompatibility" : 1,
-      "inputAbbreviatedPath" : "\/_click.less",
-      "outputAbbreviatedPath" : "\/css\/_click.css",
+      "inputAbbreviatedPath" : "\/responsive-utilities.less",
+      "outputAbbreviatedPath" : "\/css\/responsive-utilities.css",
       "outputPathIsSetByUser" : 0,
       "strictUnits" : 0,
       "relativeURLS" : 0,
@@ -19,10 +19,10 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
-    "\/_figure.less" : {
+    "\/_click.less" : {
       "ieCompatibility" : 1,
-      "inputAbbreviatedPath" : "\/_figure.less",
-      "outputAbbreviatedPath" : "\/css\/_figure.css",
+      "inputAbbreviatedPath" : "\/_click.less",
+      "outputAbbreviatedPath" : "\/css\/_click.css",
       "outputPathIsSetByUser" : 0,
       "strictUnits" : 0,
       "relativeURLS" : 0,
@@ -946,10 +946,10 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
-    "\/print.less" : {
+    "\/type.less" : {
       "ieCompatibility" : 1,
-      "inputAbbreviatedPath" : "\/print.less",
-      "outputAbbreviatedPath" : "\/css\/print.css",
+      "inputAbbreviatedPath" : "\/type.less",
+      "outputAbbreviatedPath" : "\/css\/type.css",
       "outputPathIsSetByUser" : 0,
       "strictUnits" : 0,
       "relativeURLS" : 0,
@@ -963,10 +963,10 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
-    "\/type.less" : {
+    "\/print.less" : {
       "ieCompatibility" : 1,
-      "inputAbbreviatedPath" : "\/type.less",
-      "outputAbbreviatedPath" : "\/css\/type.css",
+      "inputAbbreviatedPath" : "\/print.less",
+      "outputAbbreviatedPath" : "\/css\/print.css",
       "outputPathIsSetByUser" : 0,
       "strictUnits" : 0,
       "relativeURLS" : 0,
@@ -1014,10 +1014,10 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
-    "\/responsive-utilities.less" : {
+    "\/_figure.less" : {
       "ieCompatibility" : 1,
-      "inputAbbreviatedPath" : "\/responsive-utilities.less",
-      "outputAbbreviatedPath" : "\/css\/responsive-utilities.css",
+      "inputAbbreviatedPath" : "\/_figure.less",
+      "outputAbbreviatedPath" : "\/css\/_figure.css",
       "outputPathIsSetByUser" : 0,
       "strictUnits" : 0,
       "relativeURLS" : 0,
