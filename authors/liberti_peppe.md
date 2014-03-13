@@ -5,7 +5,7 @@ cognome: Liberti
 nome_completo: Peppe Liberti
 meta:
 cover_autore:
-twitter: @peppeliberti
+twitter: peppeliberti
 facebook: www.facebook.com/peppe.liberti
 linkedin: it.linkedin.com/in/peppeliberti
 web: peppeliberti.it
