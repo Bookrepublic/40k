@@ -57,6 +57,13 @@ authors:
     twitter: 40kbooks
     quote: "Smart ebook for smart people"
     facebook:
+  Roberto Zanasi:
+    display_name: Roberto Zanasi
+    image: /static/firme/roberto_zanasi.jpg
+    web: http://proooof.blogspot.it/
+    twitter: zzar
+    quote: 
+    google: https://plus.google.com/u/1/+RobertoZanasi/posts
 
 image:
   source: /static/img/
