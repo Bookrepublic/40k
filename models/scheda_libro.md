@@ -13,7 +13,7 @@ format:
 lang:
 date:
 state:
-bookrepublic:
+bookrepublic: 
 kindle:
 drm: Social DRM
 quote:
