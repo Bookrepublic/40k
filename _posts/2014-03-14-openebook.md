@@ -5,7 +5,7 @@ layout: post
 title: "#openebook: perché ha ancora senso scegliere un editore?"
 categories:
 - editoria
-description: "Perché non il selfpublishing? È una domanda che ogni autore - ed ogni editore - dovrebbe porsi e a cui dovrebbe trovare risposte precise. Noi abbiamo trovato le nostre e le condividiamo."
+description: "Perché non il selfpublishing? È una domanda che ogni autore - e ogni editore - dovrebbe porsi e a cui dovrebbe trovare risposte precise. Noi abbiamo trovato le nostre e le condividiamo."
 cover: /static/img/inprogress.jpg
 ---
 Abbiamo da poco lanciato il [nuovo sito](http://40k.it/blog/2014/03/07/abbiamo-deciso-fare-nuovo-sito/), che tra le altre cose ha una [sezione dedicata agli autori](http://40k.it/diventa_autore/). 
@@ -24,7 +24,7 @@ La discussione che ne è seguita, anche grazie a [@NDedizioni](https://twitter.c
 <blockquote class="twitter-tweet" lang="it" align="center"><p><a href="https://twitter.com/NDedizioni">@NDedizioni</a> <a href="https://twitter.com/40kBooks">@40kBooks</a> è anche la nostra impressione, però perché un autore dovrebbe scegliere questo ibrdido invece del selfpublishing?</p>&mdash; equiLibri digitali (@EDigitali) <a href="https://twitter.com/EDigitali/statuses/444108016624095232">13 Marzo 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<em>Perché non il selfpublishing?</em> è una domanda che ogni autore - ed ogni editore - dovrebbe porsi e a cui dovrebbe trovare risposte precise. 
+<em>Perché non il selfpublishing?</em> è una domanda che ogni autore - e ogni editore - dovrebbe porsi e a cui dovrebbe trovare risposte precise. 
 
 Proprio per questo abbiamo deciso di scrivere una guida che faccia un po' da bussola per gli autori, esordienti o meno, che per la prima volta si trovano alle prese con il mercato digitale. 
 
