@@ -1,6 +1,11 @@
 .flag-international {
 
 	position: relative;
+	width: 100%;
+
+	.flag-international__home {
+		position: relative;
+	}
 
 	.flag-international__unit_10 {
 		width: 10%;
@@ -25,6 +30,26 @@
 	.flag-international__unit_30 {
 		width: 30%;
 		float: left;
+	}
+
+}
+
+.flag-international__first {
+
+	@media (max-width: @screen-xs-min){ 
+		margin-top: -50px;
+	}
+	@media (max-width: @screen-sm-min) and (min-width: (@screen-xs-min + 1)) {
+		margin-top: -50px;
+	}
+	@media (max-width: @screen-md-min) and (min-width: (@screen-sm-min + 1)) {
+		margin-top: -100px;
+	}
+	@media (max-width: @screen-lg-min) and (min-width: (@screen-md-min + 1)) {
+		margin-top: -100px;
+	}
+	@media (min-width: @screen-lg-min) {
+		margin-top: -100px;
 	}
 
 }
