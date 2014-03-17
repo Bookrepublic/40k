@@ -20,7 +20,7 @@ tag:
 
 Ormai possiamo dirlo: anche gli ultimi pregiudizi nei confronti del formato breve sono caduti. Sempre più autori riconoscono che la forma naturale della narrativa sia la novelette, anche se è vero che il mercato editoriale è ricco di tomi che arrivano fino alle 300000 parole.
 
-Riconosci uno scrittore che ha talento nel breve quando la struttura narrativa continua a dispiegarsi nella tua mente anche molto tempo dopo che hai finito di leggere un suo racconto. È come se ti iniettasse un'idea nella coscienza che continua a dibattersi e svilupparsi nel tempo, ma che è nata lì, in quelle poche, intensissime pagine.  
+Riconosci uno scrittore che ha talento nel breve quando la struttura narrativa continua a dispiegarsi nella tua mente anche molto dopo che hai finito di leggere un suo racconto. È come se ti iniettasse un'idea nella coscienza che continua a dibattersi e svilupparsi nel tempo, ma che è nata lì, in quelle poche, intensissime pagine.  
 
 Il 2013 è stato forse l'anno decisivo. [Alice Munroe](http://www.einaudi.it/speciali/Alice-Munro-Premio-Nobel-per-la-letteratura-2013), regina del breve,  ha vinto il premio Nobel per la letteratura e George Saunders -  che non ha mai scritto un romanzo - con i suoi racconti ha conquistato Jonathan Franzen, Jennifer Egan, Zadie Smith e molti altri. La raccolta <em>[Dieci Dicembre](http://www.minimumfax.com/libri/scheda_libro/625)</em> è indubbiamente uno dei libri più interessanti del 2013 (non a caso nella lista del New York Times).  
 
