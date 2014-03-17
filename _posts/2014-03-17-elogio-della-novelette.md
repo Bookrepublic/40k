@@ -33,6 +33,6 @@ Nelle novelette letterarie di Appel implodono gli errori di prospettiva e le inq
 
 Sembra esagerato parlarne così, ma leggete per credere. Oppure, fidatevi dei lettori che già si sono lasciati conquistare. Ad esempio, da <em>[Radiazione](http://40k.it/books/collection/stories/20100918_radiazione.html)</em>: <em>"Una storia, dei personaggi, molti significati. ([Silletta](https://www.goodreads.com/book/show/8687542-radiazione))"</em>
 
-Oppure, <em>[In salute e in malattia](http://0.0.0.0:4000/books/collection/stories/20110907-in-salute-e-in-malattia.html)</em>: <em>"Lo ha fatto di nuovo. Appel dico. Ha scritto un altro bellissimo racconto e ancora una volta mi ha lasciata sospesa, confusa, con la testa piena di domande. ([Giulia](https://www.goodreads.com/book/show/12546931-in-salute-e-in-malattia))"</em>
+Oppure, <em>[In salute e in malattia](http://40k.it/books/collection/stories/20110907-in-salute-e-in-malattia.html)</em>: <em>"Lo ha fatto di nuovo. Appel dico. Ha scritto un altro bellissimo racconto e ancora una volta mi ha lasciata sospesa, confusa, con la testa piena di domande. ([Giulia](https://www.goodreads.com/book/show/12546931-in-salute-e-in-malattia))"</em>
 
 In un unico [bookpack](http://www.bookrepublic.it/book/novelette-letterarie-appel/) - il cofanetto digitale di Bookrepublic - puoi leggere tutte le novelette di Jacob Appel a soli 6.99€ invece di 10.96€. Provalo, non te ne pentirai. [Click!](http://www.bookrepublic.it/book/novelette-letterarie-appel/)
