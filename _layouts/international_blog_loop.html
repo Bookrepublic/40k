@@ -1,0 +1,68 @@
+---
+layout: default
+---
+
+{% if paginator.previous_page %}
+{% else %}
+<header class="lazy image_cover img-responsive" style="background: url('{{ page.cover }}') no-repeat center center; no-repeat center center; background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover;">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <span class="single_post"><h1>Tutti i post del blog <a href="/feed/index.xml"><i class="fa fa-rss-square"></i></a></h1></span>
+            </div>
+        </div>
+    </div>
+</header>
+{% endif %}
+
+<section class="container-fluid">
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+            {% for post in paginator.posts %}
+            <article class="post_loop">
+                <span class="single_post">
+                    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                </span>
+                <span class="meta small">{{ post.date | date_to_string }} di {{ post.author }}</span>
+                {% if post.cover %}
+                <div class="lazy image_cover_small img-responsive f5x-margin-top f5x-margin-bottom" style="background: url('{{ post.cover }}') no-repeat center center; no-repeat center center; background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover;">
+                </div>
+                {% endif %}
+                <div class="list_post">
+                  {% if post.description %}
+                    <p>{{ post.description }}</p>
+                  {% else %}
+                    <p>{{ post.excerpt }}</p>
+                  {% endif %}
+                </div>
+            </article>
+            <div class="clearfix"></div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+<div class="contanainer-fluid">
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+            <ul class="pager">
+                {% if paginator.previous_page %}
+                <li class="previous">
+                    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+                    <i class="fa fa-caret-left"></i> Indietro</a>
+                </li>
+                {% else %}
+                {% endif %}
+                {% if paginator.next_page %}
+                <li class="next">
+                    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Avanti <i class="fa fa-caret-right"></i></a>
+                </li>
+                {% else %}
+                <li class="next disabled">
+                    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Avanti <i class="fa fa-caret-right"></i></a>
+                </li>
+                {% endif %}
+            </ul>
+        </div>
+    </div>
+</div>
