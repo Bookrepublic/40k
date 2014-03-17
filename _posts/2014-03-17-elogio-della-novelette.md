@@ -1,10 +1,10 @@
 ---
-author: 40k Team
+author: Daria Bernardoni
 date: 2014-03-17
 layout: post
 title: Il fascino irresistibile delle novelette letterarie
 categories:
--
+- novelette
 description:
 cover: /static/img/cover_appel.jpg
 image: 
@@ -16,8 +16,6 @@ image:
   alt:
 tag:
 ---
-{% figure_img img-responsive 0 caption %}
-
 > Novels can have pauses, faults: a long story wins by points. A novelette needs to win by knock-out. (Julio Cortazar)
 
 Ormai possiamo dirlo: anche gli ultimi pregiudizi nei confronti del formato breve sono caduti. Sempre più autori riconoscono che la forma naturale della narrativa sia la novelette, anche se è vero che il mercato editoriale è ricco di tomi che arrivano fino alle 300000 parole.
@@ -33,12 +31,8 @@ Jacob Appel è uno scrittore americano molto noto per il suo impegno nella bioet
 Sembra quasi amarli, quegli scorpioni che ti pungono nel punto più sensibile del tuo io, dove ogni emozione ti dà vita e ti toglie vita. La loro puntura è subdola, il loro veleno penetra lentamente, ti uccide senza che tu te ne accorga. 
 Nelle novelette letterarie di Appel implodono gli errori di prospettiva e le inquietudini dell’essere umano, dalle psicosi post 11 settembre al perturbante insito nella vita di coppia. 
 
-Sembra esagerato parlarne così, ma leggete per credere. Oppure, fidatevi dei lettori che già si sono lasciati conquistare. Ad esempio, da <em>Radiazione</em>:
+Sembra esagerato parlarne così, ma leggete per credere. Oppure, fidatevi dei lettori che già si sono lasciati conquistare. Ad esempio, da <em>[Radiazione](http://40k.it/books/collection/stories/20100918_radiazione.html)</em>: <em>"Una storia, dei personaggi, molti significati. ([Silletta](https://www.goodreads.com/book/show/8687542-radiazione))"</em>
 
-> Una storia, dei personaggi, molti significati. ([Silletta](https://www.goodreads.com/book/show/8687542-radiazione))
+Oppure, <em>In salute e in malattia</em>: <em>"Lo ha fatto di nuovo. Appel dico. Ha scritto un altro bellissimo racconto e ancora una volta mi ha lasciata sospesa, confusa, con la testa piena di domande. (Giulia)"</em>
 
-Oppure, <em>In salute e in malattia</em>:
-
-> Lo ha fatto di nuovo. Appel dico. Ha scritto un altro bellissimo racconto e ancora una volta mi ha lasciata sospesa, confusa, con la testa piena di domande. (Giulia)
-
-In un unico bookpack puoi leggere tutte le novelette di Jacob Appel a soli 6.99€ invece di 10.96€. Provalo, non te ne pentirai.
+In un unico [bookpack](http://www.bookrepublic.it/book/novelette-letterarie-appel/) - il cofanetto digitale di Bookrepublic - puoi leggere tutte le novelette di Jacob Appel a soli 6.99€ invece di 10.96€. Provalo, non te ne pentirai. [Click!](http://www.bookrepublic.it/book/novelette-letterarie-appel/)
