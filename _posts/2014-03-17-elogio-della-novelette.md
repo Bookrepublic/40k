@@ -22,7 +22,7 @@ Ormai possiamo dirlo: anche gli ultimi pregiudizi nei confronti del formato brev
 
 Riconosci uno scrittore che ha talento nel breve quando la struttura narrativa continua a dispiegarsi nella tua mente anche molto dopo che hai finito di leggere un suo racconto. È come se ti iniettasse un'idea nella coscienza che continua a dibattersi e svilupparsi nel tempo, ma che è nata lì, in quelle poche, intensissime pagine.  
 
-Il 2013 è stato forse l'anno decisivo. [Alice Munroe](http://www.einaudi.it/speciali/Alice-Munro-Premio-Nobel-per-la-letteratura-2013), regina del breve,  ha vinto il premio Nobel per la letteratura e George Saunders -  che non ha mai scritto un romanzo - con i suoi racconti ha conquistato Jonathan Franzen, Jennifer Egan, Zadie Smith e molti altri. La raccolta <em>[Dieci Dicembre](http://www.minimumfax.com/libri/scheda_libro/625)</em> è indubbiamente uno dei libri più interessanti del 2013 (non a caso nella lista del New York Times).  
+Il 2013 è stato forse l'anno decisivo. [Alice Munro](http://www.einaudi.it/speciali/Alice-Munro-Premio-Nobel-per-la-letteratura-2013), regina del breve,  ha vinto il premio Nobel per la letteratura e George Saunders -  che non ha mai scritto un romanzo - con i suoi racconti ha conquistato Jonathan Franzen, Jennifer Egan, Zadie Smith e molti altri. La raccolta <em>[Dieci Dicembre](http://www.minimumfax.com/libri/scheda_libro/625)</em> è indubbiamente uno dei libri più interessanti del 2013 (non a caso nella lista del New York Times).  
 
 Era il 2010, però, quando 40k già puntava tutto sulle novelette letterarie. In particolare, siamo stati i primi a tradurre Jacob Appel in italiano. 
 
