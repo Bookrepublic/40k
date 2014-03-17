@@ -4,7 +4,7 @@ cognome: Alessandrini
 nome_completo: Paolo Alessandrini
 meta:
 cover_autore:
-twitter: @mrpalomar
+twitter: mrpalomar
 facebook: https://www.facebook.com/misterpalomar 
 linkedin:
 web: misterpalomar.blogspot.com
