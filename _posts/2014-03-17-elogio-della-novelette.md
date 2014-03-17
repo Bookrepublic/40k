@@ -5,7 +5,7 @@ layout: post
 title: Il fascino irresistibile delle novelette letterarie
 categories:
 - novelette
-description:
+description: "Ormai possiamo dirlo: anche gli ultimi pregiudizi nei confronti del formato breve sono caduti. Se avete letto la Munroe e amato Saunders, provate Appel."
 cover: /static/img/cover_appel.jpg
 image: 
 - url:
