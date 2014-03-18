@@ -8,7 +8,10 @@
         </a>
         <div class="media-body">
             <h4 class="media-heading"><a href="{{ autore.url }}">{{ autore.nome_completo }}</a></h4>
+            {% if page.path contains 'international' %}
+            {% else %}
             {{ autore.meta }}
+            {% endif %}
         </div>
       </div>
     {% endif %}

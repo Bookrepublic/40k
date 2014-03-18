@@ -148,6 +148,46 @@
 	padding-left: 10px;
 }
 
+.f5x-padding-top {
+
+	@media (max-width: @screen-xs-min){
+		padding-top: (@padding-xs-vertical * 5);
+	}
+	@media (max-width: @screen-sm-min) and (min-width: (@screen-xs-min + 1)) {
+		padding-top: (@padding-small-vertical * 5);
+	}
+	@media (max-width: @screen-md-min) and (min-width: (@screen-sm-min + 1)) {
+		padding-top: (@padding-base-vertical * 5);
+	}
+	@media (max-width: @screen-lg-min) and (min-width: (@screen-md-min + 1)) {
+		padding-top: (@padding-large-vertical * 5);
+	}
+    @media (min-width: @screen-lg-min) {
+    	padding-top: (@padding-large-vertical  * 5);
+    }
+
+}
+
+.f5x-padding-bottom {
+
+	@media (max-width: @screen-xs-min){
+		padding-bottom: (@padding-xs-vertical * 5);
+	}
+	@media (max-width: @screen-sm-min) and (min-width: (@screen-xs-min + 1)) {
+		padding-bottom: (@padding-small-vertical * 5);
+	}
+	@media (max-width: @screen-md-min) and (min-width: (@screen-sm-min + 1)) {
+		padding-bottom: (@padding-base-vertical * 5);
+	}
+	@media (max-width: @screen-lg-min) and (min-width: (@screen-md-min + 1)) {
+		padding-bottom: (@padding-large-vertical * 5);
+	}
+    @media (min-width: @screen-lg-min) {
+    	padding-bottom: (@padding-large-vertical  * 5);
+    }
+
+}
+
 // Text alignement
 
 .f-text-center-media {

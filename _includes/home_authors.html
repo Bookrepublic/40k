@@ -3,22 +3,50 @@
         {% for autore in site.pages %}
             {% if autore.nome_completo == page.autore1 %}
             <div class="col-md-3 col-sm-6 col-xs-6 text-center extra-margin-bottom home_authors">
-                <a href="{{ autore.url }}">
+                {% if page.path contains 'international' %}
+                  <img data-original="{{ site.authorurl }}/{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg" alt="" class="img-circle img-responsive lazy">
+                {% else %}
+                  <a href="{{ autore.url }}">
                     <img data-original="{{ site.authorurl }}/{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg" alt="" class="img-circle img-responsive lazy">
-                </a>
-                <h3><a href="{{ autore.url }}">{{ autore.nome }}<br>{{ autore.cognome }}</a></h3>
-                <p class="hidden-xs">{{ autore.meta }}</p>
+                  </a>
+                {% endif %}
+                {% if page.path contains 'international' %}
+                  <h3>{{ autore.nome }}<br>{{ autore.cognome }}</h3>
+                {% else %}
+                  <h3><a href="{{ autore.url }}">{{ autore.nome }}<br>{{ autore.cognome }}</a></h3>
+                {{ autore.meta }}
+                {% endif %}
+                <p class="hidden-xs">
+                  {% if page.path contains 'international' %}
+                  {% else %}
+                  {{ autore.meta }}
+                  {% endif %}
+                </p>
             </div>
             {% endif %}
         {% endfor %}
         {% for autore in site.pages %}
             {% if autore.nome_completo == page.autore2 %}
             <div class="col-md-3 col-sm-6 col-xs-6 text-center extra-margin-bottom home_authors">
-                <a href="{{ autore.url }}">
+                {% if page.path contains 'international' %}
+                  <img data-original="{{ site.authorurl }}/{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg" alt="" class="img-circle img-responsive lazy">
+                {% else %}
+                  <a href="{{ autore.url }}">
                     <img data-original="{{ site.authorurl }}/{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg" alt="" class="img-circle img-responsive lazy">
-                </a>
-                <h3><a href="{{ autore.url }}">{{ autore.nome }}<br>{{ autore.cognome }}</a></h3>
-                <p class="hidden-xs">{{ autore.meta }}</p>
+                  </a>
+                {% endif %}
+                {% if page.path contains 'international' %}
+                  <h3>{{ autore.nome }}<br>{{ autore.cognome }}</h3>
+                {% else %}
+                  <h3><a href="{{ autore.url }}">{{ autore.nome }}<br>{{ autore.cognome }}</a></h3>
+                {{ autore.meta }}
+                {% endif %}
+                <p class="hidden-xs">
+                  {% if page.path contains 'international' %}
+                  {% else %}
+                  {{ autore.meta }}
+                  {% endif %}
+                </p>
             </div>
             {% endif %}
         {% endfor %}
@@ -28,22 +56,50 @@
         {% for autore in site.pages %}
             {% if autore.nome_completo == page.autore3 %}
             <div class="col-md-3 col-sm-6 col-xs-6 text-center extra-margin-bottom home_authors">
-                <a href="{{ autore.url }}">
+                {% if page.path contains 'international' %}
+                  <img data-original="{{ site.authorurl }}/{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg" alt="" class="img-circle img-responsive lazy">
+                {% else %}
+                  <a href="{{ autore.url }}">
                     <img data-original="{{ site.authorurl }}/{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg" alt="" class="img-circle img-responsive lazy">
-                </a>
-                <h3><a href="{{ autore.url }}">{{ autore.nome }}<br>{{ autore.cognome }}</a></h3>
-                <p class="hidden-xs">{{ autore.meta }}</p>
+                  </a>
+                {% endif %}
+                {% if page.path contains 'international' %}
+                  <h3>{{ autore.nome }}<br>{{ autore.cognome }}</h3>
+                {% else %}
+                  <h3><a href="{{ autore.url }}">{{ autore.nome }}<br>{{ autore.cognome }}</a></h3>
+                {{ autore.meta }}
+                {% endif %}
+                <p class="hidden-xs">
+                  {% if page.path contains 'international' %}
+                  {% else %}
+                  {{ autore.meta }}
+                  {% endif %}
+                </p>
             </div>
             {% endif %}
         {% endfor %}
         {% for autore in site.pages %}
             {% if autore.nome_completo == page.autore4 %}
             <div class="col-md-3 col-sm-6 col-xs-6 text-center extra-margin-bottom home_authors">
-                <a href="{{ autore.url }}">
+                {% if page.path contains 'international' %}
+                  <img data-original="{{ site.authorurl }}/{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg" alt="" class="img-circle img-responsive lazy">
+                {% else %}
+                  <a href="{{ autore.url }}">
                     <img data-original="{{ site.authorurl }}/{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg" alt="" class="img-circle img-responsive lazy">
-                </a>
-                <h3><a href="{{ autore.url }}">{{ autore.nome }}<br>{{ autore.cognome }}</a></h3>
-                <p class="hidden-xs">{{ autore.meta }}</p>
+                  </a>
+                {% endif %}
+                {% if page.path contains 'international' %}
+                  <h3>{{ autore.nome }}<br>{{ autore.cognome }}</h3>
+                {% else %}
+                  <h3><a href="{{ autore.url }}">{{ autore.nome }}<br>{{ autore.cognome }}</a></h3>
+                {{ autore.meta }}
+                {% endif %}
+                <p class="hidden-xs">
+                  {% if page.path contains 'international' %}
+                  {% else %}
+                  {{ autore.meta }}
+                  {% endif %}
+                </p>
             </div>
             {% endif %}
         {% endfor %}
@@ -54,22 +110,50 @@
         {% for autore in site.pages %}
             {% if autore.nome_completo == page.autore5 %}
             <div class="col-md-3 col-sm-6 col-xs-6 text-center extra-margin-bottom home_authors">
-                <a href="{{ autore.url }}">
+                {% if page.path contains 'international' %}
+                  <img data-original="{{ site.authorurl }}/{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg" alt="" class="img-circle img-responsive lazy">
+                {% else %}
+                  <a href="{{ autore.url }}">
                     <img data-original="{{ site.authorurl }}/{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg" alt="" class="img-circle img-responsive lazy">
-                </a>
-                <h3><a href="{{ autore.url }}">{{ autore.nome }}<br>{{ autore.cognome }}</a></h3>
-                <p class="hidden-xs">{{ autore.meta }}</p>
+                  </a>
+                {% endif %}
+                {% if page.path contains 'international' %}
+                  <h3>{{ autore.nome }}<br>{{ autore.cognome }}</h3>
+                {% else %}
+                  <h3><a href="{{ autore.url }}">{{ autore.nome }}<br>{{ autore.cognome }}</a></h3>
+                {{ autore.meta }}
+                {% endif %}
+                <p class="hidden-xs">
+                  {% if page.path contains 'international' %}
+                  {% else %}
+                  {{ autore.meta }}
+                  {% endif %}
+                </p>
             </div>
             {% endif %}
         {% endfor %}
         {% for autore in site.pages %}
             {% if autore.nome_completo == page.autore6 %}
             <div class="col-md-3 col-sm-6 col-xs-6 text-center extra-margin-bottom home_authors">
-                <a href="{{ autore.url }}">
+                {% if page.path contains 'international' %}
+                  <img data-original="{{ site.authorurl }}/{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg" alt="" class="img-circle img-responsive lazy">
+                {% else %}
+                  <a href="{{ autore.url }}">
                     <img data-original="{{ site.authorurl }}/{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg" alt="" class="img-circle img-responsive lazy">
-                </a>
-                <h3><a href="{{ autore.url }}">{{ autore.nome }}<br>{{ autore.cognome }}</a></h3>
-                <p class="hidden-xs">{{ autore.meta }}</p>
+                  </a>
+                {% endif %}
+                {% if page.path contains 'international' %}
+                  <h3>{{ autore.nome }}<br>{{ autore.cognome }}</h3>
+                {% else %}
+                  <h3><a href="{{ autore.url }}">{{ autore.nome }}<br>{{ autore.cognome }}</a></h3>
+                {{ autore.meta }}
+                {% endif %}
+                <p class="hidden-xs">
+                  {% if page.path contains 'international' %}
+                  {% else %}
+                  {{ autore.meta }}
+                  {% endif %}
+                </p>
             </div>
             {% endif %}
         {% endfor %}
@@ -79,22 +163,50 @@
         {% for autore in site.pages %}
             {% if autore.nome_completo == page.autore7 %}
             <div class="col-md-3 col-sm-6 col-xs-6 text-center extra-margin-bottom home_authors">
-                <a href="{{ autore.url }}">
+                {% if page.path contains 'international' %}
+                  <img data-original="{{ site.authorurl }}/{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg" alt="" class="img-circle img-responsive lazy">
+                {% else %}
+                  <a href="{{ autore.url }}">
                     <img data-original="{{ site.authorurl }}/{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg" alt="" class="img-circle img-responsive lazy">
-                </a>
-                <h3><a href="{{ autore.url }}">{{ autore.nome }}<br>{{ autore.cognome }}</a></h3>
-                <p class="hidden-xs">{{ autore.meta }}</p>
+                  </a>
+                {% endif %}
+                {% if page.path contains 'international' %}
+                  <h3>{{ autore.nome }}<br>{{ autore.cognome }}</h3>
+                {% else %}
+                  <h3><a href="{{ autore.url }}">{{ autore.nome }}<br>{{ autore.cognome }}</a></h3>
+                {{ autore.meta }}
+                {% endif %}
+                <p class="hidden-xs">
+                  {% if page.path contains 'international' %}
+                  {% else %}
+                  {{ autore.meta }}
+                  {% endif %}
+                </p>
             </div>
             {% endif %}
         {% endfor %}
         {% for autore in site.pages %}
             {% if autore.nome_completo == page.autore8 %}
             <div class="col-md-3 col-sm-6 col-xs-6 text-center extra-margin-bottom home_authors">
-                <a href="{{ autore.url }}">
+                {% if page.path contains 'international' %}
+                  <img data-original="{{ site.authorurl }}/{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg" alt="" class="img-circle img-responsive lazy">
+                {% else %}
+                  <a href="{{ autore.url }}">
                     <img data-original="{{ site.authorurl }}/{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg" alt="" class="img-circle img-responsive lazy">
-                </a>
-                <h3><a href="{{ autore.url }}">{{ autore.nome }}<br>{{ autore.cognome }}</a></h3>
-                <p class="hidden-xs">{{ autore.meta }}</p>
+                  </a>
+                {% endif %}
+                {% if page.path contains 'international' %}
+                  <h3>{{ autore.nome }}<br>{{ autore.cognome }}</h3>
+                {% else %}
+                  <h3><a href="{{ autore.url }}">{{ autore.nome }}<br>{{ autore.cognome }}</a></h3>
+                {{ autore.meta }}
+                {% endif %}
+                <p class="hidden-xs">
+                  {% if page.path contains 'international' %}
+                  {% else %}
+                  {{ autore.meta }}
+                  {% endif %}
+                </p>
             </div>
             {% endif %}
         {% endfor %}
