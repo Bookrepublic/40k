@@ -24,6 +24,6 @@ L'uso del passato crea un'atmosfera più "storica", il lettore sa che i fatti so
 
 Se un autore sceglie di scrivere in tempo presente, invece, tutto il racconto sembra permeato da un senso di irrisolto. Il lettore ha la sensazione chiara e distinta che i fatti si stiano svolgendo in presa diretta, sotto i suoi occhi. Ma è un tempo difficilissimo da usare con un narratore in terza persona. 
 
-Jacob Appel riesce in questa sfida. Il formato breve della novelette gli permette di costruire un meccanismo narrativo vincente che sfrutta il tempo presente per creare una tensione perenne. Leggi <em>[Radiazione](http://40k.it/books/collection/stories/20100918_radiazione.html)</em> e presta attenzione a come l'autore costruisce i personaggi tramite questo espediente. 
+Jacob Appel riesce in questa sfida. Il formato breve della novelette gli permette di costruire un meccanismo narrativo vincente che sfrutta la combinazione di tempo presente e terza persona per creare una tensione perenne. Leggi <em>[Radiazione](http://40k.it/books/collection/stories/20100918_radiazione.html)</em> e presta attenzione a come l'autore costruisce i personaggi tramite questo espediente. 
 
 Ricorda: su Bookrepublic puoi acquistare tutte le novelette di Apple in un unico bookpack a prezzo speciale: [click!](http://www.bookrepublic.it/book/novelette-letterarie-appel/)
