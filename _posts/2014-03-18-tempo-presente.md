@@ -22,7 +22,7 @@ Ci sono molte ragioni per scegliere di utilizzare un tempo verbale piuttosto che
 
 L'uso del passato crea un'atmosfera più "storica", il lettore sa che i fatti sono già accaduti e le esperienze concluse, risolte. L'uso del passato trasmette l'idea che ci sia un finale già scritto. 
 
-L'uso del presente, invece, permea tutto il racconto di un senso di irrisolto. I fatti si stanno svolgendo in presa diretta, sotto i tuoi occhi. Ma è un tempo difficilissimo da usare con un narratore in terza persona. 
+Se un autore sceglie di scrivere in tempo presente, invece, tutto il racconto sembra permeato da un senso di irrisolto. Il lettore ha la sensazione chiara e distinta che i fatti si stiano svolgendo in presa diretta, sotto i suoi occhi. Ma è un tempo difficilissimo da usare con un narratore in terza persona. 
 
 Jacob Appel riesce in questa sfida. Il formato breve della novelette gli permette di costruire un meccanismo narrativo vincente che sfrutta il tempo presente per creare una tensione perenne. Leggi <em>[Radiazione](http://40k.it/books/collection/stories/20100918_radiazione.html)</em> e presta attenzione a come l'autore costruisce i personaggi tramite questo espediente. 
 
