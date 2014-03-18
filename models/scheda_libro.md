@@ -1,23 +1,22 @@
 ---
 layout: book
-isbn: 9788865860076
-title: "Radiaçao"
+isbn: 
+title: ""
 sottotitolo:
 author:
-  - Jacob Appel 
+  - 
 categories:
-  -  literature
-collana: stories
-price: 2.99€
-format: epub
-lang: português
-date: 2010-09-18
-state: catalogo
-bookrepublic: http://www.bookrepublic.it/book/9788865860076-radiacao/
-kindle: http://www.amazon.com/Radia%C3%A7%C3%A3o-Portuguese-Edition-Jacob-Appel-ebook/dp/B0042RUNJA/
-drm: Social DRM
+  -  
+collana: 
+price:
+format: 
+lang: 
+date: 
+state: 
+bookrepublic: 
+kindle: 
+drm: 
 quote:
 meta:
 cover_image:
 ---
-O intenso medo de Maggie por detrás do humor nervoso dele a surpreende. É ela, não ele, quem deveria estar traumatizada. Ela estava no centro da cidade, renovando a carteira de motorista, quando o Trade Center caiu; ela estava entre os que fugiam sem rumo pela ponte da Rua 59. Ele estava em seu escritório, em Jersey, vendo a CNN. Mas, três dias após a tragédia, após conferirem que todos os seus amigos estavam vivos, e ela voltara a ouvir os clássicos no rádio, ao invés das notícias, quando estava achando que naquela noite eles iriam tentar novamente engravidar, Frank voltou do escritório carregando três caixas de leite cheias de livros. Ele sorriu com os lábios, mas não com os olhos. E disse: “Só quero pesquisar umas coisas”. Ela se lembra dessa frase, nos meses finais da faculdade de direito, quando ele trouxe para casa livros sobre como começar um negócio. Ele leu compulsivamente por várias semanas e então profetizou: “Bem, querida, vamos ficar ricos”. Agora ele fecha com força o último dos seus volumes e anuncia, com a mesma certeza: “Vamos todos morrer”.
