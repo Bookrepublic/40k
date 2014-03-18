@@ -13,6 +13,8 @@ coverurl: /static/cover/resize
 postimageurl: /static/img/
 safe: false
 encoding: UTF-8
+category_dir: /blog/categories/
+category_international_dir: /international/blog/ 
 
 exclude: ['README.md', Gemfile, Gemfile.lock, less, models]
 

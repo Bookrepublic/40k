@@ -39,7 +39,7 @@ layout: default
 
                     {% assign order_page = site.pages | sort:"name" %}
                     {% for book in order_page reversed %}
-                    {% if book.layout == 'book' %}
+                    {% if book.layout == 'book' and book.lang == 'italiano' %}
 
                     <article class="col-md-2 col-sm-3 col-xs-6">
                         <div class="thumbnail fixed-height">

@@ -8,7 +8,7 @@ layout: default
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-8 col-md-offset-2">
-                <span class="single_post"><h1>Tutti i post del blog <a href="/feed/index.xml"><i class="fa fa-rss-square"></i></a></h1></span>
+                <span class="single_post"><h1>All post</h1></span>
             </div>
         </div>
     </div>
@@ -18,7 +18,7 @@ layout: default
 <section class="container-fluid">
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
-            {% for post in paginator.posts %}
+            {% for post in site.categories['international'] %}
             <article class="post_loop">
                 <span class="single_post">
                     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
@@ -41,28 +41,3 @@ layout: default
         </div>
     </div>
 </section>
-
-<div class="contanainer-fluid">
-    <div class="row">
-        <div class="col-md-8 col-md-offset-2">
-            <ul class="pager">
-                {% if paginator.previous_page %}
-                <li class="previous">
-                    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">
-                    <i class="fa fa-caret-left"></i> Indietro</a>
-                </li>
-                {% else %}
-                {% endif %}
-                {% if paginator.next_page %}
-                <li class="next">
-                    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Avanti <i class="fa fa-caret-right"></i></a>
-                </li>
-                {% else %}
-                <li class="next disabled">
-                    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Avanti <i class="fa fa-caret-right"></i></a>
-                </li>
-                {% endif %}
-            </ul>
-        </div>
-    </div>
-</div>
