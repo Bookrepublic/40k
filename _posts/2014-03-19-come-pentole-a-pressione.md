@@ -2,7 +2,7 @@
 author: Marco Ragaini
 date: 2014-03-19
 layout: post
-title: Come pentole a pressione dimenticate sul fuoco
+title: "Le relazioni di coppia? Come pentole a pressione dimenticate sul fuoco"
 categories:
 - recensioni
 description:
