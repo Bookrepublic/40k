@@ -22,6 +22,9 @@ background-size: cover; -webkit-background-size: cover; -moz-background-size: co
       {% if author.twitter %}
       <p><small><a href="https://twitter.com/{{ author.twitter }}">@{{ author.twitter }}</a></small></p>
       {% endif %}
+      {% if author.web %}
+      <p><small><a href="{{ author.web }}">{{ author.web }}</a></small></p>
+      {% endif %}
     </aside>
     <header class="row">
       <div class="col-md-9 col-md-offset-2 single_post">
@@ -35,6 +38,9 @@ background-size: cover; -webkit-background-size: cover; -moz-background-size: co
         {% if author.quote %}<p><small><em>{{ author.quote }}</em></small></p>{% endif %}
         {% if author.twitter %}
         <p><small><a href="https://twitter.com/{{ author.twitter }}">@{{ author.twitter }}</a></small></p>
+        {% endif %}
+        {% if author.web %}
+        <p><small><a href="{{ author.web }}"><i class="fa fa-desktop"></i></a></small></p>
         {% endif %}
       </aside>
       <article class="col-md-9">
