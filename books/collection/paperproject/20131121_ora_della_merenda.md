@@ -10,7 +10,7 @@ categories:
 collana: paperproject
 price: 0,99€
 format: epu
-lang: ita
+lang: "italiano"
 date: 2013-11-21
 state: catalogo
 bookrepublic: http://www.bookrepublic.it/book/9788898001378

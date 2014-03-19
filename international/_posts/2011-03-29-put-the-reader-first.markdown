@@ -7,7 +7,7 @@ slug: put-the-reader-first
 title: Put the reader first
 wordpress_id: 7364
 categories:
-- international
+- News (Eng)
 - Today in Publishing
 ---
 

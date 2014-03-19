@@ -6,21 +6,21 @@ layout: default
     <div id="entry-list">
         <div class="row double-margin-bottom">
             <div class="col-md-8 col-md-offset-2 single_post">
-                <h1 class="text-hide">Tutti gli ebook di 40k</h1>
+                <h1 class="text-hide">All 40k international ebook</h1>
                 <img src="/static/img/logo40k_black.jpg" class="logo img-responsive extra-margin-bottom crop">
-                <input type="text" class="search form-control extra-margin-bottom" placeholder="Cerca in tutto il catalogo 40k" />
+                <input type="text" class="search form-control extra-margin-bottom" placeholder="Find" />
                 <div class="btn-group btn-group-lg btn-group-justified hidden-xs">
                     <div class="btn-group">
-                        <button type="button" class="sort btn btn-default" data-sort="titolo">Ordina per titolo</button>
+                        <button type="button" class="sort btn btn-default" data-sort="titolo">Order by title</button>
                     </div>
                     <div class="btn-group">
-                        <button type="button" class="sort btn btn-default center" data-sort="aut">Ordina per autore</button>
+                        <button type="button" class="sort btn btn-default center" data-sort="aut">Order by author</button>
                     </div>
                     <div class="btn-group">
-                        <button type="button" class="sort btn btn-default center" data-sort="data">Ordina per data</button>
+                        <button type="button" class="sort btn btn-default center" data-sort="data">Order by date</button>
                     </div>
                     <div class="btn-group">
-                        <button type="button" class="sort btn btn-default center" data-sort="collana">Ordina per collana</button>
+                        <button type="button" class="sort btn btn-default center" data-sort="collana">Order by collection</button>
                     </div>
                 </div>
                 <div class="visible-xs">
@@ -62,7 +62,7 @@ layout: default
                                         {% endfor %}
 
                                     </dd>
-                                    <dd><a href="{{ site.baseurl }}books/collection/{{ book.collana }}"><span class="collana">{{ book.collana }}</span></a></dd>
+                                    <dd><a href="{{ site.baseurl }}international/books/{{ book.collana }}"><span class="collana">{{ book.collana }}</span></a></dd>
                                     <dd class="categoria">{{ book.categories | join:', ' }}</dd>
                                     <dd class="data">{{ book.date | date: "%Y"}}</dd>
                                 </dl>

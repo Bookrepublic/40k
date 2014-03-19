@@ -10,7 +10,7 @@ title: From World of Warcraft to Amazon. Geek Quotes from "Love is Strange" by B
 wordpress_id: 13727
 categories:
 - 40k Originals
-- international
+- News (Eng)
 - Today in Publishing
 - Writing
 ---

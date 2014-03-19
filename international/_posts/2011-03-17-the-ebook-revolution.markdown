@@ -7,7 +7,7 @@ slug: the-ebook-revolution
 title: The ebook revolution
 wordpress_id: 6908
 categories:
-- international
+- News (Eng)
 - Today in Publishing
 ---
 

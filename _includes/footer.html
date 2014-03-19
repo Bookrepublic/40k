@@ -2,15 +2,30 @@
     <div class="container-fluid">
         <div class="row">
             <p class="lead text-center f-lead-resize">
-                Fatto con il <i class="fa fa-heart"></i> da <a href="http://www.bookrepublic.it/">Bookrepublic</a>
+              {% if page.path contains 'international' %}
+                Made with <i class="fa fa-heart"></i> by <a href="http://www.bookrepublic.it/">Bookrepublic</a>
+              {% else %}
+                Fatto con il <i class="fa fa-heart"></i> da <a href="http://www.bookrepublic.it/">Bookrepublic</a>             
+              {% endif %}
             </p>
             <p class="lead text-center f-lead-resize">
+              {% if page.path contains 'international' %}
+                find us:
+              {% else %}
                 ci trovi su:
+              {% endif %}
             </p>
             <p class="lead text-center f-lead-resize">
+              {% if page.path contains 'international' %}
+                <span style="padding-right: 20px;"><a href="https://twitter.com/40kUSA"><i class="fa fa-twitter fa-3x"></i></a></span>
+              {% else %}
                 <span style="padding-right: 20px;"><a href="https://twitter.com/40kBooks"><i class="fa fa-twitter fa-3x"></i></a></span>
+              {% endif %}
                 <span style="padding-left: 20px; padding-right: 20px;"><a href="https://www.facebook.com/40kbooks"><i class="fa fa-facebook fa-3x"></i></a></span>
+              {% if page.path contains 'international' %}
+              {% else %}
                 <span style="padding-left: 20px;"><a href="/feed/index.xml"><i class="fa fa-rss-square fa-3x"></i></a></span>
+              {% endif %}
             </p>
         </div>
     </div>

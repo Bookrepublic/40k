@@ -33,7 +33,9 @@ background-size: cover; -webkit-background-size: cover; -moz-background-size: co
         <img src="{{ author.image }}" class="img-responsive img-circle">
         <h2>{{ author.display_name }}</h2>
         {% if author.quote %}<p><small><em>{{ author.quote }}</em></small></p>{% endif %}
+        {% if author.twitter %}
         <p><small><a href="https://twitter.com/{{ author.twitter }}">@{{ author.twitter }}</a></small></p>
+        {% endif %}
       </aside>
       <article class="col-md-9">
         <div class="single_post">

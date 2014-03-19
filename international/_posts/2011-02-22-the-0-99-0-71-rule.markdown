@@ -7,7 +7,7 @@ slug: the-0-99-0-71-rule
 title: The $0.99 (£ 0.71) Rule
 wordpress_id: 4954
 categories:
-- international
+- News (Eng)
 - Today in Publishing
 ---
 

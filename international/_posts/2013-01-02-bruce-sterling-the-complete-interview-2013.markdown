@@ -12,7 +12,7 @@ wordpress_id: 13726
 categories:
 - 40k Originals
 - Digital Culture
-- international
+- News (Eng)
 - Today in Publishing
 - Writing
 ---

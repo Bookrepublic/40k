@@ -9,7 +9,7 @@ categories:
 collana: paperproject
 price: 0.99€
 format: epub
-lang: ita
+lang: "italiano"
 date: 2013-11-23 00:00:00
 state: catalogo
 bookrepublic: http://www.bookrepublic.it/book/9788898001392-da-porta-romana-al-bernabeu/

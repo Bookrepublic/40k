@@ -8,6 +8,13 @@
 <div id="right-panel" class="slidepanel">
     <p><i class="fa fa-backward fa-2x" id="close-panel-bt"></i></p>
     <ul class="fa-ul">
+    {% if page.path contains 'international' %}
+      <li><i class="fa-li fa fa-home {% if page.url == '/international/index.html' %}fa-spin{% endif %}"></i><a href="/international/">Home</a></li>
+      <li><i class="fa-li fa fa-stack-exchange {% if page.url == '/international/blog/index.html' %}fa-spin{% endif %}"></i><a href="/international/blog">Blog</a></li>
+      <li><i class="fa-li fa fa-book {% if page.url == '/international/books/index.html' %}fa-spin{% endif %}"></i><a href="/international/books">International Ebook</a></li>
+      <li><i class="fa-li fa fa-users {% if page.url == '/authors/index.html' %}fa-spin{% endif %}"></i><a href="/authors">Authors</a></li>
+      <li><i class="fa-li fa fa-flag-o"></i><a href="/">Italian site</a></li>
+    {% else %}
       <li><i class="fa-li fa fa-home {% if page.url == '/index.html' %}fa-spin{% endif %}"></i><a href="/">Home</a></li>
       <li><i class="fa-li fa fa-stack-exchange {% if page.url == '/blog/index.html' %}fa-spin{% endif %}"></i><a href="/blog">Blog</a></li>
       <li><i class="fa-li fa fa-book {% if page.url == '/books/index.html' %}fa-spin{% endif %}"></i><a href="/books">Ebook</a></li>
@@ -15,5 +22,7 @@
       <li><i class="fa-li fa fa-users {% if page.url == '/authors/index.html' %}fa-spin{% endif %}"></i><a href="/authors">Autori</a></li>
       <li><i class="fa-li fa fa-keyboard-o {% if page.url == '/diventa_autore/index.html' %}fa-spin{% endif %}"></i><a href="/diventa_autore">Diventa autore</a></li>
       <li><i class="fa-li fa fa-pencil {% if page.url == '/diventa_autore/benvenuto_bordo/' %}fa-spin{% endif %}"></i><a href="/diventa_autore/benvenuto_bordo/">Scrivi!</a></li>
+      <li><i class="fa-li fa fa-flag-o"></i><a href="/international/">International site</a></li>
+    {% endif %}
     <ul>    
 </div>

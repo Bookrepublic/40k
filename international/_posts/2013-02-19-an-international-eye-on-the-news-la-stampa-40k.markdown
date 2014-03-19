@@ -10,7 +10,7 @@ slug: an-international-eye-on-the-news-la-stampa-40k
 title: 'An International Eye on the News: La Stampa / 40k'
 wordpress_id: 13748
 categories:
-- international
+- News (Eng)
 - Today in Publishing
 ---
 
