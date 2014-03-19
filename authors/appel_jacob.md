@@ -1,7 +1,7 @@
 ---
 layout: autore
 nome: Jacob 
-cognome: Apple
+cognome: Appel
 nome_completo: Jacob Appel
 meta:
 cover_autore:
