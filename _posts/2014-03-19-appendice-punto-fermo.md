@@ -2,7 +2,7 @@
 author: Roberto Zanasi
 date: 2014-03-19
 layout: post
-title: Un punto fermo: appendice
+title: "Un punto fermo: l'appendice"
 categories:
 - altramatematica
 description:
