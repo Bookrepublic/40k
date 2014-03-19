@@ -66,6 +66,13 @@ authors:
     twitter: zzar
     quote: 
     google: https://plus.google.com/u/1/+RobertoZanasi/posts
+  Marco Ragaini:
+    display_name: Marco Ragaini
+    image: /static/firme/marco_ragaini.jpg
+    web: http://www.pochestorie.it/
+    twitter: 
+    quote: "Capace di intendere e di volare."
+    google: 
 
 image:
   source: /static/img/
