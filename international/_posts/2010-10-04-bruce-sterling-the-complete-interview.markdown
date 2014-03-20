@@ -9,8 +9,6 @@ slug: bruce-sterling-the-complete-interview
 title: 'Bruce Sterling: The Complete Interview'
 wordpress_id: 1769
 categories:
-- '* The Astral Disruptor'
-- 40k Originals
 - international
 ---
 

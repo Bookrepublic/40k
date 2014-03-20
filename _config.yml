@@ -5,6 +5,7 @@ pygments: true
 permalink: /blog/:year/:month/:day/:title/
 paginate: 15
 paginate_path: "blog/page:num"
+paginate_categories: 15
 url: http://www.40k.it
 baseurl: /
 authorurl: /static/author/

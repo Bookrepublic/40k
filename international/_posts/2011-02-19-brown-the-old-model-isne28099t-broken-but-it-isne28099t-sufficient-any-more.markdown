@@ -10,8 +10,9 @@ slug: brown-the-old-model-isn%e2%80%99t-broken-but-it-isn%e2%80%99t-sufficient-a
 title: 'Brown: "The old model isn’t broken, but it isn’t sufficient any more."'
 wordpress_id: 4801
 categories:
-- Tag Interviews
-- Today in Publishing
+- interviews
+tag:
+- interviews
 ---
 
 _Change in Publishing: (not really) answers to (not really) questions.

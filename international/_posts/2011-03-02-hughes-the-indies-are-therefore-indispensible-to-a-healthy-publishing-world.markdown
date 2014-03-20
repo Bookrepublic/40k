@@ -2,16 +2,12 @@
 author: 40k team
 comments: true
 date: 2011-03-02 18:57:10+00:00
-excerpt: «Influenced by Borges, Calvino and Stanislaw Lem, Rhys Hughes's fiction is
-  both intellectual and hilarious with plenty of jokes, puns and satirical side-swipes
-  to keep the reader constantly amused»
 layout: post
 slug: hughes-the-indies-are-therefore-indispensible-to-a-healthy-publishing-world
 title: 'Hughes: "The Indies are therefore indispensable to a healthy publishing world."'
 wordpress_id: 6226
 categories:
-- Tag Interviews
-- Today in Publishing
+- interviews
 ---
 
 _Change in Publishing: (not really) answers to (not really) questions.

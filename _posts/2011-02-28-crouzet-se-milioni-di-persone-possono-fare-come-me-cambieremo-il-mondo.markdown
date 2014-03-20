@@ -5,7 +5,7 @@ layout: post
 slug: crouzet-se-milioni-di-persone-possono-fare-come-me-cambieremo-il-mondo
 title: 'Crouzet: se milioni di persone possono fare come me, cambieremo il mondo'
 categories:
-- News (Ita)
+- news
 ---
 
 _I cambiamenti nell'editoria: (non vere) risposte a (non vere) domande.

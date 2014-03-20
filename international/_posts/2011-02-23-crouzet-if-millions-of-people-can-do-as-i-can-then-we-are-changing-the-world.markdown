@@ -10,9 +10,7 @@ title: 'Crouzet: "If millions of people can do as I can, then we are changing th
   world."'
 wordpress_id: 5086
 categories:
-- News (Eng)
-- Tag Interviews
-- Today in Publishing
+- interviews
 ---
 
 _Change in Publishing: (not really) answers to (not really) questions.

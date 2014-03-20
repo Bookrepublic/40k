@@ -10,8 +10,7 @@ title: 'Appel: "Indie publishers are filling the role that their larger competit
   have forsaken"'
 wordpress_id: 4928
 categories:
-- Tag Interviews
-- Today in Publishing
+- interviews
 ---
 
 _Change in Publishing: (not really) answers to (not really) questions.
