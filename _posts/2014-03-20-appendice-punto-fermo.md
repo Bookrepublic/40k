@@ -360,4 +360,4 @@ rimontarlo bene..."
 "..."
 
 
-<em>Hai appena letto l'appendice di [Un punto fermo](http://40k.it/books/collection/altramatematica/20140225_un_punto_fermo.html)</em> di Roberto Zanasi. Scopri il mondo di [Altramatematica](http://40k.it/books/collection/altramatematica), un modo sagace e pop di parlare di numeri.
+<em>Hai appena letto l'appendice di [Un punto fermo](http://40k.it/books/collection/altramatematica/20140225_un_punto_fermo.html) di Roberto Zanasi. Scopri il mondo di [Altramatematica](http://40k.it/books/collection/altramatematica), un modo sagace e pop di parlare di numeri.</em>
