@@ -1,6 +1,6 @@
 ---
 author: Roberto Zanasi
-date: 2014-03-19
+date: 2014-03-20
 layout: post
 title: "Un punto fermo: l'appendice"
 categories:
