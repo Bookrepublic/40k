@@ -6,13 +6,13 @@ nome_completo: Peppe Liberti
 meta: "Come fosse facile, lasciare un segno."
 cover_autore:
 twitter: peppeliberti
-facebook: www.facebook.com/peppe.liberti
-linkedin: it.linkedin.com/in/peppeliberti
-web: peppeliberti.it
-instagram: instagram.com/peppelib
-pinterest: www.pinterest.com/peppeli
+facebook: https://www.facebook.com/peppe.liberti
+linkedin: https://it.linkedin.com/in/peppeliberti
+web: https://www.peppeliberti.it
+instagram: https://instagram.com/peppelib
+pinterest: https://www.pinterest.com/peppeli
 vine:
-google: plus.google.com/+PeppeLiberti
+google: https://plus.google.com/+PeppeLiberti
 ---
 Dottore di Ricerca in Fisica. Dal 1998 al 2000 è stato Ricercatore di III livello dell'Istituto Nazionale per la Fisica della Materia, dal 2001 al 2005 è Assegnista di Ricerca presso il Dipartimento di Fisica dell'Università della Calabria e fino al 2009 ha svolto altri incarichi di ricerca con contratti di collaborazione coordinata e continuativa. Coautore di 19 lavori pubblicati su riviste scientifiche internazionali e di numerosi contributi a congressi scientifici nazionali ed internazionali.
 Ha partecipato a programmi di ricerca finanziati dall'Istituto Nazionale di Fisica Nucleare e dall'Istituto Nazionale per la Fisica della Materia. Ha contribuito alla nascita e allo sviluppo di un'impresa spin-off dell'Università della Calabria che produce strumenti per laboratori scientifici e scolastici.
