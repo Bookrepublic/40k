@@ -13,8 +13,8 @@ format: epub
 lang: italiano
 date: 2014-03-22
 state: catalogo
-bookrepublic: 
-kindle: 
+bookrepublic: http://www.bookrepublic.it/book/9788898001620-15-idee-per-comporre-unimmagine-senza-saper-disegnare/
+kindle: http://www.amazon.it/comporre-unimmagine-senza-saper-disegnare-ebook/dp/B00J6CYNU6/
 drm: Social DRM
 quote:
 meta:
