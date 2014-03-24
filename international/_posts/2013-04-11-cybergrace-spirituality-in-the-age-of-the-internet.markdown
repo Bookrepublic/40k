@@ -1,8 +1,6 @@
 ---
 author: Letizia Sechi
-comments: false
 date: 2013-04-11 07:44:10+00:00
-excerpt: <strong>Just Published:</strong> Cybergrace, by Antonio Spadaro
 layout: post
 slug: cybergrace-spirituality-in-the-age-of-the-internet
 title: 'Cybergrace: Spirituality in the Age of the Internet'
