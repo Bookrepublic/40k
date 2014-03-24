@@ -1199,11 +1199,11 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"/~\/40k\/assets\/css\/bootstrap.css": {
+	"\/~\/40k\/assets\/css\/bootstrap.css": {
 		"fileType": 16,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "~\/40k\/assets\/css\/bootstrap.css",
+		"inputAbbreviatedPath": "\/~\/40k\/assets\/css\/bootstrap.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsSetByUser": 0
 		}
