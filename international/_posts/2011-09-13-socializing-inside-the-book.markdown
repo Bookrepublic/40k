@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-09-13 06:06:43+00:00
 excerpt: '<strong>Scott Nicholson</strong>: "I want to bring people into the books

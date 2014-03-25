@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: false
 date: 2012-12-27 13:57:41+00:00
 excerpt: '<strong>Just published: </strong>They''re futurists in love. They don''t
@@ -12,7 +12,7 @@ categories:
 - international
 ---
 
-[![](http://www.40kbooks.com/wp-content/uploads/coversterling_sito1.jpeg)](http://www.amazon.com/dp/B00ASBPAWY/)**THE STORY**
+**THE STORY**
 
 They're futurists in love. They don't believe in romantic happy endings.
 
@@ -56,19 +56,6 @@ His nonfiction works include The Hacker Crackdown: Law and Disorder on the Elect
 
 _(Amazon Exclusive, DRM FREE: easy to convert and read anywhere else)_
 
-**YOU MAY ALSO LIKE**
-
-
-
-
-
-
-
-
-[![](http://www.40kbooks.com/wp-content/uploads/The-Parthenopean-Scalpel.jpeg)](http://www.amazon.com/dp/B0044XV1XE)
-
-
-[![](http://www.40kbooks.com/wp-content/uploads/Black-Swan-Bruce-Sterling.jpeg)](http://www.amazon.com/dp/B0042G0RRY)
 
 
 

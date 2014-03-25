@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: false
 date: 2012-05-28 12:22:47+00:00
 layout: post

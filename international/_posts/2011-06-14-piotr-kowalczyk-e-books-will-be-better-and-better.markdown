@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-06-14 15:12:00+00:00
 excerpt: Piotr Kowalczyk is a technology geek, e-book enthusiast, self-publisher.

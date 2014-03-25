@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-09-15 14:06:41+00:00
 excerpt: '<strong>Barry Eisler</strong>: "But when Amazon heard about my decision,

@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-01-03 11:58:18+00:00
 excerpt: "\n  \n  \n\n  «1) SF and music can inspire each other in new movements.\n\

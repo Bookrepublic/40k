@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-10-27 18:57:33+00:00
 excerpt: '<Strong>Short Fiction Week</strong>: Piotr Kowalczyk: "One good short story

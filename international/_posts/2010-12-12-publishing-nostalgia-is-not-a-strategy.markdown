@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-12 08:49:23+00:00
 excerpt: "  \n  \n\n  «Very few of the authors we will collectively work with will\

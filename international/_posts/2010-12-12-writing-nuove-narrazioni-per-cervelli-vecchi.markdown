@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-12 09:58:31+00:00
 excerpt: "  \n  \n\n  «Anche se con i nuovi mezzi di espressione possiamo essere stupiti\

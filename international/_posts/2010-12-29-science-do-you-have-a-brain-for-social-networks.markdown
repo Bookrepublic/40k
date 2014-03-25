@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-29 17:37:36+00:00
 excerpt: "\n  \n  \n\n  «Study authors then looked at the volume of the amygdala,\

@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-14 20:39:30+00:00
 excerpt: "  \n  \n\n  «The Novel (capital T, capital N) is not under threat from this\

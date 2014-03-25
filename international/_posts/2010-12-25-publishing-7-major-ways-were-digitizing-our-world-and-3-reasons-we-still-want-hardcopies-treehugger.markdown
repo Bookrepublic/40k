@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-25 21:05:56+00:00
 excerpt: "\n  \n  \n\n  «The digitization of our world has been a forward march for\

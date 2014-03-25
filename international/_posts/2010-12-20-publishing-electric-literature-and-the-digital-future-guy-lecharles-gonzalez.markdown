@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-20 08:45:00+00:00
 excerpt: "  \n  \n\n  «Disruption doesn't acknowledge titles or job descriptions,\

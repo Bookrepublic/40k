@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-10-26 18:06:16+00:00
 excerpt: '<strong>Short Fiction Week</strong>: David Gaughran: "With digital publishing,

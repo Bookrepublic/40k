@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-01-07 20:37:46+00:00
 excerpt: "\n  \n  \n\n  «Now, you may say that all of these are things that existed\

@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-08-10 17:01:52+00:00
 excerpt: '<strong>Change in Publishing</strong>: Amazon launches the "Cloud Reader"'

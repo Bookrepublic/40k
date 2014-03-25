@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-02-23 15:29:07+00:00
 excerpt: Journalist, writer, connecteur,  Thierry is the author of "La stratégie du

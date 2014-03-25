@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-13 09:15:22+00:00
 excerpt: "  \n  \n\n  «Alternate history is a staple of popular culture, providing\

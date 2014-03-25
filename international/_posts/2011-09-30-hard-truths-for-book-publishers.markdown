@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-09-30 12:40:43+00:00
 excerpt: '<strong>Matthew Cain</strong>: "But for me, the impact of the ebook is about

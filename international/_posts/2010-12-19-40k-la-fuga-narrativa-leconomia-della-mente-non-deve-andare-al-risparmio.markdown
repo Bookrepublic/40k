@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-19 11:49:41+00:00
 excerpt: "\n  \n  \n\n  «Una lezione quanto mai attuale, in un mondo di imbonitori\

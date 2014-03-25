@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: false
 date: 2012-12-19 16:51:57+00:00
 excerpt: '<strong>Download: </strong> our best interviews about publishing, writing
@@ -16,7 +16,7 @@ categories:
 - Writing
 ---
 
-![](http://www.40kbooks.com/wp-content/uploads/cover_pub1_sito2.jpg)A collection of our best interviews about publishing, writing and fiction in these challenging times.
+A collection of our best interviews about publishing, writing and fiction in these challenging times.
 
 A path through changes in culture and in the book universe.
 

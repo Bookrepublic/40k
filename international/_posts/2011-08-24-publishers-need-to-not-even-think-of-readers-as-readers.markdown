@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-08-24 13:00:37+00:00
 excerpt: '<strong>Richard Nash</strong>: "We need to go straight from recognizing

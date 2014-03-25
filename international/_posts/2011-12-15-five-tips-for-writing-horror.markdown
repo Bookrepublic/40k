@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-12-15 07:43:54+00:00
 excerpt: <strong>#amWriting:</strong> Kaaron Warren tips for Horror authors

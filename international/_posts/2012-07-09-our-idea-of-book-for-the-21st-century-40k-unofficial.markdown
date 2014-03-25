@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: false
 date: 2012-07-09 12:30:32+00:00
 excerpt: '<strong>News: </strong> Perhaps the idea of book that we will have in 21st
@@ -22,43 +22,9 @@ Perhaps the idea of book that we will have in 21st century will not be bounded a
 
 _Giuseppe Granieri, 40k Editorial Director_ (Read the complete [Italian version](http://www.bookcafe.net/blog/blog.cfm?id=1574))
 
-
-
-
-
-
-
-
-
-
-
-![](http://www.40kbooks.com/wp-content/uploads/celi_sito.jpg)
-
-
-![](http://www.40kbooks.com/wp-content/uploads/debiase_sito.jpg)
-
-
-
-
-
-
-![](http://www.40kbooks.com/wp-content/uploads/gilioli_sito.jpg)
-
-
-![](http://www.40kbooks.com/wp-content/uploads/melani_sito.jpg)
-
-
-
-
-
-
-We launched 40k Unofficial having in mind an idea: to associate to contents which are too long to be read online the same relaxed and confortable reading experience that  we usually associate to paper books.
-
-
-
+We launched 40k Unofficial having in mind an idea: to associate to contents which are too long to be read online the same relaxed and confortable reading experience that we usually associate to paper books.
 
 In 40k Unofficial we take care of the editorial quality of books, but we do not select contents: they are completely under author's responsibility. Often, while writing on your blog, you might need more space to articulate a thought but you might think that the web is not the right place for that kind of reading. 40k Unofficial publishes exactly that kind of content, by mixing traditional and self publishing.
-
 
 40k Unofficial is still in a beta-version: we started with a series of titles from Italian bloggers, about different subjects - politics, fashion, humor, future.
 [Contact us](mailto:letizia@40kbooks.com) for any question about the project.

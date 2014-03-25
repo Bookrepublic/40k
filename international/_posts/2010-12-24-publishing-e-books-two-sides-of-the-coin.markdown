@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-24 08:31:00+00:00
 excerpt: "  \n  \n\n  «These days it is necessary for me to take note of debates about\

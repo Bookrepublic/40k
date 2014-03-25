@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-10-28 06:43:36+00:00
 excerpt: '<strong>Short Fiction week</strong>: Stephanie Campisi: "Running the website

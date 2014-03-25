@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-09-27 16:43:02+00:00
 excerpt: '<strong>Julianne Pepitone</strong>: "As more customers adopt Kindles, iPads

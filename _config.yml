@@ -73,6 +73,13 @@ authors:
     web: http://www.pochestorie.it/
     twitter: pochestorie
     quote: "Capace di intendere e di volare."
+    google:
+  Letizia Sechi:
+    display_name: Letizia Sechi
+    image: /static/firme/letizia_sechi.jpg
+    web: http://www.letiziasechi.com/
+    twitter: letiziasechi
+    quote: "«The NET is a waste of time, and that's exactly what's right about it.»"
     google: 
 
 image:

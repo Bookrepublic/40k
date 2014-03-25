@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-09-24 14:42:51+00:00
 excerpt: Just released. "Cardanica", a steampunk story set in a poisonous world where

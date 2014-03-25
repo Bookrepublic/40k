@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-12 11:32:53+00:00
 excerpt: "\n  \n  \n\n  «\"Trans Media\" is the buzzword du jour of the entertainment\

@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-10-05 12:01:54+00:00
 excerpt: '<strong>Rhys Hughes</strong>: "Imagine a cross between Bruce Sterling''s

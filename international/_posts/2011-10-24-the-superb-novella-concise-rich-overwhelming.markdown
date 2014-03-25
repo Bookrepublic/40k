@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-10-24 14:53:02+00:00
 excerpt: '<strong>Short Fiction week</strong>: Unique concepts, cleverly engineered

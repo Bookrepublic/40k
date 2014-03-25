@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-11 17:25:49+00:00
 excerpt: "  \n  \n\n  «What is the current set of literature that we believe should\

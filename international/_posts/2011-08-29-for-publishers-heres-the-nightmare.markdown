@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-08-29 15:11:21+00:00
 excerpt: '<strong>Nathan Bransford</strong>: "For publishers, here''s the nightmare

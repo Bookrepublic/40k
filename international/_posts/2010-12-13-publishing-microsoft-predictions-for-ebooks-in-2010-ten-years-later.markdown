@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-13 16:29:48+00:00
 excerpt: "\n  \n  \n\n  «In 2000 Microsoft put out a timeline predicting what would\

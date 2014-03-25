@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-28 20:57:23+00:00
 excerpt: "\n  \n  \n\n  «1. Google Editions will be a game-changer in the e-book field\n\

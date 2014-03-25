@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-11-02 09:49:44+00:00
 excerpt: '<strong>Short Fiction week</strong>: The winner of the contest: "Short stories:

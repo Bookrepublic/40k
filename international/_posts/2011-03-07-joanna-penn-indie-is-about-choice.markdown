@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-03-07 12:53:34+00:00
 excerpt: Joanna Penn is the author of Pentecost, a thriller novel. She blogs at TheCreativePenn.com

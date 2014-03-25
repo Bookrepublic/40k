@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-09-08 07:28:55+00:00
 excerpt: 'Just released: A story in which sex and society stand in uneasy relationship.'

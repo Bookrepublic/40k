@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: false
 date: 2012-12-26 14:03:52+00:00
 excerpt: '<strong>Bruce Sterling Interview: </strong> would you like to pose any question?'
@@ -11,7 +11,7 @@ categories:
 - international
 ---
 
-![](http://www.40kbooks.com/wp-content/uploads/coversterling_sito.jpeg) Hi Readers!
+Hi Readers!
 
 Have you heard the Big Christmas News? Tomorrow, 27th of December 2012, we are going to publish the brand new novel by Bruce Sterling, "Love Is Strange".
 

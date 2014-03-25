@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-10-07 17:21:18+00:00
 excerpt: '<strong>Timo Boezeman</strong>: "One other thing that has to change in the

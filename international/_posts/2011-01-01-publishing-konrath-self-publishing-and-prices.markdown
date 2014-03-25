@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-01-01 11:36:23+00:00
 excerpt: "  \n  \n\n  «1000 ebook sales a month for a $2.99 self-pubbed ebook is a\

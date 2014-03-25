@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-10-30 08:35:26+00:00
 excerpt: '<strong>Short Fiction Week</strong>: Damien G. Walter: "The greatest short

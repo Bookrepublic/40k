@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-27 19:21:49+00:00
 excerpt: "\n  \n  \n\n  «Is this is the long-awaited dawn of creative writing, where\

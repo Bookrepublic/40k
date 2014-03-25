@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-10-29 09:58:32+00:00
 excerpt: '<strong>Short Fiction Week</strong>: Livia Blackburne: "When you have so

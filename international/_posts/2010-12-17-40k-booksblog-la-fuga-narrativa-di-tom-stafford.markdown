@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-17 18:41:19+00:00
 excerpt: "\n  \n  \n\n  «La fuga narrativa di Tom Stafford è uno dei saggi più interessanti\

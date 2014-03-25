@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-09-02 12:25:16+00:00
 excerpt: '<strong>Rachel Syme</strong>: "What is worth fighting for in the new landscape

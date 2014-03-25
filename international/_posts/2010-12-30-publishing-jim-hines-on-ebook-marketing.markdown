@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-30 10:35:15+00:00
 excerpt: "\n  \n  \n\n  «Here's the problem. It is all very well having your book\

@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: false
 date: 2013-02-12 17:56:34+00:00
 excerpt: '<strong>About us: </strong>love according 40k style'
@@ -27,7 +27,7 @@ So we thought to pick some weird book for Valentine's Day. Put aside those choco
 
 **LOVE IS DOUBLE**
 
-[![Bruce Sterling - The Parthenopean Scalpel](http://www.40kbooks.com/wp-content/uploads/Parthenopean_eng_t.jpeg)](http://www.amazon.com/The-Parthenopean-Scalpel-ebook/dp/B0044XV1XE/ref=pd_sim_dbs_kinc_1?ie=UTF8&m=AG56TWVU5XWC2)«I love both her and them. I have come to understand that she is what they are. A woman accepts a man, expecting that he will change. A man takes a woman, expecting that she will never change. They are both disappointed. Yet within this very disappointment is the primal source of all new men and all new women.»
+«I love both her and them. I have come to understand that she is what they are. A woman accepts a man, expecting that he will change. A man takes a woman, expecting that she will never change. They are both disappointed. Yet within this very disappointment is the primal source of all new men and all new women.»
 
 **[Buy](http://www.amazon.com/dp/B0044XV1XE/)**
 
@@ -36,24 +36,21 @@ So we thought to pick some weird book for Valentine's Day. Put aside those choco
 
 **LOVE IS A MEMORY**
 
-[![Mike Resnick - Keepsakes](http://www.40kbooks.com/wp-content/uploads/Ricordi_Resnick_Eng_t1.jpeg)](http://www.amazon.com/dp/B004S81XH4) «One day they would appear and offer their services, and sometime later they would leave, their coffers filled to overflowing with broken dreams and shattered hopes. Oh, they were paid in currency, lots of it-but what they really traded in was misery.
+«One day they would appear and offer their services, and sometime later they would leave, their coffers filled to overflowing with broken dreams and shattered hopes. Oh, they were paid in currency, lots of it-but what they really traded in was misery.
 They had many names, some of their own devising, some not. The one that stuck was the Star Gypsies.»
 
 **[Buy](http://www.amazon.com/dp/B004S81XH4)**
 
 **LOVE IS A FAIRY TALE**
 
-[![Jeff VanderMeer - Greensleeves](http://www.40kbooks.com/wp-content/uploads/greensleeves-dermeer_GB_ok.jpeg)](http://www.amazon.com/dp/B005MZ8VRM) The story of a resigned librarian who can see shades of silence and talks to portraits. A fairy tale romance with a strong sense of fantastic.
+The story of a resigned librarian who can see shades of silence and talks to portraits. A fairy tale romance with a strong sense of fantastic.
 A story with a big frog.
 
 **[Buy](http://www.amazon.it/dp/B004X6UGD8/)**
 
-
-
-
 **LOVE IS SMART**
 
-[![Daniel Pealrman - The Vatican's Secret Cabinet](http://www.40kbooks.com/wp-content/uploads/vatican-pearlman_GB_ok_t.jpeg)](http://www.amazon.com/The-Vaticans-Secret-Cabinet-ebook/dp/B005LJESB2/ref=cm_lmf_tit_4) «Although he did not know exactly how Delfinia had amassed her magnificent gallery holdings, he knew she had been the lover of some of the best-promoted names in current Italian painting, and friends of his even suggested that for a while she had run a most elegant upper-class brothel where artists of repute were encouraged to pay in canvas.»
+«Although he did not know exactly how Delfinia had amassed her magnificent gallery holdings, he knew she had been the lover of some of the best-promoted names in current Italian painting, and friends of his even suggested that for a while she had run a most elegant upper-class brothel where artists of repute were encouraged to pay in canvas.»
 
 **[Buy](http://www.amazon.com/The-Vaticans-Secret-Cabinet-ebook/dp/B005LJESB2/ref=cm_lmf_tit_4)**
 
@@ -61,7 +58,7 @@ A story with a big frog.
 
 **LOVE IS MUSIC**
 
-[![Kristine Kathryn Rusch - Except the Music](http://www.40kbooks.com/wp-content/uploads/exceptthmusic_eng_t1.png)](http://www.amazon.com/Except-The-Music-ebook/dp/B0042G009O/ref=cm_cr_pr_product_top) «He wound his way through the curtain pulls and the old flats that lined the backstage area. The piano sat on the stage, covered in a cloth.
+«He wound his way through the curtain pulls and the old flats that lined the backstage area. The piano sat on the stage, covered in a cloth.
 He crossed the stage, pushed the bench back and sat, hands resting on the keyboard cover. After a moment, he took off the cloth, and uncovered the keyboard. He rested his fingers on the keys, but didn’t depress them, simply sitting there for a moment, in the dark and silent auditorium, and closed his eyes.
 He belonged here. Not on a stage, but with a piano. It was the only place he felt alive. »
 

@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-02-21 21:31:44+00:00
 excerpt: 'Jacob Appel has won many awards: Boston Review (1998), New Millennium (2004,

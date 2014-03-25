@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-30 10:21:44+00:00
 excerpt: "\n  \n  \n\n  «La strategia del cyborg è un (mini)saggio che ho trovato\

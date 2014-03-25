@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-10-02 06:03:33+00:00
 excerpt: '<strong>Peter Preston</strong>: "The book isn''t dead. The novel isn''t

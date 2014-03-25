@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-14 09:17:21+00:00
 excerpt: "\n  \n  \n\n  «Lo stile di Máximo Chein è coinvolgente e invoglia alla lettura.\

@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-08-18 06:58:49+00:00
 excerpt: '<strong>Mike Shatzkin</strong>: "To analyze the competition between the

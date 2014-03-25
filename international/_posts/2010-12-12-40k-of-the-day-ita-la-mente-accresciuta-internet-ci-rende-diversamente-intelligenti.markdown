@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-12 09:37:42+00:00
 excerpt: "  \n  \n\n  «Un saggio \"da leggere per fugare paure assurde ed anacronistiche\

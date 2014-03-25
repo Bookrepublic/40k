@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-28 18:57:08+00:00
 excerpt: "\n  \n  \n\n  «Books give people information, entertainment, and education.\

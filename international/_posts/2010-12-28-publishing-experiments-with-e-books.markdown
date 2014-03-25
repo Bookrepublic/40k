@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-28 09:44:01+00:00
 excerpt: "\n  \n  \n\n  «So I decided to experiment. In October, I put my out-of-print\

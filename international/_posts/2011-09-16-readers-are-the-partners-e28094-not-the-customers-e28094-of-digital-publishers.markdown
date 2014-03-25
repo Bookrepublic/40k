@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-09-16 20:11:02+00:00
 excerpt: '<strong>Giuseppe Granieri</strong>: "You must build the brand awareness

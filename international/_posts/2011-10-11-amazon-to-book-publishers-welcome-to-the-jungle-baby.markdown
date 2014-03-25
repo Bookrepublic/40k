@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-10-11 16:34:56+00:00
 excerpt: '<strong>Matthew Ingram</strong>: "The Eisler deal is yet another wake-up

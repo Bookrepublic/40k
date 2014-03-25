@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-11 20:29:15+00:00
 excerpt: "  \n  \n\n  «Ted Chiang: My usual process is to start with the ending. The\

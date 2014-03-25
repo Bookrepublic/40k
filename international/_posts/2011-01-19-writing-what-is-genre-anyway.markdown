@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-01-19 07:52:07+00:00
 excerpt: "\n  \n  \n\n  «Ask the man in the street what science fiction is and he'll\

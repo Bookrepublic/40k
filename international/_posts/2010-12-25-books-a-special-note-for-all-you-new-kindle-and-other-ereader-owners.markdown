@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-25 09:14:59+00:00
 excerpt: "\n  \n  \n\n  «It's pretty clear by now that ebooks and ereaders are a fully\

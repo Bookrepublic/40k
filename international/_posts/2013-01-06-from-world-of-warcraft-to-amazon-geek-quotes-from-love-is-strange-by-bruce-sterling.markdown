@@ -23,7 +23,7 @@ Best of all, it's a romance likely to appeal equally to men and women, tech fanc
 
 We picked some geek quotes for you:
 
-**![](http://www.40kbooks.com/wp-content/uploads/liscover.jpg)The music business is the walking dead!**
+**The music business is the walking dead!**
 
 «Eliza opened her furry black satchel. She pulled out a portable CD player. “Gav, look here. Once, I loved this machine. Because it plays all my CDs. But nobody buys music in the stores any more! Even I don’t pay for music, and I’m rich! I’m carrying a zombie in my purse!”  
 “Well, yes, that platform is obsolete now, but a new business model will arise for music.”  
@@ -42,9 +42,7 @@ The clerk was stunned.  "You're Level Eighty?!  Are you Horde, or Alliance?"
 "What, are you kidding me?  I'm Horde, of course!  I'm a Level Eighty Undead Priestess.  What Guild are you in?"  
 "I'm a Horde Blood Elf Paladin. Level 30.  I'm in the Blood Roses Guild."  
 "Have you ever seen a 'Spectral Tiger' loot card?  I bet you never have."  
-The museum clerk thought about her situation.  The psychic pressure was mounting on her.    She was in a state of moral anguish.  "Look, Signora, I'd love to help your American clients there... But if my director knew I was Warcrafting here at work, she'd  kill me!  Besides, you don't have any 'Spectral Tiger' in your purse, I bet."
-
-_  
+The museum clerk thought about her situation.  The psychic pressure was mounting on her.    She was in a state of moral anguish.  "Look, Signora, I'd love to help your American clients there... But if my director knew I was Warcrafting here at work, she'd  kill me!  Besides, you don't have any 'Spectral Tiger' in your purse, I bet." 
 _
 
 **Jeff Bezos and his private space rocket**

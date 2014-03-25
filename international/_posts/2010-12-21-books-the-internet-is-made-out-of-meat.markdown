@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-21 08:15:47+00:00
 excerpt: "  \n  \n\n  «We may be barking up the wrong tree in thinking of intelligence\

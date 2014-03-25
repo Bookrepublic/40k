@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-01-04 16:26:25+00:00
 excerpt: "\n  \n  \n\n  «Ah yes, the Amazon Sales Rank: that addictive bit of eye\

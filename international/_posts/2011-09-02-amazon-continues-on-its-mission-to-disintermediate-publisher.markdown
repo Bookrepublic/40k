@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-09-02 15:29:53+00:00
 excerpt: '<strong>Matthew Ingram</strong>: "Connecting authors directly with readers

@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-02-19 15:44:25+00:00
 excerpt: Professor of Marketing Research in the Ulster Business School, Stephen Brown

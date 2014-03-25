@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-08-17 08:57:24+00:00
 excerpt: '<strong>Mashable</strong>: "Much like Pandora assigns specific qualities

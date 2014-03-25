@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-14 15:54:56+00:00
 excerpt: "\n  \n  \n\n  «Prior to cutting the price to 99 cents on November 1, the\

@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-27 08:54:56+00:00
 excerpt: "\n  \n  \n\n  «If you're the lucky receiver of a Kindle this Christmas,\

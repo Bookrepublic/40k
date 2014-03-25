@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-09-07 07:47:09+00:00
 excerpt: '<strong>Craig Mod</strong>: "Future-book design is not merely about font

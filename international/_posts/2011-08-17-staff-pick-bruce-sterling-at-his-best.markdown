@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-08-17 15:51:51+00:00
 excerpt: Why you should read it?

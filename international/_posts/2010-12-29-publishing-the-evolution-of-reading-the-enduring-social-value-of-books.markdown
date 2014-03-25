@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-29 10:50:22+00:00
 excerpt: "\n  \n  \n\n  «Now that the revolution is here, Stein says publishers should\

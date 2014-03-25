@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-08-24 20:01:21+00:00
 excerpt: '<strong>Gabe Habash</strong>: "For writers, are Kindle Singles the new New

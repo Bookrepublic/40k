@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-10-26 19:27:24+00:00
 excerpt: '<strong>Short Fiction Week</strong>: Dario Tonani: "Some critics still persist

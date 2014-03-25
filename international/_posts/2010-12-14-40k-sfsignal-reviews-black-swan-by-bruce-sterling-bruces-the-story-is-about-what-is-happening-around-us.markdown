@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-14 20:50:35+00:00
 excerpt: "\n  \n  \n\n  «In this story, Sterling presents a near future (several,\

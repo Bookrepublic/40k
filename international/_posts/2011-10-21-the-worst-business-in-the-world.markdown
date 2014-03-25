@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-10-21 12:51:23+00:00
 excerpt: '<strong>Ben Tarnoff</strong>: "E-books are to publishers today what subscription

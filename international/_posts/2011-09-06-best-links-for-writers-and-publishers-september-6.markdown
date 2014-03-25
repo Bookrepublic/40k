@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-09-06 17:02:53+00:00
 excerpt: '<strong>Change in Publishing</strong>: links you may have missed in the

@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-01-16 19:12:21+00:00
 excerpt: "  \n  \n\n  «I don't know how many DRM opponents have the interest or patience\

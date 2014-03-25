@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-13 07:30:57+00:00
 excerpt: "  \n  \n\n  «At first glance, that seems reasonably compelling. Let's comprehensively\

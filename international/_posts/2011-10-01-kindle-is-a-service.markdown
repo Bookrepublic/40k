@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-10-01 16:36:47+00:00
 excerpt: '<strong>Jenn Webb</strong>: "Amazon''s long game isn''t to sell hardware,

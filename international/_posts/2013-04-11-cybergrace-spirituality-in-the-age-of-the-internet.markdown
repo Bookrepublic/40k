@@ -9,7 +9,7 @@ categories:
 - international
 ---
 
-[![Cybergrace, Antonio Spadaro](http://www.40kbooks.com/wp-content/uploads/cybersito.jpg)](http://www.amazon.com/dp/B00CAT9E8I/) **THE BOOK**
+**THE BOOK**
 
 How to deal with the question of spirituality in the age of the internet? The popular opinion that there is no space for spirituality in the technologized world is clearly refuted. Nevertheless we live a time in which the logic of the Net influences the way we think, learn, communicate and maybe believe and pray as well. 
 

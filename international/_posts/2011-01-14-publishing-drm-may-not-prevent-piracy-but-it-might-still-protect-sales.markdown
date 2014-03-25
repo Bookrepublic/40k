@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-01-14 07:10:33+00:00
 excerpt: "\n  \n  \n\n  «But casual sharing is another matter, or so it seems to me.\

@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-17 10:00:05+00:00
 excerpt: "\n  \n  \n\n  «Of course, as we all now realize, the 21st century is proving\

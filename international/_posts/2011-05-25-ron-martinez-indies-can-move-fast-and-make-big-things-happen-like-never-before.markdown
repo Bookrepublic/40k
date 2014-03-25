@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-05-25 18:58:29+00:00
 excerpt: Ron Martinez is the founder of aerbook, and its parent company, Invention

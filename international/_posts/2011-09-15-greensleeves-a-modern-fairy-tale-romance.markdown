@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-09-15 20:37:18+00:00
 excerpt: 'Just released: A story with a big frog.'

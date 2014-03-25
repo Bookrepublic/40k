@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-10-28 13:15:45+00:00
 excerpt: '<strong>Short Fiction Week</strong>: John Sundman: "A short story generally

@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-09-19 12:32:29+00:00
 excerpt: '<strong>Thomas Baekdal</strong>: "The value drops. Nobody wins. The authors

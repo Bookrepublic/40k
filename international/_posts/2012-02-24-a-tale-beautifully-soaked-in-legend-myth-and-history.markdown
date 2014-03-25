@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: false
 date: 2012-02-24 20:39:14+00:00
 excerpt: <strong>Just published:</strong> "Ghost Dancing with Manco Tupac" by Jeff
@@ -12,7 +12,7 @@ categories:
 - international
 ---
 
-**![](http://www.40kbooks.com/wp-content/uploads/ghost_sito.jpg)THE STORY**
+**THE STORY**
 
 The last living descendent of the Incas, on his deathbed, tells a reporter the story of how he led a Spanish Conquistador, to a lost city of Incan gold. Now the question is: that man was or not Pizzarro?
 
@@ -34,22 +34,7 @@ The only honest answer, ever.
 
 Jeff VanDerMeer, World Fantasy Award winner, is a full time fantasy best seller author. You can also read his essays and reviews for The Washington Post Book World, Publishers Weekly, The New York Times Book Review, and many others.
 
-**YOU MAY ALSO LIKE**
 
-
-
-
-
-
-
-
-[![](http://www.40kbooks.com/wp-content/uploads/cory_sito.jpg)](http://www.40kbooks.com/?page_id=133&category=13&product_id=80)
-
-
-[![](http://www.40kbooks.com/wp-content/uploads/wpsc/product_images/cardanica-tonani_USA-nero5.jpg)](http://www.40kbooks.com/?page_id=133&category=13&product_id=75)
-
-
-[![](http://www.40kbooks.com/wp-content/uploads/colonel-pearlman_GB_okf.jpg)](http://www.40kbooks.com/?page_id=133&category=22&product_id=68)
 
 
 

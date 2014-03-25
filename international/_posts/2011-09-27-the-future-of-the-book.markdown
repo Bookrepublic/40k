@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-09-27 19:58:35+00:00
 excerpt: '<strong>Sam Harris</strong>: "If your book is 600 pages long, you are demanding

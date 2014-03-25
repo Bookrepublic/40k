@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-09-26 12:40:28+00:00
 excerpt: '<strong>Elizabeth Minkel</strong>: "Book sales might be dropping, but for

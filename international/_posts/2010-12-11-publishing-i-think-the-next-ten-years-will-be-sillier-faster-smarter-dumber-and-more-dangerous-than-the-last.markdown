@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-11 20:46:21+00:00
 excerpt: "  \n  \n\n  «I think the Next Ten years will be sillier, faster, smarter,\

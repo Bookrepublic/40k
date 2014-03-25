@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-30 10:58:54+00:00
 excerpt: "  \n  \n\n  «Wikiworld, romanzo breve (novelette, in gergo letterario) di\

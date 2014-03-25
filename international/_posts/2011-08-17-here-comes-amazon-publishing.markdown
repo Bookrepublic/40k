@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-08-17 13:11:57+00:00
 excerpt: '<strong>Guardian</strong>: Amazon.com has made the first "major" acquisition

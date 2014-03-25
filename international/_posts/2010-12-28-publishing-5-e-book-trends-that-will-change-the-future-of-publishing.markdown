@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-28 10:04:16+00:00
 excerpt: "\n  \n  \n\n  «The five trends Philip Ruppel (president of McGraw-Hill Professional)\

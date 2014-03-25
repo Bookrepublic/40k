@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: false
 date: 2013-01-02 10:53:52+00:00
 excerpt: 'Cory Doctorow, Paul Di Filippo, Richard Nash, Ted Striphas, Matthew Battles,
@@ -17,8 +17,7 @@ categories:
 - Writing
 ---
 
-![Bruce Sterling](http://www.40kbooks.com/wp-content/uploads/200px-Bruce_Sterling.jpg)****  
-_We just published the brand new novel by Bruce Sterling, [Love Is Strange](http://www.amazon.com/dp/B00ASBPAWY/)._
+We just published the brand new novel by Bruce Sterling, [Love Is Strange](http://www.amazon.com/dp/B00ASBPAWY/)._
 
 _[Cory Doctorow](http://twitter.com/doctorow), [Paul Di Filippo](http://it.wikipedia.org/wiki/Paul_Di_Filippo), _[Richard Nash](http://twitter.com/R_Nash), _[Ted Striphas](https://twitter.com/striphas),** **[Matthew Battles](http://twitter.com/MatthewBattles), [Marianne de Pierres](http://twitter.com/mdepierres), [Giuseppe Granieri](http://twitter.com/gg), [John Sundman](https://twitter.com/jsundmanus), [Nils Gilman](https://twitter.com/nils_gilman), [Giuliana Guazzaroni](https://twitter.com/elearningoddess) asked @Bruces their questions_.
 
@@ -32,7 +31,7 @@ Well, for us moderns, this perennial predicament isn't entirely in the charge of
 
 We're also a lot keener on big data and social mapping than anybody ever was before, because we've got really large big data and we more or less just invented social maps. We're alway excited by breakthroughs that haven't bored us and become banal and useful yet.
 
-![](http://www.40kbooks.com/wp-content/uploads/liscover.jpg)**[Giuseppe Granieri](http://twitter.com/gg): In [LOVE IS STRANGE](http://www.amazon.com/dp/B00ASBPAWY/), Gavins says: «I may dress like a nerd, but I can read trends».  
+**[Giuseppe Granieri](http://twitter.com/gg): In [LOVE IS STRANGE](http://www.amazon.com/dp/B00ASBPAWY/), Gavins says: «I may dress like a nerd, but I can read trends».  
 Could you pick 5 trends ****to watch in the next 5 years?**
 
 ****I can pick the trends, but you'll only really watch them if they somehow capture your imagination. The number one trend in the world, the biggest, the most important trend, is climate change. People hate watching it; they either flinch in guilty fear or shudder away in denial, but it makes a deeper, more drastic difference to your future than anything else that is happening now.
@@ -105,5 +104,3 @@ Well, the monument there is almost certainly "As We May Think" by Vannevar Bush,
 
 I'm a big fan of "augmented reality," but I think the field is going to break up into a wide variety of applications, devices and approaches, some more significant, others less. Augmented Reality is generally important because it's one of those grand, metaphysical quests in computer science -- what is reality, what can we do to reality? The answer is that "reality" is not in any particular danger from computer science, but you might find out some interesting things that would never show up if you asked simpler questions, such as, say, "how do we write some code to paste video snippets onto this handheld screen."
 
-**  
-**

@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-28 21:54:20+00:00
 excerpt: "\n  \n  \n\n  «7. The customer is king- Readers will decide which books\

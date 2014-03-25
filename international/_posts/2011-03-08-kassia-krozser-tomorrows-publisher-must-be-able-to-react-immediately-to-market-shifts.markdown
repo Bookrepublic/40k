@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-03-08 18:28:08+00:00
 excerpt: 'Kassia Krozser has seen the future and it is good: more people are reading,

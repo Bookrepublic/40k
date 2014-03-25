@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-10-05 14:41:41+00:00
 excerpt: '<strong>Kinley Levack</strong>: "Yes, Amazon will continue to sell books

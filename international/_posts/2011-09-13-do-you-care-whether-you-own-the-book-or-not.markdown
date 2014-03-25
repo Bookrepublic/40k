@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-09-13 19:37:00+00:00
 excerpt: '<strong>Matthew Ingram</strong>: "A subscription model would make it more

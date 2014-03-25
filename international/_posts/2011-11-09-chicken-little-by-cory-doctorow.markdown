@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-11-09 18:21:05+00:00
 excerpt: '<strong>Just published</strong>: a story with a product designer, jetpacks

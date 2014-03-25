@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-08-29 14:27:48+00:00
 excerpt: 'Joel Friedlander is a book designer, blogger and the author of "A Self-Publisher’s

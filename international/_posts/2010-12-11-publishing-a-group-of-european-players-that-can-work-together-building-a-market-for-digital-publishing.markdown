@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-11 14:56:28+00:00
 excerpt: "  \n  \n\n  «Existing speakers Peter Brentley, Michael Meyer, \nRichard\

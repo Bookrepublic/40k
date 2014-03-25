@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-30 15:37:37+00:00
 excerpt: "  \n  \n\n  «Gaia giveth even as she taketh away.\n\nThe warming of the\

@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: false
 date: 2012-02-21 16:44:39+00:00
 excerpt: <strong>Change in Publishing:</strong> links you may have missed in the last
@@ -22,7 +22,7 @@ Amazon is winning the book publishing wars, primarily because they are succeedin
 
 **AMAZON IS CREATING COMPETITION, NOT KILLING IT**
 
-![](http://www.40kbooks.com/wp-content/uploads/amz.jpg)The big topic (again) seems to be whether Amazon is a monopoly, or is heading in that direction, and whether they should be “stopped” (although, I’m never quite sure what that entails exactly).
+The big topic (again) seems to be whether Amazon is a monopoly, or is heading in that direction, and whether they should be “stopped” (although, I’m never quite sure what that entails exactly).
 Barry Eisler dealt with this fear, rather conclusively, back in October in a guest post on Joe Konrath’s blog.
 But lately, the hysteria has been ratcheted up a notch by Mike Shatzkin’s sensible prediction that Amazon will soon be responsible for 50% of most publisher’s sales (I can’t link to Mike’s original piece at the moment, there seems to be a problem with his site, but Passive Guy quotes the main points).
 [David Gaughran](http://davidgaughran.wordpress.com/2012/02/17/1786/)

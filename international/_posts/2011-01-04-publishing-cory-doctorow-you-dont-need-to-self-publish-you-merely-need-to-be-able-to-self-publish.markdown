@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-01-04 09:59:30+00:00
 excerpt: "  \n  \n\n  «You don't need to self-publish to get a better deal from a\

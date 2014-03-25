@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: false
 date: 2013-03-03 19:00:41+00:00
 excerpt: RIP Daniel Pearlman

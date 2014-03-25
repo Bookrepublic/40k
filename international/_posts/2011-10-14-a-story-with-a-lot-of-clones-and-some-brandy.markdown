@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-10-14 14:54:18+00:00
 excerpt: <strong>Just released:</strong> A story with a lot of clones and some brandy.

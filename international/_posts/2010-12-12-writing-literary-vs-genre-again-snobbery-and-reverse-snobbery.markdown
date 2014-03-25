@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-12 21:01:47+00:00
 excerpt: "  \n  \n\n  «So it follows that genre tends to rely on a simpler reader\

@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2011-12-09 15:41:00+00:00
 excerpt: <strong>Just published:</strong> The Grinding House, by Kaaron Warren

@@ -1,5 +1,5 @@
 ---
-author: 40k team
+author: 40k Team
 comments: true
 date: 2010-12-11 11:47:06+00:00
 excerpt: "  \n\n  «&lt;i&gt;The one forecast I've seen consistently since that time\
