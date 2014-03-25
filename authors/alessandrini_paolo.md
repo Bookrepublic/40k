@@ -1,3 +1,4 @@
+---
 layout: autore
 nome: Paolo
 cognome: Alessandrini 
