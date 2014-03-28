@@ -16,7 +16,7 @@ state: catalogo
 bookrepublic: http://www.bookrepublic.it/book/9788898001668-crisi-didentita-identico-e-diverso-tra-matematica-letteratura-e-gioco/
 kindle: http://www.amazon.it/didentit%C3%A0-Identico-matematica-letteratura-Altramatematica-ebook/dp/B00JAJ935U/
 drm: Social DRM
-quote: "RT @marcofulviobarozzi: Crisi d’identità: identico e diverso, ma
+quote: "RT @Popinga1: Crisi d’identità: identico e diverso, ma
 leggerlo o meno non è lo stesso."
 meta:
 cover_image:
