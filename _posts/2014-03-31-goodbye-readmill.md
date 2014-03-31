@@ -21,7 +21,7 @@ Con questo [epilogo](https://readmill.com/epilogue) Readmill si congeda dalla su
 <blockquote class="twitter-tweet" lang="it" align="center"><p>Today we begin saying goodbye as we prepare for our next chapter. Please read the full announcement here: <a href="http://t.co/RtE0AmbZeS">http://t.co/RtE0AmbZeS</a></p>&mdash; Readmill (@Readmill) <a href="https://twitter.com/Readmill/statuses/449608583471435777">28 Marzo 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-Forse uno delle più belle applicazioni di lettura, Readmill è stato fondato tre anni fa da [Henrik Berggren](https://twitter.com/henrikberggren) e [David Kjelkerud](https://twitter.com/davidkjelkerud).
+Forse una delle più belle applicazioni di lettura, Readmill è stato fondato tre anni fa da [Henrik Berggren](https://twitter.com/henrikberggren) e [David Kjelkerud](https://twitter.com/davidkjelkerud).
 
 Sappiamo che la tecnologia digitale influenza profondamente le modalità con cui possiamo fruire dei contenuti e le forme che assumono le nostre relazioni sociali. 
 
