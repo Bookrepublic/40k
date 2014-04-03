@@ -7414,7 +7414,7 @@ figure img {
   padding-top: 0px !important;
 }
 .f-no-padding-bottom {
-  padding-top: 0px !important;
+  padding-bottom: 0px !important;
 }
 .f-extra-padding-right {
   padding-right: 10px;
@@ -7581,6 +7581,27 @@ figure img {
   display: table-cell;
   vertical-align: middle;
   float: none;
+}
+@media (max-width: 992px) and (min-width: 769px) {
+  .f-img-vertical-align-bottom {
+    display: table-cell;
+    vertical-align: bottom;
+    float: none;
+  }
+}
+@media (max-width: 1200px) and (min-width: 993px) {
+  .f-img-vertical-align-bottom {
+    display: table-cell;
+    vertical-align: bottom;
+    float: none;
+  }
+}
+@media (min-width: 1200px) {
+  .f-img-vertical-align-bottom {
+    display: table-cell;
+    vertical-align: bottom;
+    float: none;
+  }
 }
 h1 a,
 h2 a,
@@ -9242,4 +9263,12 @@ a.btn {
 }
 .international__about .international__about__meta {
   float: left;
+}
+.guida_autori__cover {
+  background: url("/static/img_cover/guida_autori_cover.jpg") no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
 }

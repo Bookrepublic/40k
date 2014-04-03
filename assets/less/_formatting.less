@@ -141,7 +141,7 @@
 }
 
 .f-no-padding-bottom {
-	padding-top: 0px !important;
+	padding-bottom: 0px !important;
 }
 
 .f-extra-padding-right {
@@ -300,6 +300,32 @@ p.f-lead-resize {
 	display:table-cell;
     vertical-align:middle;
     float:none;
+}
+
+.f-img-vertical-align-bottom {
+
+    @media (max-width: @screen-xs-min)	{
+		
+	}
+    @media (max-width: @screen-sm-min) and (min-width: (@screen-xs-min + 1)) {
+		
+    }
+    @media (max-width: @screen-md-min) and (min-width: (@screen-sm-min + 1)) {
+		display:table-cell;
+    	vertical-align:bottom;
+    	float:none;
+    }
+    @media (max-width: @screen-lg-min) and (min-width: (@screen-md-min + 1)) {
+		display:table-cell;
+    	vertical-align:bottom;
+    	float:none;
+    }
+    @media (min-width: @screen-lg-min) {
+    	display:table-cell;
+    	vertical-align:bottom;
+    	float:none;
+    }
+
 }
 
 h1, h2, h3, h4, h5, h6,
