@@ -7,6 +7,11 @@
 <!-- lo slidemenu a sinistra -->
 <div id="right-panel" class="slidepanel">
     <p><i class="fa fa-backward fa-2x" id="close-panel-bt"></i></p>
+    <h3>Speciale!</h3>
+    <ul class="fa-ul">
+      <li><i class="fa-li fa fa-ambulance {% if page.url == '/guida_autori/index.html' %}fa-spin{% endif %}"></i><a href="/guida_autori/">Guida per autori</a></li>
+    </ul>
+    <hr>
     <ul class="fa-ul">
     {% if page.path contains 'international' %}
       <li><i class="fa-li fa fa-home {% if page.url == '/international/index.html' %}fa-spin{% endif %}"></i><a href="/international/">Home</a></li>
