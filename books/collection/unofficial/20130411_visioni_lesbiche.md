@@ -12,7 +12,7 @@ price: 0.99€
 format: epub
 lang: italiano
 date: 2013-04-11
-state:
+state: catalogo
 bookrepublic:
 kindle:
 drm: Social DRM
