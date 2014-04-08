@@ -18,7 +18,7 @@ percent: 90
 bookrepublic: 
 kindle: 
 drm: Social DRM
-quote: "RT @italiaterapia Hai mai pensato a #Roma come a una #terapia? Noi sì e ti sfidiamo col nostro #ebook, #RomaTerapia"! Scopri la capitale, scopri te stesso!"
+quote: "RT @italiaterapia Hai mai pensato a #Roma come a una #terapia? Noi sì e ti sfidiamo col nostro #ebook, #RomaTerapia! Scopri la capitale, scopri te stesso!"
 meta:
 cover_image:
 ---
