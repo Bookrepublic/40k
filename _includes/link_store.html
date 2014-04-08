@@ -2,12 +2,18 @@
 
 <div class="well">
 {% if page.bookrepublic %}
-    <a href="{{ page.bookrepublic }}" type="button" class="btn btn-primary btn-lg btn-block">
-      <span class="glyphicon glyphicon-heart"></span>
-       Bookrepublic
-    </a>
+  <a href="{{ page.bookrepublic }}" type="button" class="btn btn-primary btn-lg btn-block">
+    <span class="glyphicon glyphicon-heart"></span>
+    Bookrepublic
+  </a>
 {% endif %}
 {% if page.kindle %}
-    <a href="{{ page.kindle }}" type="button" class="btn btn-default btn-lg btn-block">Amazon</a>
-</div>
+  <a href="{{ page.kindle }}" type="button" class="btn btn-default btn-lg btn-block">Amazon</a>
 {% endif %}
+{% if page.isbn == 9788898001576 %}
+  <p class="text-center">oppure</p>
+  <div class="btn-block">
+    <iframe src="http://www.paywithatweet.com/dlbutton03.php?id=4254971c-a229-46fc-b611-0d05644254fc" name="paytweet_button" scrolling="no" frameborder="no" height="48px" width="100%"></iframe>
+  </div>
+{% endif %}
+</div>
