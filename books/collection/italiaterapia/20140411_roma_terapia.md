@@ -13,7 +13,7 @@ price: 1.99€
 format: epub
 lang: italiano
 date: 2014-04-11
-state: preparazione:
+state: preparazione
 percent: 90
 bookrepublic: 
 kindle: 
