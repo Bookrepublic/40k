@@ -34,7 +34,7 @@ Leggere allarga la mente, senza dubbio, ma l’ampliamento avviene dentro la tes
 
 Interagire con il materiale è d’obbligo. Il popolo multimediale non è fatto per i manuali. È l’ultima cosa che vuole, leggere un manuale. Deve calarsi nella materia e lavorarci da dentro. È abituato a operare in gruppo, in squadra, è multi-tasking, vuole toccare con mano, e realizza fuori dal suo cervello, su uno schermo, tutto quello che un “immigrato” come me era stato abituato a fare dentro. Quello che sto dicendo è che il nostro rapporto con lo schermo è molto complesso, è un rapporto in cui a tutti gli effetti una grande quota delle nostre funzioni cognitive viene data in delega. 
 
-Un [brillante video](www.youtube.com/watch?v=HsJLRX-nK4w) che descrive la “rivoluzione dei media”, dai vecchi ai nuovi, ci fornisce un buon esempio di questo processo. (...) Il lettore digitale e gli studenti <em>always on</em> hanno l’opportunità di crescere con una nuova libertà e responsabilità, grazie al loro connaturato modo di leggere.
+Un [brillante video](http://www.youtube.com/watch?v=HsJLRX-nK4w) che descrive la “rivoluzione dei media”, dai vecchi ai nuovi, ci fornisce un buon esempio di questo processo. (...) Il lettore digitale e gli studenti <em>always on</em> hanno l’opportunità di crescere con una nuova libertà e responsabilità, grazie al loro connaturato modo di leggere.
 
 <em>Continua a leggere [La mente accresciuta](http://40k.it/books/collection/essays/20101203_mente_accresciuta.html) di Derrick de Kerckhove</em>
 
