@@ -13,10 +13,9 @@ price: 1.99€
 format: epub
 lang: italiano
 date: 2014-04-11
-state: preparazione
-percent: 90
-bookrepublic: 
-kindle: 
+state: catalogo
+bookrepublic: http://www.bookrepublic.it/book/9788898001675-roma-terapia/
+kindle: http://www.amazon.it/Roma-Terapia-Italia-Sara-Aguzzoni-ebook/dp/B00JJTE0X6/
 drm: Social DRM
 quote: "RT @italiaterapia Hai mai pensato a #Roma come a una #terapia? Noi sì e ti sfidiamo col nostro #ebook, #RomaTerapia! Scopri la capitale, scopri te stesso!"
 meta:
