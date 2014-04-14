@@ -8,15 +8,16 @@ author:
 categories:
   -  
 collana: 
-price:
-format: 
-lang: 
-date: 
-state: 
+price: €
+format: epub
+lang: italiano
+date:  
+state: catalogo
 bookrepublic: 
 kindle: 
-drm: 
+drm: Social DRM
 quote:
 meta:
 cover_image:
 ---
+
