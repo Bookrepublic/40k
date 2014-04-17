@@ -1,6 +1,8 @@
+{% assign counter = 0 %}
 {% for autore in site.pages %}
   {% for autori in page.author %}
     {% if autore.nome_completo == autori %}
+      {% capture counter %}{{ counter | plus: 1 %}}{% endcapture %}
       <div class="media meta">
         <a class="pull-left" href="{{ autore.url }}">
             <div class="media-object sixty img-circle" style="background: url('{{ site.authorurl_thumb }}/{{ autore.nome | replace:' ','_' | downcase }}_{{ autore.cognome | replace:' ','_' | downcase }}.jpg') no-repeat center center; background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
@@ -17,3 +19,8 @@
     {% endif %}
   {% endfor %}
 {% endfor %}
+{% if counter == 0 %}
+  <div class="media meta">
+    <h4 class="media-heading">{{ page.author | join: ', ' }}</h4>
+  </div>
+{% endif %}
