@@ -52,15 +52,18 @@ layout: default
                                 </a>
                                 <dl>
                                     <dd>
-
+                                        {% assign counter = 0 %}
                                         {% for autore in site.pages %}
                                         {% for autori in book.author %}
                                         {% if autore.nome_completo == autori %}
+                                        {% capture counter %}{{ counter | plus: 1 %}}{% endcapture %}
                                         <a href="{{ autore.url }}"><em>{{ autore.nome }} <span class="aut">{{ autore.cognome }}</span></em></a>
                                         {% endif %}
                                         {% endfor %}
                                         {% endfor %}
-
+                                        {% if counter == 0 %}
+                                        {{ book.author | join: ', ' }}
+                                        {% endif %}
                                     </dd>
                                     <dd><a href="{{ site.baseurl }}books/collection/{{ book.collana }}"><span class="collana">{{ book.collana }}</span></a></dd>
                                 </dl>

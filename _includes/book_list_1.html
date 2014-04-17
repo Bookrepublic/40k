@@ -44,13 +44,18 @@
               <h3 class="f-margin-top f-margin-bottom">{{ book.sottotitolo }}</h3>
             {% endif %}
             <div class="small f-text-center-media">
+            {% assign counter = 0 %}
             {% for autore in site.pages %}
               {% for autori in book.author %}
                 {% if autore.nome_completo == autori %}
+                {% capture counter %}{{ counter | plus: 1 %}}{% endcapture %}
                 <p class="f-margin-top" style="display: inline;"><em><a href="{{ autore.url }}"><span class="nome">{{ autore.nome }}</span> <span class="aut">{{autore.cognome }}</span></a></em><br></p>
                 {% endif %}
               {% endfor %}
             {% endfor %}
+            {% if counter == 0 %}
+              <p class="f-margin-top" style="display: inline;">{{ book.author | join: ', ' }}</p>
+            {% endif %}
             </div>
             {% if book.meta %}
             <p class="small categories f-margin-top f-margin-bottom">{{ book.categories | join:', ' }}</p>
