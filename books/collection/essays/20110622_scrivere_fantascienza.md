@@ -7,7 +7,7 @@ author:
   - Paul Di Filippo 
 categories:
   - scrittura creativa
-collana: stories
+collana: essays
 price: 3.99€
 format: epub
 lang: italiano
