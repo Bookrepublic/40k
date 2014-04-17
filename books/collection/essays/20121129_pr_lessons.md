@@ -7,7 +7,7 @@ author:
   - Daniele Lepido 
 categories:
   - giornalismo
-collana: stories
+collana: essays
 price: 0.99€
 format: epub
 lang: italiano
