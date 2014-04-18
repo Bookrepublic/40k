@@ -1,6 +1,6 @@
 ---
 layout: book
-isbn: 9788898001699
+isbn: 9788898001682
 title: "I ruoli di marketing e comunicazione per le società di calcio: il caso Milan"
 sottotitolo:
 author:
