@@ -13,8 +13,8 @@ format: epub
 lang: italiano
 date: 2014-04-18 
 state: catalogo
-bookrepublic: 
-kindle: 
+bookrepublic: http://www.bookrepublic.it/book/9788898001712-racconti-matematici/
+kindle: http://www.amazon.it/Racconti-matematici-Altramatematica-Spartaco-Mencaroni-ebook/dp/B00JS40DQU/
 drm: Social DRM
 quote: "RT @elegantbear78 Immergiti in un racconto matematico, ma fai attenzione: potresti non trovare più l'uscita."
 meta:
