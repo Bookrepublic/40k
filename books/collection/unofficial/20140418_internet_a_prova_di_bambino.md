@@ -16,7 +16,7 @@ state: catalogo
 bookrepublic: http://www.bookrepublic.it/book/9788898001699-internet-a-prova-di-bambino-come-far-navigare-i-tuoi-figli-in-tutta-sicurezza-con-squid-e-raspberry/
 kindle: http://www.amazon.it/Internet-bambino-navigare-sicurezza-Raspberry-ebook/dp/B00JLLIZJ2/
 drm: Social DRM
-quote: "RT @@iz5wga: Primi passi su internet per i più piccoli? Senza paura con la navigazione sicura"
+quote: "RT @iz5wga: Primi passi su internet per i più piccoli? Senza paura con la navigazione sicura"
 meta:
 cover_image:
 ---
