@@ -21,7 +21,7 @@ attività che svolge attualmente.
 
 È appassionato di fotografia e di scrittura creativa; vive entrambi
 come un modo per comunicare e raggiungere in profondità chi legge e
-chi guarda. E' anche appassionato di storia e dal 2013 è membro
+chi guarda. È anche appassionato di storia e dal 2013 è membro
 dell'Associazione Storica Aretina.
 
 Della sua Toscana ama la carne, purché al sangue, il vino, il
