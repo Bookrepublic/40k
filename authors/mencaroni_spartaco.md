@@ -5,7 +5,7 @@ cognome: Mencaroni
 nome_completo: Spartaco Mencaroni
 meta: 
 cover_autore:
-twitter: @elegantbear78
+twitter: elegantbear78
 facebook:
 linkedin:
 web: http://spartacomencaroni.blogspot.it
