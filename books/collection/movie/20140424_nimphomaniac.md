@@ -13,7 +13,7 @@ format: epub
 lang: italiano
 date: 2014-04-24
 state: catalogo
-bookrepublic: http://www.bookrepublic.it/book/9788898001705/
+bookrepublic: http://www.bookrepublic.it/book/9788898001705-nymphomaniac/
 kindle: 
 drm: Social DRM
 quote: "«Dell’erotismo si può dire che è l’approvazione della vita fin dentro la morte» (Georges Bataille)"
