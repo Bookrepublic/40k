@@ -36,7 +36,7 @@ La “filosofia grafica” che si propone di riprodurre in modo fedele la realt�
 
 Con l'ultimo sistema operativo di Apple, infatti, è iniziato il regno del flat design: una grafica ultra-piatta, inno del minimalismo, che punta dritto all'essenziale, senza fronzoli, espressione di un'esperienza digitale ormai matura che non ha bisogno di simulare la realtà fisica per far comprendere all'utente il proprio funzionamento.
 
-Aldilà degli accorgimenti grafici più o meno scheumorfici, però, il dilemma tra flipping e scrolling resta, tanto che iBooks abilita entrambe le funzionalità. 
+Aldilà degli accorgimenti grafici più o meno scheumorfici, però, il dilemma tra <em>flipping</em> e <em>scrolling</em> resta, tanto che iBooks abilita entrambe le funzionalità. 
   
 L'ebook abita ancora uno spazio ibrido tra il libro e il web: meglio sfogliarlo come un foglio di carta o scorrerlo come una pagina internet?
 
@@ -55,6 +55,6 @@ A pensarci bene, l'<em>infinite scroll</em> adottato ad esempio dalla Home Feed 
 
 Un vantaggio dello scroll per gli ebook riguarda le sottolineature: l'usabilità migliora se è possibile evidenziare un passaggio senza che il gesto sia interrotto dal cambio di pagina (in molte applicazioni - non in iBooks - il risultato è che si spezza in due il testo salvato come evidenziato).
 
-E tu, quale modalità di lettura preferisci? Vota!
+E tu, quale modalità di lettura preferisci? Commenta o rispondi al sondaggio che trovi in questa pagina. Ti basta scrollare in alto :)
 
 
