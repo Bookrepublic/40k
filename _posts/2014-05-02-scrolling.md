@@ -34,11 +34,11 @@ Come scelta di progettazione era coerente con un periodo di transazione al digit
 
 La “filosofia grafica” che si propone di riprodurre in modo fedele la realtà fisica in un ambiente digitale, come gli strappi della carta, la pelle della rilegatura di un taccuino, l'ombra di un pulsante da premere, si chiama [scheumorfismo](http://www.bookrepublic.it/blog/2014/01/15/scheumorfismo-vs-flat-design-colpo-docchio/), considerato ormai superato dopo la release di iOS 7.
 
-Con l'ultimo sistema operativo di Apple, infatti, è iniziato il regno del flat design: una grafica ultra-piatta, inno del minimalismo, che punta dritto all'essenziale, senza fronzoli, espressione di un'esperienza web ormai matura che non ha bisogno di simulare la realtà fisica per far comprendere all'utente il proprio funzionamento.
+Con l'ultimo sistema operativo di Apple, infatti, è iniziato il regno del flat design: una grafica ultra-piatta, inno del minimalismo, che punta dritto all'essenziale, senza fronzoli, espressione di un'esperienza digitale ormai matura che non ha bisogno di simulare la realtà fisica per far comprendere all'utente il proprio funzionamento.
 
 Aldilà degli accorgimenti grafici più o meno scheumorfici, però, il dilemma tra flipping e scrolling resta, tanto che iBooks abilita entrambe le funzionalità. 
   
-L'ebook abita ancora uno spazio ibrido tra il libro e il web: meglio sfogliarlo come un foglio di carta o scorrerlo come una pagina online?
+L'ebook abita ancora uno spazio ibrido tra il libro e il web: meglio sfogliarlo come un foglio di carta o scorrerlo come una pagina internet?
 
 La prima cosa che impariamo quando prendiamo un po' di dimestichezza con gli ebook è che il riferimento al  tradizionale concetto di pagina salta completamente. 
 La formattazione del contenuto è fluida e personalizzabile dall'utente, non esiste una porzione di testo stabile e definita una volta per tutta dai margini della carta. Non si parla ormai più di numero di pagine lette, ma di percentuale di avanzamento di lettura.
