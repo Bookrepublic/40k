@@ -45,7 +45,7 @@ La formattazione del contenuto è fluida e personalizzabile dall'utente, non esi
 
 Se non esistono più le pagine, perché ostinarsi a sfogliarle? 
 
-Eppure, l'esigenza di un riferimento statico, di una costante a cui appellarsi per citare il testo resta, così come - almeno le prime volte - quel senso psicologico di pausa che la fine della pagina offre al lettore. 
+Eppure, l'esigenza di un riferimento statico, di una costante a cui appellarsi per citare il testo resta, così come resta l'esigenza - almeno le prime volte - di quel senso psicologico di pausa che la fine della pagina offre al lettore. 
 
 Quanto alle citazioni, l'indicazione di capitoli e paragrafi è in molti casi sufficiente, ma grazie al motore di ricerca interno anche il riferimento a stringhe di testo risolve in gran parte il problema. 
 
