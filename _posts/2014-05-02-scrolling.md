@@ -6,7 +6,7 @@ title: "Ebook tra libro e web: meglio sfogliare o scorrere?"
 categories:
 - reading app
 description: "L'ebook abita ancora uno spazio ibrido tra il libro e il web: meglio sfogliarlo come un foglio di carta o scorrerlo come una pagina internet?"
-cover: 
+cover: /static/img/scrolling.jpg
 image: 
 - url:
   caption:
