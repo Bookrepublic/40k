@@ -6,7 +6,7 @@ title: "Scrolling"
 categories:
 - reading app
 description: "L'ebook abita ancora uno spazio ibrido tra il libro e il web: meglio sfogliarlo come un foglio di carta o scorrerlo come una pagina internet?"
-cover: /static/img/sliding_water.jpg
+cover: 
 image: 
 - url:
   caption:
