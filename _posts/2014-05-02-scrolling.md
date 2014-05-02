@@ -16,7 +16,7 @@ image:
   alt:
 tag:
 ---
-<div id="surveyMonkeyInfo"><div><script src="https://www.surveymonkey.com/jsEmbed.aspx?sm=eL7VOi62CqNxqLL4VEBQeA_3d_3d"> </script>
+<div id="surveyMonkeyInfo"><div><script src="https://www.surveymonkey.com/jsEmbed.aspx?sm=eL7VOi62CqNxqLL4VEBQeA_3d_3d"> </script></div>Creato con <a href="https://www.surveymonkey.com">SurveyMonkey</a></div>
 
 Dopo l'annuncio della [chiusura di ReadMill](http://40k.it/blog/2014/03/31/goodbye-readmill/), ho ricominciato a leggere su iBooks, cosa che non facevo su tablet ormai da molto tempo - anche se, devo ammettere, uso spesso la versione desktop per la comodità di averla  a portata di click durante le ore al computer. 
 
@@ -28,7 +28,7 @@ Oggi <em>to scroll</em> è un verbo che indica l'azione di far scorrere dall'alt
 
 Lo scrolling è quindi un gesto che precede e segue un altro tipo di gestualità, a cui però molti lettori tradizionali sono più abituati: lo sfogliare. 
 
-Non è un caso che le prime versione di iBooks - e di molti altre applicazioni - puntassero sul ricreare l'esperienza di lettura della carta con grafica e animazioni volte a simulare la piega del libro sul lato sinistro, il taglio della carta sul lato destro, lo stesso piegarsi del foglio durante lo sfogliamento. 
+Non è un caso che le prime versioni di iBooks - e di molte altre applicazioni - puntassero sul ricreare l'esperienza di lettura della carta, con grafica e animazioni volte a simulare la piega del libro sul lato sinistro, il taglio della carta sul lato destro, lo stesso piegarsi del foglio a seguito dello <em>swipe</em> (il gesto che attiva il cambio di pagina). 
 
 Come scelta di progettazione era coerente con un periodo di transazione al digitale in cui l'utente ha avuto probabilmente più bisogno di essere guidato. 
 
