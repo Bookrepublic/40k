@@ -34,7 +34,7 @@ Peppe Liberti, [Più per meno diviso](http://40k.it/books/collection/altramatema
 
 [SOCIAL TV DI MARTA PEREGO - BOOK TO THE FUTURE, ORE 17:OO](http://www.salonelibro.it/it/programma/details/5516-Social-TV-Marta-Perego-racconta-il-rivoluzionario-incontro-tra-televisione-e-social-network.html)
 
-Che cos’è la Social TV? Come sta cambiando il mondo della comunicazione televisiva? Quanto noi, come spettatori, stiamo modificando il nostro modo di fruire dei contenuti televisivi? [Social TV](http://0.0.0.0:4000/books/collection/bees/20140302_social_tv.html) di Marta Perego vi farà scoprire e ripercorrere la storia della social tv in Italia e nel mondo, riepilogando le case history più importanti degli ultimi tre anni (dalle elezioni americane al Superbowl) ma gettando, soprattutto, lo sguardo verso il futuro.
+Che cos’è la Social TV? Come sta cambiando il mondo della comunicazione televisiva? Quanto noi, come spettatori, stiamo modificando il nostro modo di fruire dei contenuti televisivi? [Social TV](http://40k.it/books/collection/bees/20140302_social_tv.html) di Marta Perego vi farà scoprire e ripercorrere la storia della social tv in Italia e nel mondo, riepilogando le case history più importanti degli ultimi tre anni (dalle elezioni americane al Superbowl) ma gettando, soprattutto, lo sguardo verso il futuro.
 
 Interverranno:<br>
 Marta Perego, giornalista e autrice<br>
