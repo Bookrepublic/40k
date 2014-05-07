@@ -17,7 +17,7 @@ state: catalogo
 bookrepublic: http://www.bookrepublic.it/book/9788898001736-il-grande-torino/
 kindle: http://www.amazon.it/Il-grande-Torino-Immortali-campioni-ebook/dp/B00K1AN5W4/
 drm: Social DRM
-quote: "Una tragedia da maledizione biblica, non meritata dal Torino né dall'Italia (Gianni Brera)"
+quote: "\"Una tragedia da maledizione biblica, non meritata dal Torino né dall'Italia\" (Gianni Brera)"
 meta:
 cover_image:
 ---
