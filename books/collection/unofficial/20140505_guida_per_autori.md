@@ -8,7 +8,7 @@ author:
 categories:
   - editoria
 collana: unofficial
-price: 
+price: 3.99€
 format: epub
 lang: italiano
 date: 2014-05-07
