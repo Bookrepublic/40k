@@ -1,4 +1,10 @@
 <table class="table table-responsive table-striped">
+    {% if page.translator %}
+    <tr>
+        <td>Traduttore:</td>
+        <td>{{ page.translator }}</td>
+    </tr>
+    {% endif %}
     <tr>
         <td>ISBN:</td>
         <td>{{ page.isbn }}</td>

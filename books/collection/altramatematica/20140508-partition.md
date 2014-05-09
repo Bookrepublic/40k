@@ -6,6 +6,8 @@ sottotitolo:
 author:
   - Ira Hauptman
   - Martha Fabbri
+translator:
+  - Martha Fabbri
 categories:
   - matematica
 collana: altramatematica

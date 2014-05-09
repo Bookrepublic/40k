@@ -1,6 +1,7 @@
 <div class="row">
   <div class="list">
-    {% for book in site.pages reversed %}
+    {% assign order_page = site.pages | sort:"name" %}
+    {% for book in order_page reversed %}
     {% if book.layout == 'book' and book.collana == include.collana %}
     {% if page.path contains 'international' %}
       {% if book.lang != 'italiano' %}
