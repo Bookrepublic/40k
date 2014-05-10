@@ -8,7 +8,7 @@ layout: default
     <div class="row">
       <div class="col-md-5 col-sm-5 f-img-vertical-align-bottom">
         <h1>La Guida</h1>
-        <p class="f-text-shadow">Stiamo preparando una guida in ebook per autori alle prese con il digitale e abbiamo deciso di aprire il laboratorio editoriale che c'è alle spalle. Il primo passo è stato quello di condividere <a href="http://ebook.40k.it/guida-autori-editoria-digitale/" target="_blank">il libro in lavorazione</a>, non ancora terminato.</p>
+        <p class="f-text-shadow">Dopo aver aperto il nostro laboratorio editoriale, condividendo apertamente <a href="http://ebook.40k.it/guida-autori-editoria-digitale/" target="_blank">il libro ancora in lavorazione</a>, dopo aver chiesto ai lettori di votare la copertina, finalmente la <em>Guida per autori alle prese con l'editoria digitale</em> di 40k è in libreria! </p>
       </div>
       <div class="col-md-7 col-sm-7 f-img-vertical-align-bottom">
         <img class="img-responsive" src="/static/img/40k_guida_introduction.png">
@@ -17,28 +17,70 @@ layout: default
   </div> 
 </section>
 
-<section class="jumbotron white f-text-center-to-justify">
-  <div class="container">
-    <h3>Questa volta sono stati i lettori a scegliere la copertina.</h3>
-    <p class="lead">Il secondo passo è stato chiedere a voi di aiutarci a scegliere la copertina, tra le due che abbiamo selezionato:</p>
-    <div class="text-center">
-    <img src="/static/img/winneris.jpg" class="img-responsive">
-    </div>
-    <p class="lead">Grazie ai vostri voti, abbiamo un vincitore. Con le sue 119 preferenze ha vinto la cover con la lampada, contro le 26 per la cover con il computer. Eccola: </p>
+{% for page in site.pages %}
+{% if page.isbn == 9788898001743 %}
+
+<div class="container-fluid two_column f10x-margin-bottom f10x-margin-top">
     <div class="row">
-      <div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2"
-        <div class="text-center">
-          <img data-original="/static/img/coverlampada.jpg" class="img-responsive lazy">
-        </div>
-      </div>
-    <h3>Grazie a tutti per aver votato!</h3>
+        <aside class="col-md-4 col-md-offset-1 col-sm-4 col-sm-offset-1">
+            <img class="img-responsive" src="{{ site.coverurl }}/{{ page.isbn }}.jpg" alt="{{ page.title }}" title="{{ page.title }}">
+            <div class="hidden-xs f5x-margin-top f5x-margin-bottom">
+            {% if page.bookrepublic %}
+              <a href="{{ page.bookrepublic }}" type="button" class="btn btn-primary btn-lg btn-block">
+                <span class="glyphicon glyphicon-heart"></span>
+                Bookrepublic
+              </a>
+            {% endif %}
+            {% if page.kindle %}
+              <a href="{{ page.kindle }}" type="button" class="btn btn-default btn-lg btn-block">Amazon</a>
+            {% endif %}
+            </div>
+        </aside>
+        <article class="col-md-6 col-sm-6">
+
+            <h1>{{ page.title }}</h1>
+
+            {% if page.sottotitolo %}
+            <h2>{{ page.sottotitolo }}</h2>
+            {% endif %}
+
+            {% include author_list.html %}
+
+            <p class="visible-xs">
+            </p>
+
+            <div class="visible-xs f5x-margin-bottom">
+            {% if page.bookrepublic %}
+              <a href="{{ page.bookrepublic }}" type="button" class="btn btn-primary btn-lg btn-block">
+                <span class="glyphicon glyphicon-heart"></span>
+                Bookrepublic
+              </a>
+            {% endif %}
+            {% if page.kindle %}
+              <a href="{{ page.kindle }}" type="button" class="btn btn-default btn-lg btn-block">Amazon</a>
+            {% endif %}
+            </div>
+
+            <p>Hai scritto un libro. E adesso? Inizia a contare. Fermati quando l'interesse generale pioverà su di te senza che tu muova un dito. Vediamo a che numero arrivi. Oppure alza la testa, sbarra gli occhi e drizza le antenne, il duro lavoro inizia ora.</p> 
+
+            <p>Se hai scritto un libro perché hai qualcosa da dire e vuoi condividerlo, ho una notizia per te: devi darti molto da fare per incontrare il tuo pubblico.</p> 
+
+            <p>Inutile sperare nel riconoscimento dei posteri, di certo arriverà troppo tardi. Anche quello delle principali case editrici in genere non è puntualissimo. Devi muoverti ora e devi farlo con intelligenza.</p> 
+
+            <p>Questa è una guida che ha l’obiettivo di aiutarti a raggiungere i lettori, rispondendo ad alcune domande che, se non stai ancora contando, ti devi fare. Dove sono lettori? Che fine hanno fatto le librerie? Qual è oggi il ruolo dell'editore? Che differenza c'è tra vanity press e selfpublishing? Che cosa c'entra il crowdfunding con i libri?</p> 
+
+            <p>Durante la lettura attraverserai un percorso che porta oltre il libro come siamo abituati a conoscerlo. Oltre il libro tradizionale, quello stampato su carta che si compra nelle librerie fisiche, verso le opportunità offerte dagli ebook, dalle librerie online e dal social reading. Ma anche oltre gli ebook, verso un nuovo modo di intendere l’attività di storytelling che supera i limiti dei prodotti editoriali definiti una volta per tutte e prende vita in rete.</p>
+
+            <p>La sfida di chi crea contenuti oggi è infrangere i confini del libro per imparare ad aprirsi ai lettori. Tu sei pronto?</p> 
+
+            <p>Attenzione: questa edizione comprende un capitolo speciale che spiega i trucchi per vendere il tuo libro su Amazon.</p>
+
+        </article>
     </div>
-  </div>
-  <div class="text-align">
-    <a class="twitter-timeline" href="https://twitter.com/40kBooks/timelines/453446001064701952" data-widget-id="453473770611552256">#cover40k</a>
-    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-  </div>
-</section>
+</div>
+
+{% endif %}
+{% endfor %}
 
 <section class="jumbotron arancio f-margin-bottom-zero">
   <div class="container">
@@ -63,3 +105,20 @@ layout: default
     </div>
   </div>
 </section>
+
+<section class="jumbotron white f-text-center-to-justify">
+  <div class="container">
+    <h3>Questa volta sono stati i lettori a scegliere la copertina.</h3>
+    <p class="lead">Sei curioso di sapere come si è svolto il sondaggio? Ecco i risultati:</p>
+    <div class="text-center">
+    <img src="/static/img/winneris.jpg" class="img-responsive">
+    </div>
+    <h3>Grazie a tutti per aver votato!</h3>
+    </div>
+  </div>
+  <div class="text-align">
+    <a class="twitter-timeline" href="https://twitter.com/40kBooks/timelines/453446001064701952" data-widget-id="453473770611552256">#cover40k</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+  </div>
+</section>
+

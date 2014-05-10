@@ -1,6 +1,6 @@
 ---
 layout: book
-isbn: 9788898001729
+isbn: 9788898001743
 title: "Guida per autori alle prese con l'editoria digitale"
 sottotitolo:
 author:
