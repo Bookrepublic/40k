@@ -35,9 +35,6 @@
 <meta property="article:tag"        content="{{ tag }}">
 {% endfor %}
 {% endif %}
-{% if page.cover %}
-<meta property="og:image"           content="{{ site.url }}{{ page.cover }}" />
-{% endif %}
 {% if page.image %}
 {% for img in page.image %}
 <meta property="og:image"           content="{{ site.url }}{{ img.url }}">
@@ -45,6 +42,9 @@
 {% endif %}
 {% assign author = site.authors[page.author] %}
 <meta property="og:image"           content="{{ site.url }}/{{ author.image }}" />
+{% if page.cover %}
+<meta property="og:image"           content="{{ site.url }}{{ page.cover }}" />
+{% endif %}
 <!-- Twitter -->
 {% if page.cover %}
 <meta name="twitter:card"           content="summary_large_image">
@@ -100,12 +100,12 @@
 <!-- Facebook -->
 <meta property="fb:app_id"          content="269829379846399" />
 <meta property="fb:profile_id"      content="40kbooks" />
-<meta property="og:type"            content="books.book" /> 
-<meta property="og:url"             content="{{ site.url }}{{ page.url }}" /> 
-<meta property="og:title"           content="{{ page.title }}{% if page.sottotitolo %} {{ page.sottotitolo }}{% endif %}" /> 
-<meta property="og:image"           content="{{ site.url }}{{ site.coverurl }}/{{ page.isbn }}.jpg" /> 
-<meta property="og:description"     content="{{ page.content | strip_html }}" /> 
-<meta property="books:isbn"         content="{{ page.isbn }}" /> 
+<meta property="og:type"            content="books.book" />
+<meta property="og:url"             content="{{ site.url }}{{ page.url }}" />
+<meta property="og:title"           content="{{ page.title }}{% if page.sottotitolo %} {{ page.sottotitolo }}{% endif %}" />
+<meta property="og:image"           content="{{ site.url }}{{ site.coverurl }}/{{ page.isbn }}.jpg" />
+<meta property="og:description"     content="{{ page.content | strip_html }}" />
+<meta property="books:isbn"         content="{{ page.isbn }}" />
 {% for autore in site.pages %}
 {% for autori in page.author %}
 {% if autore.nome_completo == autori %}
