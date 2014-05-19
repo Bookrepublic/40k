@@ -8,12 +8,8 @@ categories:
 description:
 cover: /static/img/mc.jpg
 image: 
-- url:
-  caption:
-  alt:
-- url:
-  caption:
-  alt:
+- url: "static/img/risultati_mc.png"
+  alt: "risultati sondaggio"
 tag:
 ---
 Mariachiara Montera si occupa di Digital Pr, organizza eventi, è una foodwriter e una foodblogger, e soprattutto è freelance. 
@@ -23,7 +19,6 @@ Di che cosa avete bisogno per lavorare da soli e non essere soli? Durante il pri
 
 L'ebook di Mariachiara è quasi pronto, manca solo il tuo contributo: vota la tua copertina preferita, lunedì decreteremo la vincitrice!
 
-<div class="text-center">
-<iframe seamless="seamless" style="border: none; overflow: hidden;" height="450" width="100%" scrolling="no" src="http://assets-polarb-com.a.ssl.fastly.net/api/v4/publishers/filodaria/embedded_polls/iframe?poll_id=178477"></iframe>
-</div>
+{% figure_img img-responsive lazy 0 %}
+
 
