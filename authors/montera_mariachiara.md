@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: autore
 nome: Mariachiara
 cognome: Montera 
 nome_completo: Mariachiara Montera 

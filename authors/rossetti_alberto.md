@@ -1,14 +1,14 @@
 ---
-layout: 
+layout: autore
 nome: Alberto 
 cognome: Rossetti
 nome_completo: 
 meta:
 cover_autore:
-twitter: 
+twitter: alberossetti
 facebook:
 linkedin:
-web: 
+web: http://albertorossetti.com/
 instagram:
 pinterest:
 vine:
