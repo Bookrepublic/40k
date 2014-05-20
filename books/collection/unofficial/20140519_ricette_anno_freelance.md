@@ -11,11 +11,10 @@ collana: unofficial
 price: 0.99€
 format: epub
 lang: italiano
-date: 
-state: preparazione
-percent: 90%
-bookrepublic: 
-kindle: 
+date: 2014-05-20
+state: catalogo
+bookrepublic: http://www.bookrepublic.it/book/9788898001767-ricette-per-un-anno-da-freelance/
+kindle: http://www.amazon.it/Ricette-anno-freelance-Mariachiara-Montera-ebook/dp/B00KFJZC90/
 drm: Social DRM
 quote:
 meta:

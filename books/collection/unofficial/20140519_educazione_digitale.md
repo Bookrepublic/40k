@@ -11,11 +11,10 @@ collana: unofficial
 price: 1.99€
 format: epub
 lang: italiano
-date:  
-state: preparazione
-percent: 90%
-bookrepublic: 
-kindle: 
+date: 2014-05-20
+state: catalogo
+bookrepublic: http://www.bookrepublic.it/book/9788898001729-educazione-digitale/
+kindle: http://www.amazon.it/Educazione-Digitale-Alberto-Rossetti-ebook/dp/B00KFJZCBS/
 drm: Social DRM
 quote:
 meta:
