@@ -20,7 +20,7 @@ Benjamin lavora nel settore dell'<em>information design</em>, ha fondato <em>Int
 
 Che cosa ci faceva un esperto di dati a un convegno dedicato allo storytelling? Per capire di che tipo di "esperto di dati" stiamo parlando, date un'occhiata a [datavisualization.ch](http://datavisualization.ch/). Non di certo il classico analista fissato con xl. 
 
-Benjamin è partito da una considerazione elementare: uno strumento, un qualsiasi strumento, ha lo scopo di aplificare le capacità dell'essere umano e lo fa innanzitutto adattandosi da una parte al soggetto che lo utilizza e dall'altra all'oggetto a cui si applica. <em>Optimized for the human</em>, <em>optimized for the problem</em>: 
+Benjamin è partito da una considerazione elementare: uno strumento, un qualsiasi strumento, ha lo scopo di amplificare le capacità dell'essere umano e lo fa innanzitutto adattandosi da una parte al soggetto che lo utilizza e dall'altra all'oggetto a cui si applica. <em>Optimized for the human</em>, <em>optimized for the problem</em>: 
 {% figure_img img-responsive 0 %}
 Così gli strumenti che utilizziamo per comprendere i dati dovrebbero adattarsi da un lato al problema che devono risolvere (la compresione dei dati, appunto), dall'altro alle caratteristiche delle persone che fruiscono di quelle informazioni.
 
