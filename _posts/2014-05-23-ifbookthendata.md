@@ -43,12 +43,21 @@ Lasciare che lo storytelling guidi la visualizzazione delle informazioni: è que
 
 Or do we tell any of hundreds of other stories embedded inside this vast data set that wait to be discovered and interpreted by users? Who narrates them? Where are they exemplified?</blockquote>
 
-Chi lavora con i dati dovrebbe ricercare un equilibrio tra la visualizzazione intesa come strumento e la visualizzazione intesa come parte di una storia. Solo così è possibile permettere agli utenti di partecipare al racconto dei dati, non di limitarsi a un consumo passivo. 
-Il racconto aiuta la partecipazione che a sua volta favorisce comprensione e memoria. 
+
+Il racconto permette agli utenti di partecipare agli eventi che emergono dalle informazioni, senza limitarsi a un consumo passivo. 
+
+Senza il giusto contesto, il giusto racconto, si rischia di lasciare l'utente allo sbaraglio, in balìa di una mole d'informazione probabilmente giusta, corretta, ma poco significativa perché poco comprensibile. 
+
+Si dice spesso che attraverso le semplici analisi dei dati sia possibile dimostrare qualunque cosa. La rappresentazione dei dati è di certo un gesto ermeneutico che impone una visione parziale, come una fotografia che non corrisponde mai alla realtà “in sé”.
+
+Chi si occupa di visualizzazione dell'informazione dovrebbe cercare il coinvolgimento delle persone nella storia che i dati raccontano. Ma raccontare una storia significa anche lasciare spazio a chi la ascolta perché la interpreti a sua volta. 
+
+In un periodo storico carico di retorica (anche corretta) rispetto all'accesso ai dati da parte del cittadino, è giusto porre grande attenzione non solo alle fonti dei dati ma anche, e soprattutto, a come queste vengono rappresentate e rese comprensibili.
+
+Compito di chi lavora con i dati dovrebbe essere anche e soprattutto ricercare un equilibrio tra la <em>Visualization in Storytelling</em>, la visualizzazione intesa come strumento, e lo <em>Storytelling in Visualization</em>, la visualizzazione intesa come parte di una storia. 
 
 <blockquote>Let the user explore the data set freely after an initial, stylized setting up of the stage.</blockquote>
 
-Quando guardiamo un film tratto da un libro che abbiamo apprezzato, restiamo delusi. La nostra immaginazione ha riempito i vuoti narrativi lasciati dall'autore del libro e quella storia è diventata la nostra storia. Il film è la storia di qualcun altro che ha riempito quei vuoti a modo suo. Anche chi si occupa di visualizzazione dell'informazione dovrebbe cercare il coinvolgimento delle persone nella storia che i dati raccontano. Anche se questo significa lasciare dei vuoti.
 
 
 
