@@ -50,7 +50,7 @@ Senza il giusto contesto, il giusto racconto, si rischia di lasciare l'utente al
 
 Si dice spesso che attraverso le semplici analisi dei dati sia possibile dimostrare qualunque cosa. La rappresentazione dei dati è di certo un gesto ermeneutico che impone una visione parziale, come una fotografia che non corrisponde mai alla realtà “in sé”.
 
-Chi si occupa di visualizzazione dell'informazione dovrebbe cercare il coinvolgimento delle persone nella storia che i dati raccontano. Ma raccontare una storia significa anche lasciare spazio a chi la ascolta perché la interpreti a sua volta. 
+Chi si occupa di visualizzazione dell'informazione dovrebbe ricercare il coinvolgimento delle persone nella storia che i dati raccontano. Ma raccontare una storia significa anche lasciare spazio a chi la ascolta perché la interpreti a sua volta. 
 
 In un periodo storico carico di retorica (anche corretta) rispetto all'accesso ai dati da parte del cittadino, è giusto porre grande attenzione non solo alle fonti dei dati ma anche, e soprattutto, a come queste vengono rappresentate e rese comprensibili.
 
