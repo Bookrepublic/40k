@@ -22,7 +22,7 @@ Che cosa ci faceva un esperto di dati a un convegno dedicato allo storytelling? 
 
 Benjamin è partito da una considerazione elementare: uno strumento, un qualsiasi strumento, ha lo scopo di amplificare le capacità dell'essere umano e lo fa innanzitutto adattandosi da una parte al soggetto che lo utilizza e dall'altra all'oggetto a cui si applica. <em>Optimized for the human</em>, <em>optimized for the problem</em>: 
 {% figure_img img-responsive 0 %}
-Così gli strumenti che utilizziamo per comprendere i dati dovrebbero adattarsi da un lato al problema che devono risolvere (la compresione dei dati, appunto), dall'altro alle caratteristiche delle persone che fruiscono di quelle informazioni.
+Così gli strumenti che utilizziamo per comprendere i dati dovrebbero adattarsi da un lato al problema che devono risolvere (la comprensione dei dati, appunto), dall'altro alle caratteristiche delle persone che fruiscono di quelle informazioni.
 
 A pensarci bene, raccontare una storia significa manipolare delle informazioni: data una serie di eventi cronologici, attraverso il discorso quegli eventi rinascono in una nuova forma narrativa, una tra le tante possibili.
 
