@@ -8,9 +8,9 @@ categories:
 description:
 cover: /static/img/datastories.jpg
 image: 
-- url: "/static/img/tool.jpg"
+- url: "static/img/tool.jpg"
   alt: "Tool"
-- url: "/static/img/minard.jpg"
+- url: "static/img/minard.jpg"
   alt: "Minard"
 tag:
 ---
@@ -18,7 +18,7 @@ Tra gli interventi di ieri a [If Book Then](https://storify.com/ifbookthen/if-bo
 
 Benjamin lavora nel settore dell'<em>information design</em>, ha fondato <em>Interactive Things</em> nel 2010 insieme a Christian Siegrist e Jeremy Stucki e viene da Zurigo. Fa anche parte della task force svizzera <em>Open Government Data</em>.
 
-Che cosa ci faceva un esperto di dati a un convegno dedicato allo storytelling? Per capire di che tipo di "esperto di dati" stiamo parlando, date un'occhiata a [datavisualization.ch](http://datavisualization.ch/). Non di certo il classico analista fissato con xl. 
+Che cosa ci faceva un esperto di dati a un convegno dedicato allo storytelling? Per capire di che tipo di "esperto di dati" stiamo parlando, date un'occhiata a [datavisualization.ch](http://datavisualization.ch/). Non di certo il classico analista con la mente imprigionata nelle celle di un foglio xl. 
 
 Benjamin è partito da una considerazione elementare: uno strumento, un qualsiasi strumento, ha lo scopo di amplificare le capacità dell'essere umano e lo fa innanzitutto adattandosi da una parte al soggetto che lo utilizza e dall'altra all'oggetto a cui si applica. <em>Optimized for the human</em>, <em>optimized for the problem</em>: 
 {% figure_img img-responsive 0 %}
