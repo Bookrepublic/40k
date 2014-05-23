@@ -5,7 +5,7 @@ layout: post
 title: If Data Then Stories
 categories:
 - eventi
-description:
+description: "Che cosa ci faceva un esperto di dati a un convegno dedicato allo storytelling?"
 cover: /static/img/datastories.jpg
 image: 
 - url: "static/img/tool.jpg"
