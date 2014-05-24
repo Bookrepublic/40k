@@ -22,18 +22,18 @@ Che cosa ci faceva un esperto di dati a un convegno dedicato allo storytelling? 
 
 Benjamin è partito da una considerazione elementare: uno strumento, un qualsiasi strumento, ha lo scopo di amplificare le capacità dell'essere umano e lo fa innanzitutto adattandosi da una parte al soggetto che lo utilizza e dall'altra all'oggetto a cui si applica. <em>Optimized for the human</em>, <em>optimized for the problem</em>: 
 {% figure_img img-responsive 0 %}
-Così gli strumenti che utilizziamo per comprendere i dati dovrebbero adattarsi da un lato al problema che devono risolvere (la comprensione dei dati, appunto), dall'altro alle caratteristiche delle persone che fruiscono di quelle informazioni.
+
+Così gli strumenti che usiamo per comprendere i dati dovrebbero adattarsi sia al problema che devono risolvere (la comprensione dei dati, appunto), sia alle caratteristiche delle persone che fruiscono di quelle informazioni.
 
 A pensarci bene, raccontare una storia significa manipolare delle informazioni: data una serie di eventi cronologici, attraverso il discorso quegli eventi rinascono in una nuova forma narrativa, una tra le tante possibili.
 
-Così, la marcia di Napoleone verso la Russia può essere rappresentata dalla spettacolare mappa di Charles Joseph Minard, probabilmente uno dei più grandi esempi di visualizzazione delle informazioni: 
-
+Così, la marcia di Napoleone in Russia può essere rappresentata dalla spettacolare mappa di Charles Joseph Minard, probabilmente uno dei più grandi esempi di visualizzazione delle informazioni: 
 
 {% figure_img img-responsive 1 %}
 
-Ma qual è davvero la storia che ci racconta la mappa di Minard? Certo, la marcia di Napoleone in Russia. Ma, ci chiede Benjamin, racconta la storia di migliaia di soldati che morirono in battaglia, attraversando la Beresina o per fame, oppure quella di un enorme numero che decresce nel tempo e attraverso lo spazio? 
+Qual è davvero la storia che ci racconta la mappa di Minard? Quella di un enorme numero che decresce nel tempo e attraverso lo spazio, o quella di migliaia di soldati che morirono in battaglia, attraversando la Beresina o per fame? 
 
-L'essere umano ha bisogno di risposte sia alle sue domande razionali, sia a sui bisogni emotivi. La proposta di Benjamin Wiederkehr è quella di tenere unite queste due esigenze anche quando si tratta di visualizzare informazioni. 
+L'essere umano è alla ricerca di risposte tanto alle sue domande razionali quanto ai suoi bisogni emotivi. La proposta di Benjamin Wiederkehr è quella di tenere unite queste due esigenze anche quando si tratta di visualizzare informazioni. 
 
 <blockquote>What if we could satisfy the need for the analytical and the desire for the emotional? Visualization in Storytelling or Storytelling in Visualization? The first uses information visualizations as part of a story and the second uses storytelling principles when creating information visualizations.</blockquote>
 
@@ -43,18 +43,17 @@ Lasciare che lo storytelling guidi la visualizzazione delle informazioni: è que
 
 Or do we tell any of hundreds of other stories embedded inside this vast data set that wait to be discovered and interpreted by users? Who narrates them? Where are they exemplified?</blockquote>
 
-
 Il racconto permette agli utenti di partecipare agli eventi che emergono dalle informazioni, senza limitarsi a un consumo passivo. 
 
-Senza il giusto contesto, il giusto racconto, si rischia di lasciare l'utente allo sbaraglio, in balìa di una mole d'informazione probabilmente giusta, corretta, ma poco significativa perché poco comprensibile. 
+Senza il giusto contesto, il giusto racconto, si rischia di lasciare l'utente in balìa di una mole d'informazione probabilmente giusta, corretta, ma poco significativa perché poco comprensibile. 
 
 Si dice spesso che attraverso le semplici analisi dei dati sia possibile dimostrare qualunque cosa. La rappresentazione dei dati è di certo un gesto ermeneutico che impone una visione parziale, come una fotografia che non corrisponde mai alla realtà “in sé”.
 
-Chi si occupa di visualizzazione dell'informazione dovrebbe ricercare il coinvolgimento delle persone nella storia che i dati raccontano. Ma raccontare una storia significa anche lasciare spazio a chi la ascolta perché la interpreti a sua volta. 
+Proprio per questo chi si occupa di visualizzazione dell'informazione dovrebbe ricercare il coinvolgimento delle persone nella storia che i dati raccontano, perché raccontare una storia significa anche lasciare spazio a chi la ascolta perché la interpreti a sua volta. 
 
-In un periodo storico carico di retorica (anche corretta) rispetto all'accesso ai dati da parte del cittadino, è giusto porre grande attenzione non solo alle fonti dei dati ma anche, e soprattutto, a come queste vengono rappresentate e rese comprensibili.
+In un periodo storico carico di retorica (anche corretta) rispetto all'accesso ai dati da parte del cittadino, è giusto porre grande attenzione non solo alle fonti dei dati ma anche a come queste vengono rappresentate e rese comprensibili.
 
-Compito di chi lavora con i dati dovrebbe essere anche e soprattutto ricercare un equilibrio tra la <em>Visualization in Storytelling</em>, la visualizzazione intesa come strumento, e lo <em>Storytelling in Visualization</em>, la visualizzazione intesa come parte di una storia. 
+Chi lavora con i dati dovrebbe darsi come obiettivo la ricerca un equilibrio tra la <em>Visualization in Storytelling</em>, la visualizzazione intesa come strumento, e lo <em>Storytelling in Visualization</em>, la visualizzazione intesa come parte di una storia. 
 
 <blockquote>Let the user explore the data set freely after an initial, stylized setting up of the stage.</blockquote>
 
