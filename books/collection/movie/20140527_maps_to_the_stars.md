@@ -8,7 +8,7 @@ author:
 categories:
   - movie
 collana: 40kMovie
-price: 2.99€
+price: 2.99€ (in promozione al prezzo lancio di 1.99€)
 format: epub
 lang: italiano
 date: 2014-05-27 
