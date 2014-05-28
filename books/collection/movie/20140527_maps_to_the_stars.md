@@ -14,7 +14,7 @@ lang: italiano
 date: 2014-05-27 
 state: catalogo
 bookrepublic: http://www.bookrepublic.it/book/9788898001774-maps-to-the-stars/
-kindle: 
+kindle: http://www.amazon.it/Maps-Stars-Alfredo-Gatto-ebook/dp/B00KL8VHWG/
 drm: Social DRM
 quote:
 meta:
