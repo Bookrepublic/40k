@@ -8,10 +8,10 @@ author:
 categories:
   -  ambiente, marketing
 collana: econote
-price: €
+price: 1.99€
 format: epub
 lang: italiano
-date:  
+date: 2014-05-28 
 state: catalogo
 bookrepublic: http://www.bookrepublic.it/book/9788898001781-bike-marketing-come-la-bici-fa-bene-al-tuo-business/
 kindle: http://www.amazon.it/Bike-Marketing-Come-business-Econote-ebook/dp/B00KM5N7X0/ 
