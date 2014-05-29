@@ -16,7 +16,7 @@ state: catalogo
 bookrepublic: http://www.bookrepublic.it/book/9788898001781-bike-marketing-come-la-bici-fa-bene-al-tuo-business/
 kindle: http://www.amazon.it/Bike-Marketing-Come-business-Econote-ebook/dp/B00KM5N7X0/ 
 drm: Social DRM
-quote: "RT @milaorlando Il marketing della bicicletta aiuta il tuo brand. Inizia a pedalare!"
+quote: "Il marketing della bicicletta aiuta il tuo brand Inizia a pedalare!"
 meta:
 cover_image:
 ---
