@@ -8,7 +8,7 @@ cover_autore:
 twitter: mrpalomar
 facebook: https://www.facebook.com/misterpalomar 
 linkedin:
-web: misterpalomar.blogspot.com
+web: http://misterpalomar.blogspot.com
 instagram:
 pinterest:
 vine:
