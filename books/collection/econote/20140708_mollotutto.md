@@ -13,7 +13,7 @@ format: epub
 lang: italiano
 date:  
 state: preparazione
-percentuale: 80%
+percent: 80
 bookrepublic: 
 kindle: 
 drm: Social DRM
