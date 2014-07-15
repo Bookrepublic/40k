@@ -12,12 +12,11 @@ price: 1.99€
 format: epub
 lang: italiano
 date:  2014-07-08
-state: preparazione
-percent: 80
-bookrepublic: 
-kindle: 
+state: catalogo
+bookrepublic: http://www.bookrepublic.it/book/9788898001996-manuale-per-viaggiare-low-cost/
+kindle: http://www.amazon.it/Manuale-per-viaggiare-low-cost-ebook/dp/B00LON16SW/
 drm: Social DRM
-quote:
+quote: "C'è chi pensa che un viaggio low cost sia fatto di privazioni, notti in ostello e fast food. Si sbaglia di grosso."
 meta:
 cover_image:
 ---
