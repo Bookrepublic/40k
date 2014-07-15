@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: autore
 nome: Stefano
 cognome: Chiarazzo
 nome_completo: Stefano Chiarazzo
