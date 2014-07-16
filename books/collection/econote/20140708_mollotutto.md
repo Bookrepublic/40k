@@ -6,18 +6,17 @@ sottotitolo:
 author:
   - Antonio Benforte
 categories:
-  -  
+  - ambiente
 collana: 
 price: €
 format: epub
 lang: italiano
-date:  
-state: preparazione
-percent: 80
-bookrepublic: 
-kindle: 
+date: 2014-07-16
+state: catalogo
+bookrepublic: http://www.bookrepublic.it/book/9788898001859-mollo-tutto-e-cambio-vita/
+kindle: http://www.amazon.it/Mollo-tutto-cambio-vita-Econote-ebook/dp/B00LTQUGGW/
 drm: Social DRM
-quote:
+quote: "È sempre il momento giusto per cambiare strada e cercare la felicità altrove. Basta scegliere."
 meta:
 cover_image:
 ---
