@@ -7,7 +7,7 @@ author:
   - Antonio Benforte
 categories:
   - ambiente
-collana: 
+collana: econote
 price: €
 format: epub
 lang: italiano
