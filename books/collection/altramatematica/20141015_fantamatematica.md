@@ -1,6 +1,6 @@
 ---
 layout: book
-isbn:
+isbn: 9788865866467
 title: "Fantamatematica"
 sottotitolo:
 author:
