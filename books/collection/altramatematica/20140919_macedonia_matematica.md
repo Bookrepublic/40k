@@ -17,7 +17,7 @@ bookrepublic: http://www.bookrepublic.it/book/9788898001798-macedonia-di-matemat
 kindle: http://www.amazon.it/Macedonia-matematica-Altramatematica-Paolo-Gangemi-ebook/dp/B00NQ9G4ES/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1412756340&sr=1-1&keywords=macedonia+di+matematica
 drm: Social DRM
 quote: "RT @uncasopaologico Matematica narrativa in piccoli bocconi leggeri"
-meta:
+meta: "Raccontare storie è l’unica forma di letteratura che non passerà mai di moda. E se nelle storie c’è un po’ di matematica, l’importante è comunque il piacere della lettura."
 cover_image:
 ---
 

@@ -7,17 +7,17 @@ author:
   - Spartaco Mencaroni
 categories:
   - matematica
-collana: altramatematica 
+collana: altramatematica
 price: 1.99€
 format: epub
 lang: italiano
-date: 2014-04-18 
+date: 2014-04-18
 state: catalogo
 bookrepublic: http://www.bookrepublic.it/book/9788898001712-racconti-matematici/
 kindle: http://www.amazon.it/Racconti-matematici-Altramatematica-Spartaco-Mencaroni-ebook/dp/B00JS40DQU/
 drm: Social DRM
 quote: "RT @elegantbear78 Immergiti in un racconto matematico, ma fai attenzione: potresti non trovare più l'uscita."
-meta:
+meta: "Questo libro è dedicato ad entrambe le tipologie di lettori; comunque la pensino sulla matematica, fra queste pagine potranno scoprire almeno uno degli infiniti mondi che racchiude."
 cover_image:
 ---
 Questo libro contiene racconti matematici.

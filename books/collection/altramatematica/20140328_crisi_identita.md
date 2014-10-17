@@ -4,7 +4,7 @@ isbn: 9788898001668
 title: "Crisi d’identità"
 sottotitolo: "Identico e diverso tra matematica, letteratura e gioco"
 author:
-  - Marco Fulvio Barozzi 
+  - Marco Fulvio Barozzi
 categories:
   - matematica
 collana: altramatematica
@@ -18,7 +18,7 @@ kindle: http://www.amazon.it/didentit%C3%A0-Identico-matematica-letteratura-Altr
 drm: Social DRM
 quote: "RT @Popinga1: Crisi d’identità: identico e diverso, ma
 leggerlo o meno non è lo stesso."
-meta:
+meta: "L’identità è un concetto fondamentale per ogni tipo di ragionamento, dalla speculazione filosofica alla dimostrazione matematica. Senza di essa non sarebbe possibile neanche molta letteratura."
 cover_image:
 ---
 L’identità è un concetto fondamentale per ogni tipo di ragionamento, dalla speculazione filosofica alla dimostrazione matematica. Senza di essa non sarebbe possibile neanche molta letteratura. In queste pagine si raccontano in modo leggero e attento le caratteristiche fondamentali dell’identità, facendo ricorso anche ai molti esempi in cui essa sembra andare in crisi, come l’autoreferenza paradossale, l’autoricorsione, l’ossimoro, l’autodefinizione, aspetti che presentano spesso indubbi risvolti umoristici e giocosi. Per meglio comprendere che cosa sia l’identità bisogna però guardarla dal di fuori, tenendo presente che la sua fotografia sulla carta d’identità risulta sempre un po’ sfocata.
