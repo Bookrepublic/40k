@@ -14,7 +14,7 @@ lang: italiano
 date:  2014-10-21
 state: catalogo
 bookrepublic: http://www.bookrepublic.it/book/9788865866214-manuale-di-sopravvivenza-per-pessime-madri/
-kindle:
+kindle: http://www.amazon.it/Manuale-sopravvivenza-per-pessime-madri-ebook/dp/B00OQG6RK6/ref=sr_1_1?ie=UTF8&qid=1413974285&sr=8-1&keywords=manuale+di+sopravvivenza+per+pessime+madri
 drm: Social DRM
 quote: "RT  @ceraunavodka  La pessima madre è una che ha avuto una pessima idea, ma la esegue ottimamente"
 meta: "C'è una cosa che dovete sapere: le pessime madri non esistono. O meglio, non esiste un solo tipo di pessima madre."
