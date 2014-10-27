@@ -7,7 +7,7 @@ author:
   - Lucrezia Sarnari
 categories:
   -  famiglia
-collana: Unofficial
+collana: unofficial
 price: 1.99€
 format: epub
 lang: italiano
