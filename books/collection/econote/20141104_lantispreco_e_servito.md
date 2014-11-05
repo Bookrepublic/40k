@@ -13,8 +13,8 @@ format: epub
 lang: italiano
 date:  2014-11-04
 state: catalogo
-bookrepublic:
-kindle:
+bookrepublic: http://www.bookrepublic.it/book/9788865866221-lantispreco-e-servito/
+kindle: http://www.amazon.it/Lantispreco-servito-Econote-Alessandra-Mazzotta-ebook/dp/B00P82JZDS/ref=sr_1_1?ie=UTF8&qid=1415183013&sr=8-1&keywords=antispreco+è+servito
 drm: Social DRM
 quote: "Tutti a tavola, l'antispreco è servito! Consigli utili e ricette per ridurre gli sprechi alimentari #sprecoalimentare #cibo"
 meta:
