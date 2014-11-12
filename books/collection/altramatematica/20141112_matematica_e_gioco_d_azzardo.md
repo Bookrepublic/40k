@@ -17,7 +17,8 @@ state: catalogo
 bookrepublic:
 kindle:
 drm: Social DRM
-quote: "RT @zzar Esiste un sistema infallibile per vincere al lotto" "RT @elegantbear78 Non si tratta di stabilire come vincere al gioco, ma di capire in tempo quando non si sta più giocando"
+quote: "RT @zzar Esiste un sistema infallibile per vincere al lotto
+RT @elegantbear78 Non si tratta di stabilire come vincere al gioco, ma di capire in tempo quando non si sta più giocando"
 meta: ""Un bel gioco dura poco": eppure per molti il gioco non è un semplice momento di divertimento, ma una vera e propria malattia. Proprio come succede per il fumo, non è vero che si può smettere di farlo quando si vuole."
 cover_image:
 ---
