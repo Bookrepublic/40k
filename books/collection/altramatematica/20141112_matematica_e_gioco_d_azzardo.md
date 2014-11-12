@@ -14,8 +14,8 @@ format: epub
 lang: italiano
 date:  2014-11-12
 state: catalogo
-bookrepublic:
-kindle:
+bookrepublic: http://www.bookrepublic.it/book/9788865866238-matematica-e-gioco-dazzardo/
+kindle: http://www.amazon.it/Matematica-e-gioco-dazzardo-Altramatematica-ebook/dp/B00PIOXNLG/ref=sr_1_2?ie=UTF8&qid=1415836357&sr=8-2&keywords=matematica+e+gioco+d%27azzardo
 drm: Social DRM
 quote: "Esiste un sistema infallibile per vincere al lotto - Non si tratta di stabilire come vincere al gioco, ma di capire in tempo quando non si sta più giocando"
 meta: "Un bel gioco dura poco: eppure per molti il gioco non è un semplice momento di divertimento, ma una vera e propria malattia. Proprio come succede per il fumo, non è vero che si può smettere di farlo quando si vuole."
