@@ -3,7 +3,7 @@ layout: autore
 nome: Spartaco
 cognome: Mencaroni
 nome_completo: Spartaco Mencaroni
-meta:
+meta: Nato ad Arezzo nel 1978. Dopo la laurea in medicina e la specializzazione in medicina preventiva si è occupato di valutazione dei percorsi sanitari e direzione medica ospedaliera, attività che svolge attualmente.
 cover_autore:
 twitter: elegantbear78
 facebook: https://www.facebook.com/spartacomencaroni
