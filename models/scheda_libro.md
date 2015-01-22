@@ -1,23 +1,22 @@
 ---
 layout: book
-isbn: 
+isbn:
 title: ""
 sottotitolo:
 author:
-  - 
+  -
 categories:
   -  
-collana: 
+collana:
 price: €
 format: epub
 lang: italiano
 date:  
 state: catalogo
-bookrepublic: 
-kindle: 
+bookrepublic:
+kindle:
 drm: Social DRM
 quote:
 meta:
 cover_image:
 ---
-
