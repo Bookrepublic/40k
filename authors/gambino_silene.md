@@ -9,7 +9,7 @@ twitter: slythrs
 facebook: https://www.facebook.com/slythrs
 linkedin:
 web: www.econote.it
-instagram: @slythr
+instagram: slythr
 pinterest:
 vine:
 google:
