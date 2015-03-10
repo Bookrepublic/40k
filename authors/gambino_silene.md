@@ -8,8 +8,8 @@ cover_autore:
 twitter: slythrs
 facebook: https://www.facebook.com/slythrs
 linkedin:
-web: www.econote.it
-instagram: slythr
+web: http://www.econote.it
+instagram: https://instagram.com/slythr/
 pinterest:
 vine:
 google:
