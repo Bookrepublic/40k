@@ -3,7 +3,7 @@ layout: autore
 nome: Aldo
 cognome: Spinelli
 nome_completo: Aldo Spinelli
-meta:
+meta: "aldo spinelli è primo soltanto nel numero dei suoi anni. Ha iniziato a produrre oggetti in forma d’arte da n<sup>2</sup> anni dove n è la base del triangolare del suo numero preferito che per di più è perfetto."
 cover_autore:
 twitter: aldo_spinelli
 facebook:
