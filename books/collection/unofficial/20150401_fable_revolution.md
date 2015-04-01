@@ -4,7 +4,7 @@ isbn: 9788865861264
 title: "Fable Revolution"
 sottotitolo: Come una favola ha rivoluzionato i videogiochi
 author:
-  - Domenico Attaniese
+  - Domenico Attianese
 categories:
   -  giochi
 collana: unofficial
