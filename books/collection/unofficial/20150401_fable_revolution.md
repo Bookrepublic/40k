@@ -14,7 +14,7 @@ lang: italiano
 date: 2015-04-01
 state: catalogo
 bookrepublic: https://www.bookrepublic.it/book/9788865861264-fable-revolution-come-una-favola-ha-rivoluzionato-i-videogiochi/
-kindle:
+kindle: http://www.amazon.it/Fable-Revolution-favola-rivoluzionato-videogiochi-ebook/dp/B00VIKWAOK/ref=sr_1_1?ie=UTF8&qid=1429005897&sr=8-1&keywords=fable+revolution
 drm: Social DRM
 quote:  "@AttianeseDom Ogni mostro che uccidete, ogni persona che salvate, ogni gioiello che rubate, buoni o malvagi, cambierete il mondo per sempre."
 meta: "Quante volte avete ucciso e la polizia si è dimenticata di voi? Quante volte avete rubato e nessuno ha detto nulla? Quante volte avete distrutto di tutto senza che nessuno facesse nulla? Fable ha cambiato tutto questo."
