@@ -6,7 +6,7 @@ sottotitolo: La liberazione d'Italia, 1945-2015
 author:
 - AA.VV.
 categories:
--  attualità
+-  giornalismo
 collana: lastampa
 price: 1.49€
 format: epub
