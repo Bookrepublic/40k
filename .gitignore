@@ -1,4 +1,5 @@
 bin/
 .bundle/
+.minimagick-cache/
 _site/
 .idea/
