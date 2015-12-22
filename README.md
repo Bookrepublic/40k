@@ -97,3 +97,12 @@ fixed in serve.rb by adding s.config.store(:DirectoryIndex, s.config[:DirectoryI
 @media (max-width: @screen-md-min) and (min-width: (@screen-sm-min + 1)) {  }
 @media (max-width: @screen-lg-min) and (min-width: (@screen-md-min + 1)) {  }
 @media (min-width: @screen-lg-min) {  }
+
+# Deploy
+
+Loggarsi come deploy sul server 'wordpress.bookrepublic.it'.
+
+```
+cd /var/www/40k.it/source
+rake generate
+```
