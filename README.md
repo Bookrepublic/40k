@@ -105,5 +105,6 @@ Loggarsi come deploy sul server 'wordpress.bookrepublic.it'.
 ```
 cd /var/www/40k.it/source
 git pull
+bundle
 rake generate
 ```
