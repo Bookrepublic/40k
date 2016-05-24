@@ -17,7 +17,7 @@ encoding: UTF-8
 category_dir: /blog/categories/
 category_international_dir: /international/blog/ 
 
-exclude: ['README.md', Gemfile, Gemfile.lock, less, models]
+exclude: ['README.md', Gemfile, Gemfile.lock, less, models, vendor]
 
 sitemap:
     file: "/sitemap.xml"

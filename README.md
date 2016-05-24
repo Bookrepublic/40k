@@ -92,7 +92,7 @@ fixed in serve.rb by adding s.config.store(:DirectoryIndex, s.config[:DirectoryI
 
 ###Media query
 
-@media (max-width: @screen-xs-min){  }
+@media (max-width: @screen-xs-min) {  }
 @media (max-width: @screen-sm-min) and (min-width: (@screen-xs-min + 1)) {  }
 @media (max-width: @screen-md-min) and (min-width: (@screen-sm-min + 1)) {  }
 @media (max-width: @screen-lg-min) and (min-width: (@screen-md-min + 1)) {  }
@@ -105,6 +105,6 @@ Loggarsi come deploy sul server 'wordpress.bookrepublic.it'.
 ```
 cd /var/www/40k.it/source
 git pull
-bundle
-rake generate
+bundle --path vendor/bundle
+bundle exec rake generate
 ```
